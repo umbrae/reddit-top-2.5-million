@@ -1,0 +1,1252 @@
+created_utc,score,domain,id,title,author,ups,downs,num_comments,permalink,selftext,link_flair_text,over_18,thumbnail,subreddit_id,edited,link_flair_css_class,author_flair_css_class,is_self,name,url,distinguished
+1362680818.0,612,imgur.com,19uwoo,How I comment function calls with a lot of parameters,JasonCole,868,256,199,http://www.reddit.com/r/readablecode/comments/19uwoo/how_i_comment_function_calls_with_a_lot_of/,,,False,,t5_2wk7l,False,,,False,t3_19uwoo,http://imgur.com/C9kOjXh,
+1362690162.0,174,self.readablecode,19v962,Collapsing If Statements,InsaneWookie,206,32,163,http://www.reddit.com/r/readablecode/comments/19v962/collapsing_if_statements/,"Something I see new developers do (I've been guilty of this as well) is create if statements when not required.
+
+Something like this:
+
+    valueAsBolean = false;
+    if(userInputValue == ""Yes"")
+    {
+        valueAsBoolean = true;
+    }
+
+Where it can be written as:
+
+    valueAsBoolean = (userInputValue == ""Yes"");
+
+Edit:
+It's not about performance.
+
+
+I think this subreddit is going to have some strong debate. 
+Everyone likes their code their way.",,False,,t5_2wk7l,1362694014.0,,,True,t3_19v962,http://www.reddit.com/r/readablecode/comments/19v962/collapsing_if_statements/,
+1366635336.0,114,sites.google.com,1cuzds,Signs that you're a bad programmer,Psyladine,133,19,43,http://www.reddit.com/r/readablecode/comments/1cuzds/signs_that_youre_a_bad_programmer/,,,False,,t5_2wk7l,False,,,False,t3_1cuzds,https://sites.google.com/site/yacoset/Home/signs-that-you-re-a-bad-programmer,
+1362698693.0,109,self.readablecode,19vkkz,"Do you guys ""align"" your code into columns?",13467,116,7,109,http://www.reddit.com/r/readablecode/comments/19vkkz/do_you_guys_align_your_code_into_columns/,"What I'm talking about is... when you have, for example, some code like this:
+
+    foo = ""abc"";
+    bar1 = ""defDEF"";
+    baz = ""ghi"";
+    baz1 = ""jklm"";
+
+I simply can't resist changing it to:
+
+    foo  = ""abc"";
+    bar1 = ""defDEF"";
+    baz  = ""ghi"";
+    baz1 = ""jklm"";
+
+It could be about aligning anything -- types, operators, values, etc. Often I even make multiple columns:
+
+    abcd = hello(34, 12) +   fgh( 2,  3);
+    foo  =  boop( 1,  5) + thing(12, 19);
+
+It looks a lot cleaner, but I've heard people complain about how it's harder to edit. Maybe it's okay for lines that form a ""block"" of logically related expressions of which you're sure you'll never end up adding or removing lines... what do you think?",,False,,t5_2wk7l,False,,,True,t3_19vkkz,http://www.reddit.com/r/readablecode/comments/19vkkz/do_you_guys_align_your_code_into_columns/,
+1362692827.0,77,github.com,19vcul,[Doom 3 source code] Considered by many to be very well written code,hak8or,91,14,34,http://www.reddit.com/r/readablecode/comments/19vcul/doom_3_source_code_considered_by_many_to_be_very/,,,False,,t5_2wk7l,False,,,False,t3_19vcul,https://github.com/TTimo/doom3.gpl,
+1362716306.0,73,repeatgeek.com,19w5tq,Types of commenting to avoid,iimpact,81,8,24,http://www.reddit.com/r/readablecode/comments/19w5tq/types_of_commenting_to_avoid/,,,False,,t5_2wk7l,False,,,False,t3_19w5tq,http://repeatgeek.com/career/5-types-of-comments-to-avoid-making-in-your-code/,
+1362669353.0,70,self.readablecode,19uizj,Limerick I received for my birthday a while back...,smurfhits,144,74,54,http://www.reddit.com/r/readablecode/comments/19uizj/limerick_i_received_for_my_birthday_a_while_back/,"Not exactly ""good code"" but a bit of fun.
+
+    if(day.event('birth') == true
+    &amp;&amp; friend.type['rel'] == 'crew') {
+    for (x=1;
+    // do until done
+    print ('hipp hipp haroo');
+    }
+
+This subreddit could become interesting, but I think there should be some ground rules. Is this a place where you ask for feedback or is it's purpose just to be inspirational? Are posts like this one ok - or should we keep it more serious?",,False,,t5_2wk7l,False,,,True,t3_19uizj,http://www.reddit.com/r/readablecode/comments/19uizj/limerick_i_received_for_my_birthday_a_while_back/,
+1366820689.0,64,self.readablecode,1d0n7o,Is it OK to split long functions and methods into smaller ones even though they won't be called by anything else?,exizt,74,10,32,http://www.reddit.com/r/readablecode/comments/1d0n7o/is_it_ok_to_split_long_functions_and_methods_into/,"Lately I've been trying to split long methods into several short ones. 
+
+For example: I have a 'process_url()' function which splits URLs into components and then assigns them to some objects via their methods. Instead of implementing all this in one function, I only prepare the URL for splitting in 'process_url()', and then pass it over to 'process_components()' function, which then passes the components to 'assign_components()' function. 
+
+At first, this seemed to improve readability, because instead of huge 'God' methods and functions I had smaller ones with more descriptive names. 
+
+However, looking through some code I've written that way, I've found that I now have no idea whether these smaller functions are called by any other functions or methods. 
+
+Continuing previous example: someone looking at the code might think that 'process_components()' functionality is abstracted into a function because it's called by various methods and functions, when in fact it's only called by 'process_url()'.
+
+This seems somewhat wrong. The alternative is to still write long methods and functions, but indicate their sections with comments.
+
+Is the function-splitting technique I described wrong? What is the preferred way of managing large functions and methods?
+
+**UPD:** I've also posted this question to [programmers.stackexchange.com](http://programmers.stackexchange.com/questions/195989/is-it-ok-to-split-long-functions-and-methods-into-smaller-ones-even-though-they/195992?noredirect=1#195992)",,False,,t5_2wk7l,1366821829.0,,,True,t3_1d0n7o,http://www.reddit.com/r/readablecode/comments/1d0n7o/is_it_ok_to_split_long_functions_and_methods_into/,
+1362695605.0,55,joelonsoftware.com,19vgkq,Making Wrong Code Look Wrong,rsqrt,67,12,11,http://www.reddit.com/r/readablecode/comments/19vgkq/making_wrong_code_look_wrong/,,,False,,t5_2wk7l,False,,,False,t3_19vgkq,http://www.joelonsoftware.com/articles/Wrong.html,
+1362776653.0,48,self.readablecode,19xm95,Functions! Use them as the provide more readability to your code.,MrNutty,59,11,19,http://www.reddit.com/r/readablecode/comments/19xm95/functions_use_them_as_the_provide_more/,"More specifically, say you have the following code:
+
+    void SpecialClass::update(const Data&amp; dependendData){
+           if( GetType() == SPECIAL_TYPE){
+                const String&amp; mainData = m_mainData.getData();
+                const String&amp; mainBackup = m_mainData.getBackupData();
+                _tranformData(mainData, dependendData);
+                _transformData(mainBackup,dependendData);
+
+               const String&amp; backupMain = m_backupData.getData();
+               const String&amp; backupSecondary = m_backupData.getBackupData();
+               _transformData(backupMain, dependendData);
+               _transformData(backupSeconday, dependendData);
+           }
+    }
+
+
+Notice redundancies. It is error prone and you have to make same change for backup as for the main. Using functions not only makes this more clearer but more maintainable. Here is a version that uses functions:
+
+    void SpecialClass::update(const Data&amp; dependendData){
+       if(GetType() == SPECIAL_TYPE){
+           _updateSource(m_mainData,dependendData);
+           _updateSource(m_backupData,dependendData);
+       }
+    }
+    //updates main source and backup data
+    void SpecialClass::_updateSource(SourceData&amp; src, const Data&amp; dependendData){
+       const String&amp; srcData = src.getData();
+       const String&amp; srcBackup = src.getBackupData();
+       _tranformData(srcData , dependendData);
+       _transformData(srcBackup ,dependendData);
+    }
+
+See how cleaner and more readable the refactoring did? By creating a function it forces you to think of a name for that the function, essentially making your code self documenting. This might be simple stuff, but these little things makes code better at the end. Stay classy fellas.",,False,,t5_2wk7l,False,,,True,t3_19xm95,http://www.reddit.com/r/readablecode/comments/19xm95/functions_use_them_as_the_provide_more/,
+1365474571.0,44,codealignment.com,1byp26,Thought you all would appreciate this,see__no__evil,68,24,38,http://www.reddit.com/r/readablecode/comments/1byp26/thought_you_all_would_appreciate_this/,,,False,,t5_2wk7l,False,,,False,t3_1byp26,http://www.codealignment.com/Details.html,
+1363486911.0,45,self.readablecode,1afytm,"What are peoples views on comments? Participially, the lack of them.",superbriggs,54,9,45,http://www.reddit.com/r/readablecode/comments/1afytm/what_are_peoples_views_on_comments_participially/,"I am currently at university studying computer science, and have managed to get on a summer internship program at a large software company. During an induction there, I was talking to an employee who told me that as a general rule, they do not comment there code. His argument for this was that
+
+1. Comments are static, and so they can be mistakenly not updated during refactoring 
+2. They can be missread
+3. That if there is a specific need for them, that is usually because the code is not written well enough. Ie, the structure does not make the structure of computation clear enough, or the function/variable names are not descriptive enough
+
+What are peoples views on this?",,False,,t5_2wk7l,False,,,True,t3_1afytm,http://www.reddit.com/r/readablecode/comments/1afytm/what_are_peoples_views_on_comments_participially/,
+1365765775.0,43,self.readablecode,1c77b9,[fairly new programmer here] Why do people care about the style of the code as long as it still does the job perfectly ?,Miro360,65,22,104,http://www.reddit.com/r/readablecode/comments/1c77b9/fairly_new_programmer_here_why_do_people_care/,,,False,,t5_2wk7l,False,,,True,t3_1c77b9,http://www.reddit.com/r/readablecode/comments/1c77b9/fairly_new_programmer_here_why_do_people_care/,
+1367775656.0,42,i.imgur.com,1dqntt,"Google Dart isn't the most exciting, but I really like their take on async (Future, then) and cascading (..)",CarlWhite,55,13,17,http://www.reddit.com/r/readablecode/comments/1dqntt/google_dart_isnt_the_most_exciting_but_i_really/,,,False,,t5_2wk7l,False,,,False,t3_1dqntt,http://i.imgur.com/Ftjaq3t.png,
+1366146413.0,38,self.readablecode,1chj7g,Is it a good idea to have lines &lt;= 80 characters long?,nihilanth,50,12,65,http://www.reddit.com/r/readablecode/comments/1chj7g/is_it_a_good_idea_to_have_lines_80_characters_long/,"I have been trying to improve my coding style using the [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml), but the one thing I struggle with most is the requirement that all lines must be ""at most 80 characters long."" I have a fairly standard 21"" monitor and I can easily see up to 160 lines in my editor, and sometimes it's visually cleaner to actually use up to 120 lines to represent some parts of my code. Example:
+
+    inline cvec2f   operator+(const cvec2f&amp; v1, const cvec2f&amp; v2){ return addvec(v1, v2); }
+    inline cvec3f   operator+(const cvec3f&amp; v1, const cvec3f&amp; v2){ return addvec(v1, v2); }
+    inline cvec4f   operator+(const cvec4f&amp; v1, const cvec4f&amp; v2){ return addvec(v1, v2); }
+    
+    inline cvec2f   operator-(const cvec2f&amp; v1, const cvec2f&amp; v2){ return subvec(v1, v2); }
+    inline cvec3f   operator-(const cvec3f&amp; v1, const cvec3f&amp; v2){ return subvec(v1, v2); }
+    inline cvec4f   operator-(const cvec4f&amp; v1, const cvec4f&amp; v2){ return subvec(v1, v2); }
+    
+    inline cvec2f   operator*(const cvec2f&amp; v1, const float&amp; k){ return mulvec(v1, k); }
+    inline cvec3f   operator*(const cvec3f&amp; v1, const float&amp; k){ return mulvec(v1, k); }
+    inline cvec4f   operator*(const cvec4f&amp; v1, const float&amp; k){ return mulvec(v1, k); }
+    
+    inline cvec2f   operator*(const float&amp; k, const cvec2f&amp; v1){ return mulvec(v1, k); }
+    inline cvec3f   operator*(const float&amp; k, const cvec3f&amp; v1){ return mulvec(v1, k); }
+    inline cvec4f   operator*(const float&amp; k, const cvec4f&amp; v1){ return mulvec(v1, k); }
+    
+    inline cvec2f&amp;  operator+=(cvec2f&amp; v1, const cvec2f&amp; v2){ v1.x+=v2.x; v1.y+=v2.y; return v1;}
+    inline cvec3f&amp;  operator+=(cvec3f&amp; v1, const cvec3f&amp; v2){ v1.x+=v2.x; v1.y+=v2.y; v1.z+=v2.z; return v1;}
+    inline cvec4f&amp;  operator+=(cvec4f&amp; v1, const cvec4f&amp; v2){ v1.x+=v2.x; v1.y+=v2.y; v1.z+=v2.z; v1.w+=v2.w; return v1;}
+    
+    inline cvec2f&amp;  operator-=(cvec2f&amp; v1, const cvec2f&amp; v2){ v1.x-=v2.x; v1.y-=v2.y; return v1;}
+    inline cvec3f&amp;  operator-=(cvec3f&amp; v1, const cvec3f&amp; v2){ v1.x-=v2.x; v1.y-=v2.y; v1.z-=v2.z; return v1;}
+    inline cvec4f&amp;  operator-=(cvec4f&amp; v1, const cvec4f&amp; v2){ v1.x-=v2.x; v1.y-=v2.y; v1.z-=v2.z; v1.w-=v2.w; return v1;}
+    
+    inline cvec2f&amp;  operator*=(cvec2f&amp; v1, const float&amp; k){ v1.x*=k; v1.y*=k; return v1;}
+    inline cvec3f&amp;  operator*=(cvec3f&amp; v1, const float&amp; k){ v1.x*=k; v1.y*=k; v1.z*=k; return v1;}
+    inline cvec4f&amp;  operator*=(cvec4f&amp; v1, const float&amp; k){ v1.x*=k; v1.y*=k; v1.z*=k; v1.w*=k; return v1;}    
+
+So my question to this subreddit is: do you have a fixed maximum line-width and if you do, do you ever violate that rule?",,False,,t5_2wk7l,False,,,True,t3_1chj7g,http://www.reddit.com/r/readablecode/comments/1chj7g/is_it_a_good_idea_to_have_lines_80_characters_long/,
+1363746713.0,44,self.readablecode,1amzo5,"Would there be interest in a weekly ""style critique""?",hold_on_a_second,48,4,6,http://www.reddit.com/r/readablecode/comments/1amzo5/would_there_be_interest_in_a_weekly_style_critique/,"Would anyone be interested in a weekly post where we all solve a problem in our language of choice, then comment on and try to improve the style and readability of each other's implementations? I've been trying to improve the readability of my code, and I feel that it would help a lot to have a bunch of eyes looking at it and pointing out places that could be simpler or more expressive.
+
+I figured smallish problems would be best, stuff like ""find the power set of an array"", or some small interactive program.
+
+If there isn't interest in this, could anyone point me towards somewhere I could find this kind of thing?",,False,,t5_2wk7l,False,,,True,t3_1amzo5,http://www.reddit.com/r/readablecode/comments/1amzo5/would_there_be_interest_in_a_weekly_style_critique/,
+1362721260.0,36,self.readablecode,19wb4m,Making brainfuck readable,sircmpwn,49,13,15,http://www.reddit.com/r/readablecode/comments/19wb4m/making_brainfuck_readable/,"[My IRC bot written in brainfuck](https://github.com/SirCmpwn/bf-irc-bot/blob/master/irc-bot.bf)
+
+Brainfuck is difficult to understand, but proper indentation and commenting can make it a lot easier. It's certainly leaps and bounds over the [minified version](https://github.com/SirCmpwn/bf-irc-bot/blob/master/irc-bot.min.bf).",,False,,t5_2wk7l,False,,,True,t3_19wb4m,http://www.reddit.com/r/readablecode/comments/19wb4m/making_brainfuck_readable/,
+1366985757.0,34,self.readablecode,1d5keo,How many people use the Rule of Three and are there any other key programming tips?,NeoSilky,41,7,24,http://www.reddit.com/r/readablecode/comments/1d5keo/how_many_people_use_the_rule_of_three_and_are/,Referring to: https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming),,False,,t5_2wk7l,False,,,True,t3_1d5keo,http://www.reddit.com/r/readablecode/comments/1d5keo/how_many_people_use_the_rule_of_three_and_are/,
+1363715108.0,37,amazon.com,1alsei,Clean Code is my guide to 'readable code',ZackAttack007,51,14,15,http://www.reddit.com/r/readablecode/comments/1alsei/clean_code_is_my_guide_to_readable_code/,,,False,,t5_2wk7l,False,,,False,t3_1alsei,http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882,
+1363804444.0,38,self.readablecode,1aofhz,I wrote some code. Please critique my style.,null_undefined,42,4,31,http://www.reddit.com/r/readablecode/comments/1aofhz/i_wrote_some_code_please_critique_my_style/,"This code generates a path for a Unmanned Aerial Vehicle to navigate an arbitrary search area. As input it takes in the search area coordinates, current wind direction, and plane location. It outputs the path that the UAV should take to navigate the area, formatted for upload to our ground station. The input and output coordinate system is arbitrary (could be meters, GPS coordinates, whatever).
+
+Here is an example of the output of the program: [output.jpg](https://raw.github.com/UCSD-AUVSI/PathfinderV2/master/output.jpg)
+
+Please let me know what you think of the style of the program. Do not worry about hurting my feelings. If you have very specific ideas on how to improve the code,you can submit a pull request and paste the github compare URL in the comments for others to see.
+
+
+**Files**
+
+
+[pathfinder.py](https://github.com/UCSD-AUVSI/PathfinderV2/blob/40785097263aea9728684c9c6f043df06fada2ac/pathfinder.py) - Business logic
+
+[geometry_operations.py](https://github.com/UCSD-AUVSI/PathfinderV2/blob/40785097263aea9728684c9c6f043df06fada2ac/geometry_operations.py) - Geometry Operations
+
+[image_generator.py](https://github.com/UCSD-AUVSI/PathfinderV2/blob/40785097263aea9728684c9c6f043df06fada2ac/image_generator.py) - Creates a pretty output image
+
+[waypoint_generator.py](https://github.com/UCSD-AUVSI/PathfinderV2/blob/40785097263aea9728684c9c6f043df06fada2ac/waypoint_generator.py) - Exports the path in a format our ground control software can interpret",,False,,t5_2wk7l,1364113073.0,,,True,t3_1aofhz,http://www.reddit.com/r/readablecode/comments/1aofhz/i_wrote_some_code_please_critique_my_style/,
+1362676889.0,30,perltidy.sourceforge.net,19urq1,[Perl] Anyone who hasn't found this utility and routinely writes Perl code I highly recommend Perltidy. Check it out!,vroomanj,39,9,9,http://www.reddit.com/r/readablecode/comments/19urq1/perl_anyone_who_hasnt_found_this_utility_and/,,,False,,t5_2wk7l,False,,,False,t3_19urq1,http://perltidy.sourceforge.net/,
+1362935133.0,30,self.readablecode,1a12xh,[C#] Replacing redundant lambda expressions,TimeWizid,36,6,15,http://www.reddit.com/r/readablecode/comments/1a12xh/c_replacing_redundant_lambda_expressions/,"If all a lambda expression does is pass its arguments into another method in the same order, you can replace the lambda expression with the method itself. 
+
+Something like this:
+
+    x =&gt; Math.Sqrt(x)
+
+can simply be written as:
+
+    Math.Sqrt
+
+Here's a more complete example:
+
+    double[] nums = { 1.0, 2.0, 3.0, 4.0, 5.0 };
+
+    // One parameter
+    var SquareRoots1 = nums.Select(x =&gt; Math.Sqrt(x));
+    var SquareRoots2 = nums.Select(Math.Sqrt);
+
+    // Two parameters
+    var pairs1 = nums.Zip(nums.Skip(1), (x, y) =&gt; Tuple.Create(x, y));
+    var pairs2 = nums.Zip(nums.Skip(1), Tuple.Create);
+
+    // And beyond!
+    // ...
+
+This makes the code shorter, easier to read, and less repetitive.
+
+Some people may be worried that this makes it tough to tell how many arguments there are and what they represent, but most times it's easy to tell from the context, as evidenced by the fact that lambda arguments usually aren't very descriptive.
+
+One downside to practicing this is you may become frustrated when you see lambdas that can't quite be replaced, which is rather often:
+
+    var nonEmpties = strings.Where(x =&gt; !String.IsNullOrEmpty(x)); // Arg!
+    var product = nums.Aggregate((x, y) =&gt; x * y); // Double arg!
+    var squares = nums.Select(x =&gt; Math.Pow(x, 2.0)); // I'm impartial to this.",,False,,t5_2wk7l,False,,,True,t3_1a12xh,http://www.reddit.com/r/readablecode/comments/1a12xh/c_replacing_redundant_lambda_expressions/,
+1371568593.0,27,self.readablecode,1gl6ra,Is this a good alternative to nesting ifs,wyred-sg,38,11,47,http://www.reddit.com/r/readablecode/comments/1gl6ra/is_this_a_good_alternative_to_nesting_ifs/,"The language I'm using to make this simplified example is in PHP.
+
+Sometimes we write code that ends up like this
+
+    foreach ($arr AS $a) {
+        if ($condition) {
+            if ($another_condition AND $more_conditions) {
+                do_something($a);
+            }
+        }
+    }
+
+I have come up with the following idea
+
+    foreach ($arr AS $a) {
+        if ( ! $condition) continue; //continue will move on to the next item in this foreach loop
+        if ( ! $another_condition OR ! $more_conditions) continue;
+
+        do_something($a);
+    }
+
+What does reddit think?",,False,,t5_2wk7l,False,,,True,t3_1gl6ra,http://www.reddit.com/r/readablecode/comments/1gl6ra/is_this_a_good_alternative_to_nesting_ifs/,
+1362786811.0,25,i.imgur.com,19xyr4,"Screenshot of a Literate CoffeeScript inspired, Md/JS language extension I am building",JL235,32,7,10,http://www.reddit.com/r/readablecode/comments/19xyr4/screenshot_of_a_literate_coffeescript_inspired/,,,False,,t5_2wk7l,False,,,False,t3_19xyr4,http://i.imgur.com/CD49Pae.png,
+1366541162.0,25,self.readablecode,1cslpk,"A friend of mine started prefixing classes with 'c', structs with 's' and interfaces with 'I'. Where does this come from?",sevendrunkenpirates,35,10,46,http://www.reddit.com/r/readablecode/comments/1cslpk/a_friend_of_mine_started_prefixing_classes_with_c/,"He started this convention in our c++ project (3 coders) because he saw someone do this, and somehow copied it without thinking. Why do people use this convention? It seems kind of pointless. Example:
+
+    class cFoo {}
+    struct sBar {}
+
+What does it matter what type my objects are (struct or class)?",,False,,t5_2wk7l,False,,,True,t3_1cslpk,http://www.reddit.com/r/readablecode/comments/1cslpk/a_friend_of_mine_started_prefixing_classes_with_c/,
+1362674566.0,24,github.com,19uot7,[C] Git date parsing (approxidate),ared38,48,24,65,http://www.reddit.com/r/readablecode/comments/19uot7/c_git_date_parsing_approxidate/,,,False,,t5_2wk7l,False,,,False,t3_19uot7,https://github.com/git/git/blob/master/date.c,
+1362707270.0,22,self.readablecode,19vuzn,Catching OS signals in Go,thugrat,25,3,0,http://www.reddit.com/r/readablecode/comments/19vuzn/catching_os_signals_in_go/,"A clear, concise example showing showing how to catch and use OS signals. 
+
+    c := make(chan os.Signal, 1)
+    signal.Notify(c)
+    go func() {
+    	for sig := range c {
+    		switch sig {
+    		case syscall.SIGHUP:
+    			fmt.Println(""Reloading config"")
+    			if err := parseConfig(); err != nil {
+    				fmt.Println(""Error parsing config"")
+    				fmt.Println(err)
+    			}
+    
+    		case syscall.SIGTERM:
+    			os.Exit(1) // Error becuase we were killed
+    
+    		case syscall.SIGINT:
+    			// Do stuff and gracefully shutdown
+    			os.Exit(0)
+    		}
+    	}
+    }()",,False,,t5_2wk7l,1362754042.0,,,True,t3_19vuzn,http://www.reddit.com/r/readablecode/comments/19vuzn/catching_os_signals_in_go/,
+1370282017.0,19,self.readablecode,1fle60,Is this regex code readable?,raiph,22,3,16,http://www.reddit.com/r/readablecode/comments/1fle60/is_this_regex_code_readable/,"*[Reddiquette says ""Feel free to post something again if you feel that the earlier posting didn't get the attention it deserved and you think you can do better."" Here's hoping.]*
+
+I find the code below highly readable. If you don't agree, **please post comments with specific criticisms**. Best of all, please contribute balance bracket parsers (for [ and ]) in other languages.
+
+I particularly like the token (regex) definitions:
+
+    grammar Brackets::Balanced {
+        token TOP      { ^ &lt;balanced&gt;? $ };
+        token balanced { '[' &lt;balanced&gt;? ']' &lt;balanced&gt;? };
+    };
+
+This defines two regexes:
+
+* **TOP** matches a given input string from start (\^) to finish ($) against another regex called ""balanced"".
+* **token balanced** expresses a simple recursive balanced brackets parser (elegantly imo).
+
+Imo this is highly readable, elegant, no-comment-necessary code for anyone who has spent even a few minutes learning this part of Perl 6. As is some scaffolding for testing the parser:
+
+    grammar Brackets::Balanced {
+        method ACCEPTS($string) { ?self.parse($string) }
+    }
+
+* This code defines an ACCEPTS method in the Brackets::Balanced grammar (just like one can define a method in a class).
+* The ACCEPTS method parses/matches any strings passed to it (via the parse method, which is inherited  by all grammars, which in turn calls the grammar's TOP regex).
+* The ? prefix means the method returns True or False.
+
+These two lines of testing code might be the most inscrutable so far:
+
+    say ""[][]"" ~~ Brackets::Balanced;
+    say ""][""   ~~ Brackets::Balanced;
+
+* These lines are instantly readable if you code in Perl 6 but I get that a newcomer might think ""wtf"" about the ~~ feature (which is called ""smart match"").
+* The ~~ passes the thing on its left to the ACCEPTS method of the thing on its right. Thus the first say line says True, the second False.",,False,,t5_2wk7l,1370290011.0,,,True,t3_1fle60,http://www.reddit.com/r/readablecode/comments/1fle60/is_this_regex_code_readable/,
+1367493954.0,18,self.readablecode,1djmhs,"Do idealized/optimal/minimal JavaScript codestyles work in real, mixed skill organisations?",brtt3000,24,6,26,http://www.reddit.com/r/readablecode/comments/1djmhs/do_idealizedoptimalminimal_javascript_codestyles/,"I see a lot of blogs and posts and guides like these:[Github JavaScript Styleguide](https://github.com/styleguide/javascript), or this [Semicolons in JavaScript are optional](http://mislav.uniqpath.com/2010/05/semicolons/) and many more ninja opinions.
+
+As much as I respect their opinion and analysis I always wonder, does this make sense in real world boots-in-internet-mud companies with people with very mixed tasks and skill levels working together?
+
+Like if you never use semicolons as promoted in the second link but need to take care of some edge cases, is the few bytes saved and proud elitism worth the practical costs of bugs, hassle or the presure of reeducating whole teams? 
+
+Isn't code more robust if you add semicolons, full curly braces and all that explicit stuff? I'm sure we all have messed up editing an if/else statement that didn't have braces and bumbed the conditional outside the statement or other stupid but human error. Tests should catch that but we all know weird shit happens all the time, especially in development.
+
+And what do you do with colleagues with just average skill? I know for a fact that a lot of them will not understand the issues. Does that invalidate them as developers? Some decent paychecks and big clients don't seem to care about it as long as Live code doesn't break so I find it hard to defend anything that degrades the robustness of code and minimizes real-life human error.
+
+Hoe much should we aim for a theoretical ideal? Or do we focus on getting projects working fast and reliable?
+
+edit: don;t misunderstand me, I don't criticize high-profile developers in superstar ninja shops who can have this discussion, but most of us can't/don;t work in situations like that (admit it! :)",,False,,t5_2wk7l,1367494210.0,,,True,t3_1djmhs,http://www.reddit.com/r/readablecode/comments/1djmhs/do_idealizedoptimalminimal_javascript_codestyles/,
+1366735998.0,21,gist.github.com,1cy1o1,"Simple, readable, elegant code: professional language tutor hosting a free 4hr IRC workshop using Perl on May 1st",raiph,26,5,0,http://www.reddit.com/r/readablecode/comments/1cy1o1/simple_readable_elegant_code_professional/,,,False,,t5_2wk7l,False,,,False,t3_1cy1o1,https://gist.github.com/masak/5431185,
+1362972872.0,17,self.readablecode,1a28m9,Thoughts on optional function parameter syntax in JavaScript,wjohnsto,24,7,46,http://www.reddit.com/r/readablecode/comments/1a28m9/thoughts_on_optional_function_parameter_syntax_in/,"There are a couple ways I've implemented ""optional"" arguments in a JS function:
+    
+    
+1:
+    
+    function foo(arg) {
+        arg || (arg = {});
+        ...
+    }
+    
+    
+2:
+    
+    function foo(arg) {
+        if(!arg) {
+            arg = {};
+        }
+        ...
+    }
+    
+    
+3:
+    
+    function foo(arg) {
+        arg = arg || {};
+        ...
+    }
+
+My personal preference is the first method.  1 and 3 are almost the same, but I like that you don't assign anything unless it's necessary (whether or not they both are viewed the same by a compiler).  I have had complaints saying that the first method is unreadable/unsafe(?) and that you should always use the second method.  What are your thoughts?",,False,,t5_2wk7l,1362973111.0,,,True,t3_1a28m9,http://www.reddit.com/r/readablecode/comments/1a28m9/thoughts_on_optional_function_parameter_syntax_in/,
+1365823636.0,18,self.readablecode,1c91ng,Just a quick question about brackets in general,Parthros,23,5,43,http://www.reddit.com/r/readablecode/comments/1c91ng/just_a_quick_question_about_brackets_in_general/,"I've always been taught that when writing code with brackets, you're supposed to put the opening bracket on the next line.  I'll give a basic example in Java below:
+
+    for(int count = 0; count &lt; 10; count++)
+    {
+        System.out.println(""Is that bracket placement right?"");
+    }
+
+
+I know that some people put it to the right of the statement as follows:
+
+    for(int count = 0; count &lt; 10; count++) {
+        System.out.println(""Is that bracket placement right?"");
+    }
+
+I know that's not wrong (obviously, so many people do it that way), but is it ""better"" than what I'm accustomed to or are both equally acceptable?
+
+Thanks for your feedback!
+
+EDIT: Thanks for bothering to answer my question!  I agree with everyone saying that it's a matter of preference.  I just recently got ridiculed for doing it the first way, and I was confused since both my high school and university did it that way.  In case anyone is wondering why I prefer the first way, I'll give an example:
+
+    for(int count = 0; count &lt; 10; count++)
+    {
+        for(int count2 = 0; count2 &lt; 5; count++)
+        {
+            if(count &lt; count2)
+            {
+                System.out.println(count);
+            }
+        }
+    }
+
+In this example of nested statements, I would find it difficult to keep all the bracketing straight in my mind if the brackets were used in the way of the second method.  This method allows me to look straight up or down in a vertical line and identify where the loop/statement began or ended.  If they are placed in accordance to the second method, I have a more difficult time of doing that.  Ultimately, this is just my preference, and if this doesn't work for you, obviously go with your method.  I just posted my reasoning in case anyone was curious.",,False,,t5_2wk7l,1365833239.0,,,True,t3_1c91ng,http://www.reddit.com/r/readablecode/comments/1c91ng/just_a_quick_question_about_brackets_in_general/,
+1364541501.0,19,github.com,1b8btx,PEP8 code validator,,26,7,1,http://www.reddit.com/r/readablecode/comments/1b8btx/pep8_code_validator/,,,False,,t5_2wk7l,False,,,False,t3_1b8btx,https://github.com/cburroughs/pep8.py/blob/master/pep8.py,
+1362827108.0,18,informatik.hu-berlin.de,19yt5a,"list, hashmap, graph in C [simple textbook code]",ErstwhileRockstar,24,6,3,http://www.reddit.com/r/readablecode/comments/19yt5a/list_hashmap_graph_in_c_simple_textbook_code/,,,False,,t5_2wk7l,False,,,False,t3_19yt5a,http://www2.informatik.hu-berlin.de/~weber/slipOff/src_index.html,
+1363919284.0,16,self.readablecode,1ary2b,Would you mind taking a second to review my code?,taotao670,25,9,25,http://www.reddit.com/r/readablecode/comments/1ary2b/would_you_mind_taking_a_second_to_review_my_code/,"I'm really new to C++ so if I'm doing something completely unaccepted let me know.  I would like some pointers on c++ style coding.  Also, is this the right subreddit to post something like this?
+
+https://gist.github.com/abenavente406/5218474",,False,,t5_2wk7l,False,,,True,t3_1ary2b,http://www.reddit.com/r/readablecode/comments/1ary2b/would_you_mind_taking_a_second_to_review_my_code/,
+1364921328.0,15,self.readablecode,1biw4r,How do you feel about whitespace before a newline? Is there a generally-accepted best practice?,Decker87,24,9,36,http://www.reddit.com/r/readablecode/comments/1biw4r/how_do_you_feel_about_whitespace_before_a_newline/,"Often you'll have chunks of code with one or more blank lines in between for readability.  What about those empty lines?  Should they follow the whitespace indentation of the lines around them?  Or should they be just a newline?
+
+In the pseudocode below, assume S=space and N=newline.
+
+    if (condition)N
+    {N
+        x=5;N
+    SSSSN
+        y=6;N
+    }N
+
+OR
+
+    if (condition)N
+    {N
+        x=5;N
+    N
+        y=6;N
+    }N",,False,,t5_2wk7l,False,,,True,t3_1biw4r,http://www.reddit.com/r/readablecode/comments/1biw4r/how_do_you_feel_about_whitespace_before_a_newline/,
+1364144585.0,15,self.readablecode,1ax50c,"Looking for Style Critique, new C++ User",ReUhssurance,19,4,22,http://www.reddit.com/r/readablecode/comments/1ax50c/looking_for_style_critique_new_c_user/,"https://gist.github.com/anonymous/6af63249af34ad37dea3
+
+The purpose of the program is to take in certain information and generate an amortization report based off the info given.  This was an assignment I did, but I am not looking for help on it (as I already completed the task) I am just looking for tips anywhere in there to help me better understand the language, maybe why it looks so messy to me and anything in general that can improve the program would be helpful. I just feel like it's pretty messy, especially when I get to screen output and have constant setw() sitting there (is there an easier way to set something like this up?
+
+Anyways, I'd appreciate any input here.  Thanks guys!",,False,,t5_2wk7l,False,,,True,t3_1ax50c,http://www.reddit.com/r/readablecode/comments/1ax50c/looking_for_style_critique_new_c_user/,
+1362771272.0,18,self.readablecode,19xfoy,The argument for comma-first notation in javascript.,ultimatedelman,28,10,30,http://www.reddit.com/r/readablecode/comments/19xfoy/the_argument_for_commafirst_notation_in_javascript/,"Any time anyone looks at my code, I receive one of two comments: ""I see you're using comma-first, nice."" or ""EW WTF IS THAT SHIT?? COMMA FIRST, ARE YOU CRAZY?! GROSS"". It's rarely ever, ""oh, [weird|cool], you put the comma at the beginning of the line? Why?"" This could be a result of a number of things, from dogma being drilled into your head to lack of open-mindedness. So for the haters, let me explain.
+
+Here's an example, starting with comma first:
+
+    var obj1 = {
+        prop1: 'x'
+        , prop2: 'y'
+        , prop3: 'z'
+    };
+
+    var obj2 = {
+        prop1: 'a',
+        prop2: 'b',
+        prop3: 'c'
+    };
+
+On the surface, they don't really seem all that different and syntactically they are identical. At this point it's a matter of preference (I think comma separated looks nicer). However, let's say you add another property that is a function to your object, and put it somewhere in the middle:
+
+    var obj1 = {
+        prop1: 'x'
+        , myMethod1: function(x) {
+            //set some vars
+
+            //magicks
+            //10 more lines of code
+
+            return x;
+        }
+        , prop2: 'y'
+        , prop3: 'z'
+    };
+
+
+When you're going through your code looking for myMethod1, in comma-first notation, it is amazingly easy to discern between your properties when you can simply **scan everything that has a comma in front of it** like a bulleted list dictating where a property is defined. Sure, the first property doesn't have a comma in front, but it's also the first line of your object so you can't really miss it.
+
+A side benefit of comma-first notation is that you never have to worry about forgetting your trailing comma at the end of your statement because in order to create a new property, you must start with a comma. Sure, if you add something to the beginning of your object or re-order your properties you have to remember to add a comma to your former first property, but it will be obvious that you forgot to do this because it will look funny sitting there in your property list with no comma in front.",,False,,t5_2wk7l,1362789359.0,,,True,t3_19xfoy,http://www.reddit.com/r/readablecode/comments/19xfoy/the_argument_for_commafirst_notation_in_javascript/,
+1362693227.0,17,github.com,19vdf1,Could my FizzBuzz Haskell code be cleaner?,mcandre,22,5,8,http://www.reddit.com/r/readablecode/comments/19vdf1/could_my_fizzbuzz_haskell_code_be_cleaner/,,,False,,t5_2wk7l,False,,,False,t3_19vdf1,https://github.com/mcandre/mcandre/blob/master/haskell/fizzy/fizzy.hs,
+1367013417.0,15,self.readablecode,1d6jj2,beginner programmer [C],chrispyYE,26,11,31,http://www.reddit.com/r/readablecode/comments/1d6jj2/beginner_programmer_c/,"This school year (2nd year of high school) we started studying how to program in C language. Beacuse i was quite ahead of the others i got idea to make a console ""game"" in cmd. I made a ship that could fly and shot in that 2d space, but due to lack of time i stopped ""developing it"" Recently i decided to pick it up again but the problem is that program was soo badly written i would need to take few hours now just to understand what different parts of code means... So to ""dodge"" in future those problems what do you recommend me to read/learn to make my code more readable/nice...
+I have quite a lot spare time now beacuse i have holidays, so every help/advice will be very appreciated.!
+If you want i can post code on pastebin!
+
+EDIT:
+http://pastebin.com/xKkuw8hZ
+here is the code, well probably it isn't anything special for u guys to do, but it was quite an accomplishment for me when i made the ship moving&amp;shooting like i wanted^^
+",,False,,t5_2wk7l,1367052316.0,,,True,t3_1d6jj2,http://www.reddit.com/r/readablecode/comments/1d6jj2/beginner_programmer_c/,
+1362729516.0,16,self.readablecode,19whk4,[PSA] Post screenshots as PNGs,Nicksaurus,18,2,6,http://www.reddit.com/r/readablecode/comments/19whk4/psa_post_screenshots_as_pngs/,"This is quite a common mistake people make. [PNGs are better at saving text](http://imgur.com/gallery/End1S), so if you're posting a screenshot of some code, please save it as a PNG, not a JPEG (or a GIF for that matter).
+
+Alternatively, try to link to a text version of the code where possible (e.g. Github/Bitbucket/Pastebin).",,False,,t5_2wk7l,1362763091.0,,,True,t3_19whk4,http://www.reddit.com/r/readablecode/comments/19whk4/psa_post_screenshots_as_pngs/,
+1362692068.0,15,self.readablecode,19vbtc,"[PSA] Read the comments of a post, before you try doing it to your code.",JAVASCRIPT_MAN,16,1,0,http://www.reddit.com/r/readablecode/comments/19vbtc/psa_read_the_comments_of_a_post_before_you_try/,"While some of these posts are pretty, not all of them are correct or maintainable. If you are a new coder, you should read the comments of the post, and see other redditors' reactions.
+
+Some of these code samples should come with a ""DO NOT TRY THIS AT HOME"" badge.
+
+If you want to learn how to make your code more readable, make sure you learn things like OOP, MVC, and dependency injection. You can also download a framework for your language to help you make it more readable.",,False,,t5_2wk7l,False,,,True,t3_19vbtc,http://www.reddit.com/r/readablecode/comments/19vbtc/psa_read_the_comments_of_a_post_before_you_try/,
+1376426641.0,12,self.readablecode,1kawwo,"Code options: array merge, if/elseif/else, or compound ternary? [PHP]",cincodenada,14,2,18,http://www.reddit.com/r/readablecode/comments/1kawwo/code_options_array_merge_ifelseifelse_or_compound/,"I recently needed to write code that looped through arrays and pulled out a key, falling back to a default array if the key wasn't there.  I ended up coding three options, but I'm not going to say which I ended up with, because I want opinions on the ""best"" code, readability being *a* concern.  Versions:
+
+array_merge:
+
+    &lt;?php
+    foreach($arrlist as $arr) {
+        $arr = array_merge($defaults, $arr);
+        $results[] = array_key_exists($key, $arr) ? $arr[$key] : null;
+    }
+    ?&gt;
+
+compound ternary:
+
+    &lt;?php
+    foreach($arrlist as $arr) {
+        $results[] = array_key_exists($key, $arr) 
+            ? $arr[$key] 
+            : (array_key_exists($key, $defaults)
+                ? $defaults[$key]
+                : null
+            );
+    }
+    ?&gt;
+
+if/elseif/else:
+
+    &lt;?php
+    foreach($arrlist as $arr) {
+        if(array_key_exists($key, $arr)) {
+            $results[] = $arr[$key];
+        } else if(array_key_exists($key, $defaults)) {
+            $results[] = $defaults[$key];
+        } else {
+            $results[] = null;
+        }
+    }
+    ?&gt;
+
+Which do you think is the ""best"" code, with readability/understandability a concern, but also not wanting to bog things down.",,False,,t5_2wk7l,False,,,True,t3_1kawwo,http://www.reddit.com/r/readablecode/comments/1kawwo/code_options_array_merge_ifelseifelse_or_compound/,
+1369636041.0,14,self.readablecode,1f4ihe,"""Override"" Macro in C++",tylercamp,18,4,8,http://www.reddit.com/r/readablecode/comments/1f4ihe/override_macro_in_c/,"In a recent project I've created a macro named ""Override"", which does nothing other than to serve as an indicator to the reader that the given method is virtual and, well, overriding another method. I know that since this isn't enforced by C++ it's easy for me to write an override that doesn't have the Override macro along with it. I think the clarity of having that macro there would overrule that sort of risk, but that's just speculation.
+
+What do you guys think?",,False,,t5_2wk7l,False,,,True,t3_1f4ihe,http://www.reddit.com/r/readablecode/comments/1f4ihe/override_macro_in_c/,
+1362736847.0,12,self.readablecode,19wldl,"Summary of ""The Elements of Programming Style""",egonelbre,12,0,1,http://www.reddit.com/r/readablecode/comments/19wldl/summary_of_the_elements_of_programming_style/,"This is a summary for ""The Elements of Programming Style"" by Kernighan and Plauger that outlines
+the basics of code readability with great explanations. The whole book can be [downloaded from here](http://books.cat-v.org/computer-science/elements-of-programming-style/elements_of_programming_style.pdf) (PDF warning).
+
+(Summary is partly also composed from http://ww2.cs.mu.oz.au/~zs/comp20006_2011_s2/resources/style.pdf)
+
+     1. Write clearly -- don't be too clever.
+
+     2. Say what you mean, simply and directly.
+     3. Use library functions whenever feasible.
+     4. Write clearly -- don't sacrifice clarity for ""efficiency.""
+     5. Let the machine do the dirty work.
+     6. Replace repetitive expressions by calls to common functions.
+     7. Don't strain to re-use code; reorganize instead.
+
+     8. Avoid unnecessary branches.
+     9. Don’t use conditional branches as a substitute for a logical expression.
+    10. Take care to branch the right way on equality.
+
+    11. Parenthesize to avoid ambiguity.
+    12. Choose variable names that won't be confused.
+    13. Avoid temporary variables.
+    14. Use the good features of a language; avoid the bad ones.
+    15. Use the ""telephone test"" for readability.
+
+    16. Make your programs read from top to bottom.
+    17. Use the fundamental control flow structures.
+    18. Use data arrays to avoid repetitive control sequences.
+    19. Avoid gotos if you can keep the program readable.
+    20. Avoid multiple exits from loop.
+    21. Be careful if a loop exits to the same place 
+        from the middle and the bottom.
+
+    21. Write first in easy-to-understand pseudo language; 
+        then translate into whatever language you have to use.
+    22. Follow each decision as closely as possible with its associated action.
+    23. Don't stop with your first draft.
+
+    24. Modularize. Use subroutines.
+    25. Choose a data representation that makes the program simple.
+    26. Let the data structure the program.
+    27. Make the coupling between modules visible.
+    28. Each module should do one thing well.
+    29. Make sure every module hides something.
+    30. Write and test a big program in small pieces.
+    31. Use recursive procedures for recursively-defined data structures.
+
+    32. Initialize all variables before use.
+    33. Test input for plausibility and validity.
+    34. Make sure input doesn't violate the limits of the program.
+    35. Terminate input by end-of-file marker, not by count.
+    36. Identify bad input; recover if possible.
+    37. Make input easy to prepare and output self-explanatory.
+    38. Make input easy to proofread.
+    39. Use uniform input formats.
+    40. Use self-identifying input. Allow defaults. Echo both on output.
+
+    41. Make sure your code does ""nothing"" gracefully.
+    42. Program defensively.
+    43. Fix all warnings reported by the compiler.
+    44. Don’t patch bad code — rewrite it.
+
+    45. Test programs at their boundary values.
+    46. Don't compare floating point numbers solely for equality.
+
+    47. Make it right before you make it faster.
+    48. Make it fail-safe before you make it faster.
+    49. Make it clear before you make it faster.
+    50. Make it right when you make it faster.
+
+    51. Don't sacrifice clarity for small gains in ""efficiency.""
+    52. Let your compiler do the simple optimizations.
+    53. Make sure special cases are truly special.
+    54. Keep it simple to make it faster.
+    55. Don't diddle code to make it faster -- find a better algorithm.
+    56. Instrument your programs. Measure before making ""efficiency"" changes.
+
+    57. Make sure comments and code agree.
+    58. Don't just echo the code with comments -- make every comment count.
+    59. Don't comment bad code -- rewrite it.
+    60. Use names that mean something.
+    61. Format a program to help the reader understand it.
+    62. Document your data layouts.
+    63. Document reason for decisions.
+    64. Don't over-comment.
+
+*(Formatted the best I could)*",,False,,t5_2wk7l,1362744975.0,,,True,t3_19wldl,http://www.reddit.com/r/readablecode/comments/19wldl/summary_of_the_elements_of_programming_style/,
+1362718761.0,11,self.readablecode,19w8io,Thank you!,thecrip26,17,6,0,http://www.reddit.com/r/readablecode/comments/19w8io/thank_you/,"As someone who is currently learning Java, this subreddit has helped me out immensely. I just wanted to thank you all!",,False,,t5_2wk7l,False,,,True,t3_19w8io,http://www.reddit.com/r/readablecode/comments/19w8io/thank_you/,
+1372568956.0,10,self.readablecode,1hcn80,Lazy binary tree fringe match. Haskell &amp; Perl 6. Heavily commented for those familiar with Perl 5. Seeking comments on the code and comments.,raiph,15,5,12,http://www.reddit.com/r/readablecode/comments/1hcn80/lazy_binary_tree_fringe_match_haskell_perl_6/,"**A coding problem**
+
+&gt; {lazily} compare the leaves (""fringe"") of two binary trees to determine whether they are the same list of leaves when visited left-to-right
+(from the [Same Fringe task on Rosettacode](http://rosettacode.org/wiki/Same_Fringe))
+
+**A haskell solution (no comments)**
+
+    data Tree a = Leaf a | Node (Tree a) (Tree a)
+        deriving (Show, Eq)
+ 
+    fringe :: Tree a -&gt; [a]
+    fringe (Leaf x) = [x]
+    fringe (Node n1 n2) = fringe n1 ++ fringe n2
+ 
+    sameFringe :: (Eq a) =&gt; Tree a -&gt; Tree a -&gt; Bool
+    sameFringe t1 t2 = fringe t1 == fringe t2
+ 
+**A P6 solution (no comments)**
+
+    sub fringe ($tree) {
+        multi sub fringey (Pair $node) { fringey $_ for $node.kv; }
+        multi sub fringey ( Any $leaf) { take $leaf; }
+ 
+        (gather fringey $tree), Cool;
+    }
+ 
+    sub samefringe ($a, $b) { all fringe($a) Z=== fringe($b) }
+
+**What I'm trying to do**
+
+* A sanity check of an overall notion that I currently have. The overall notion is that it may be significantly easier (not necessarily wiser, but easier) for P5 coders that do not know haskell or P6 (or racket, scala, or other advanced langs) to pick up P6 than those other langs.
+
+* A detail check of code examples and code comments I'm using in support of that notion. The uncommented code examples are above. The heavily commented code examples are in a comment to this reddit post.
+
+**Edit** Removed crazy instructions. ;)
+
+Thanks!",,False,,t5_2wk7l,1372619031.0,,,True,t3_1hcn80,http://www.reddit.com/r/readablecode/comments/1hcn80/lazy_binary_tree_fringe_match_haskell_perl_6/,
+1370397896.0,12,self.readablecode,1fp08y,"How can I improve the readability of this ""one line"" Scala statement?",UberMouse894,16,4,16,http://www.reddit.com/r/readablecode/comments/1fp08y/how_can_i_improve_the_readability_of_this_one/,"https://gist.github.com/UberMouse/5711126
+
+This is a Scala solution to the following problem. I feel this could be a lot more readable while still maintaining the compactness but I'm not really sure what I could do (Other than someway to name the tuple indexes, but I'm not aware of a way to do that in Scala)
+
+***Problem***
+
+Given a string s, little Johnny defined the beauty of the string as the sum of the beauty of the letters in it.The beauty of each letter is an integer between 1 and 26, inclusive, and no two letters have the same beauty. Johnny doesn't care about whether letters are uppercase or lowercase, so that doesn't affect the beauty of a letter. (Uppercase 'F' is exactly as beautiful as lowercase 'f', for example.)
+
+You're a student writing a report on the youth of this famous hacker. You found the string that Johnny considered most beautiful. What is the maximum possible beauty of this string?
+
+Input sample:
+
+Your program should accept as its first argument a path to a filename. Each line in this file has a sentence. e.g.
+
+ABbCcc  
+Good luck in the Facebook Hacker Cup this year!  
+Ignore punctuation, please :)  
+Sometimes test cases are hard to make up.  
+So I just go consult Professor Dalves  
+Output sample:
+
+Print out the maximum beauty for the string. e.g.  
+
+152  
+754  
+491  
+729  
+646  ",,False,,t5_2wk7l,False,,,True,t3_1fp08y,http://www.reddit.com/r/readablecode/comments/1fp08y/how_can_i_improve_the_readability_of_this_one/,
+1363396842.0,11,perl6advent.wordpress.com,1adwc3,"""Note how using operators can lead to code that’s both compact and readable (opinions may vary, of course).""",raiph,24,13,21,http://www.reddit.com/r/readablecode/comments/1adwc3/note_how_using_operators_can_lead_to_code_thats/,,,False,,t5_2wk7l,False,,,False,t3_1adwc3,http://perl6advent.wordpress.com/2012/12/04/day-4-having-fun-with-rakudo-and-project-euler/,
+1362783142.0,10,self.readablecode,19xubq,Am I the only person who does this?,larsga,14,4,11,http://www.reddit.com/r/readablecode/comments/19xubq/am_i_the_only_person_who_does_this/,"Usually, when I come back to a piece of code after a good while, and have to make a substantial change that cuts across the original structure of the code, I find I don't do it right away. 
+
+Instead, I spend several hours hesitating over the change. I think about alternatives. I read the code. I read Reddit. I think some more. I read some more code. I try to imagine the alternatives. Loop while unknown condition not satisfied.
+
+Then, finally, I make the change, and usually go all the way through restructuring and refactoring in one burst. Although sometimes (rarely, but it does happen) I find I made an incorrect assumption, revert everything, and start over.
+
+A surprising number of people in this subreddit seem to do future planning on the line level of their code. I find that really, really weird. I can't predict the future high-level structure of my code (although it does tend to solidify after some iterations). Planning ahead of time where I'm going to put if blocks seems like a seriously weird way to approach things.
+
+Or is it just me?",,False,,t5_2wk7l,False,,,True,t3_19xubq,http://www.reddit.com/r/readablecode/comments/19xubq/am_i_the_only_person_who_does_this/,
+1362675086.0,9,pastie.org,19upfn,code poetry: a ball that bounces,averyv,10,1,2,http://www.reddit.com/r/readablecode/comments/19upfn/code_poetry_a_ball_that_bounces/,,,False,,t5_2wk7l,False,,,False,t3_19upfn,http://pastie.org/pastes/170024/text,
+1376416109.0,9,self.readablecode,1kahx0,Reporting Errors/Warnings,tylercamp,12,3,3,http://www.reddit.com/r/readablecode/comments/1kahx0/reporting_errorswarnings/,"(Not sure if this is the correct subreddit, but when I was thinking about the subject, this place is the first place I thought of.)
+
+For a while I've been going back and forth in how I do my error handling. When I pick a style I stick with it for the entire library, but I've never really been sure of what's appropriate.
+
+The two main methods I use are simply throwing exceptions, or defining a ""debug stream"" to which messages/warnings/errors are reported. For debug streams, it's usually customizable such that the user can define what actually happens. i.e. I have an ExceptionOutputStream, a ConsoleOutputStream, and a FakeOutputStream for starters.
+
+I like to think that using a debug stream is preferable since an exception will crash the program, whereas a controlled output stream generally won't. (Uncaught exception will always crash, if you specify output to console/text file then there's no crash and the debug information is still recorded.)
+
+What do you guys normally do for this sort of thing?
+
+What's more appropriate - throwing exceptions or a customizable debug stream?",,False,,t5_2wk7l,False,,,True,t3_1kahx0,http://www.reddit.com/r/readablecode/comments/1kahx0/reporting_errorswarnings/,
+1362879852.0,8,code.google.com,1a02e0,[Python] Argparse,,13,5,7,http://www.reddit.com/r/readablecode/comments/1a02e0/python_argparse/,,,False,,t5_2wk7l,False,,,False,t3_1a02e0,https://code.google.com/p/argparse/source/browse/argparse.py,
+1362679953.0,8,kotaku.com,19uvne,The Exceptional Beauty of Doom 3's Source Code,Nicksaurus,11,3,0,http://www.reddit.com/r/readablecode/comments/19uvne/the_exceptional_beauty_of_doom_3s_source_code/,,,False,,t5_2wk7l,False,,,False,t3_19uvne,http://kotaku.com/5975610/the-exceptional-beauty-of-doom-3s-source-code,
+1362772594.0,7,github.com,19xhbj,Parser from Peter Norvig's Paradigms of AI Programming,aerique,10,3,0,http://www.reddit.com/r/readablecode/comments/19xhbj/parser_from_peter_norvigs_paradigms_of_ai/,,,False,,t5_2wk7l,False,,,False,t3_19xhbj,https://github.com/namin/paip/blob/master/syntax1.lisp,
+1362731054.0,9,self.readablecode,19wigl,My well-commented code for memory freeing in my kernel - in z80 assembly,sircmpwn,9,0,0,http://www.reddit.com/r/readablecode/comments/19wigl/my_wellcommented_code_for_memory_freeing_in_my/,"[The code](https://github.com/SirCmpwn/KnightOS/blob/master/src/kernel/00/memory.asm#L243)
+
+This is one of the most complicated bits of the code, so I wanted to make sure it was totally clear what was going on. I've gotten lost in my own memory management code dozens of times. Also worth noting is that whitespace is largely ignored in this flavor of assembly - I use indentation to keep track of the stack so I don't forget to pop things.
+
+Unfortunately, I don't follow this standard of ""comment the complicated stuff more"" all the time, like [the code for](https://github.com/SirCmpwn/KnightOS/blob/master/src/kernel/00/restarts.asm#L1) runtime executable relocation, which is another pretty complicated thing.
+
+Also, I'm having fun looking through my projects for examples of nice code, mostly because I do ridiculous things like IRC bots in brainfuck or kernels in z80 assembly.",,False,,t5_2wk7l,False,,,True,t3_19wigl,http://www.reddit.com/r/readablecode/comments/19wigl/my_wellcommented_code_for_memory_freeing_in_my/,
+1362730691.0,6,nsl.com,19wi99,The origins of J,geocar,8,2,0,http://www.reddit.com/r/readablecode/comments/19wi99/the_origins_of_j/,,,False,,t5_2wk7l,False,,,False,t3_19wi99,http://nsl.com/papers/origins.htm,
+1362715562.0,6,gist.github.com,19w4z4,Monads in C#? Clunky or Beautiful...,runT1ME,9,3,1,http://www.reddit.com/r/readablecode/comments/19w4z4/monads_in_c_clunky_or_beautiful/,,,False,,t5_2wk7l,False,,,False,t3_19w4z4,https://gist.github.com/vmarquez/4640678,
+1376163640.0,9,self.readablecode,1k3raz,Tips to improve my code. A Selection Sort class in Java.,ysingh,12,3,16,http://www.reddit.com/r/readablecode/comments/1k3raz/tips_to_improve_my_code_a_selection_sort_class_in/,"I have a makeArray class just because I have been making a lot of arrays and filling them with randomly generated integers over the past two days. I should probably rename it to makeRandIntFilledArray or something. 
+
+Anyway I was writing a bunch of these algorithms in Java in a purely functional manner, inside a class with just a main method but decided to create a Selection Sort class just for fun and also to copy paste a lot of the methods into other classes like BubbleSort, etc.
+
+How do I make my code better?
+
+Link: https://gist.github.com/ysingh/6201807",,False,,t5_2wk7l,1376164376.0,,,True,t3_1k3raz,http://www.reddit.com/r/readablecode/comments/1k3raz/tips_to_improve_my_code_a_selection_sort_class_in/,
+1371184814.0,7,self.readablecode,1gbifq,[C++]I'm a noob at c++ and I want you to criticize me and my code.,taotao670,17,10,21,http://www.reddit.com/r/readablecode/comments/1gbifq/cim_a_noob_at_c_and_i_want_you_to_criticize_me/,"I don't know if it's just me, but I feel like my code looks worse than crap.  Is this just how c++ looks like after years of .NET?  I also feel like I'm doing things wrong.  Should my code with references and pointers be consistent?  I just learned pointers/references today so I'm not sure when to use which.  I also have other questions.
+ 
+In my _tmain method, I initialize the object     
+
+        TicTacToeGame g;
+
+However, it looked better before when I had it like:
+
+        TicTacToeGame g;
+        g.run();
+
+But when I do it that way, I get errors with the players and their characters.  Instead of player 1 having 'X' as its character, it ends up with 'I' and player 2 has '~' instead of 'O'.   Anyways, here's the github project of what I've attempted to make.
+
+https://github.com/abenavente406/Tictactoe",,False,,t5_2wk7l,False,,,True,t3_1gbifq,http://www.reddit.com/r/readablecode/comments/1gbifq/cim_a_noob_at_c_and_i_want_you_to_criticize_me/,
+1364002274.0,8,github.com,1au33d,How's this for readable (Python) code with comments?,riskable,23,15,41,http://www.reddit.com/r/readablecode/comments/1au33d/hows_this_for_readable_python_code_with_comments/,,,False,,t5_2wk7l,False,,,False,t3_1au33d,https://github.com/liftoff/GateOne/blob/master/gateone/applications/terminal/plugins/bookmarks/bookmarks.py#L186,
+1362769834.0,7,github.com,19xdxs,arraylist.c ,ErstwhileRockstar,19,12,11,http://www.reddit.com/r/readablecode/comments/19xdxs/arraylistc/,,,False,,t5_2wk7l,False,,,False,t3_19xdxs,https://github.com/json-c/json-c/blob/master/arraylist.c,
+1370328881.0,7,self.readablecode,1fmzb3,[C++] Am I using typedef properly?,JarlOfBacon,11,4,9,http://www.reddit.com/r/readablecode/comments/1fmzb3/c_am_i_using_typedef_properly/,"I have about a year of experience in Java, and I'm just starting a move to C++. I found typedef, and from what I see of it, it seems useful as all hell, but I'd like to confirm if I've been using it as intended, and possibly get some feedback as to what I'm doing right or wrong.
+
+Here's some simple code to show how I've been using it: https://gist.github.com/anonymous/5704080
+
+Am I right in using typedef to simply create shortcuts for data types
+with long names to save typing and improve readability? Or is there something I'm missing or doing imporperly?",,False,,t5_2wk7l,False,,,True,t3_1fmzb3,http://www.reddit.com/r/readablecode/comments/1fmzb3/c_am_i_using_typedef_properly/,
+1365014690.0,6,self.readablecode,1blro9,Multi-line ternary expression (from Mongoose docs),Majiir,17,11,37,http://www.reddit.com/r/readablecode/comments/1blro9/multiline_ternary_expression_from_mongoose_docs/,"From: http://mongoosejs.com/docs/index.html
+
+    var greeting = this.name
+        ? ""Meow name is "" + this.name
+        : ""I don't have a name""
+
+Shown in Javascript, but can be done in a variety of languages. It reminds me of ""None"" cases in other languages (although obviously this is less powerful, only allowing two expressions).",,False,,t5_2wk7l,False,,,True,t3_1blro9,http://www.reddit.com/r/readablecode/comments/1blro9/multiline_ternary_expression_from_mongoose_docs/,
+1362731688.0,5,self.readablecode,19wit7,How to make interop with obfuscated code much easier,sircmpwn,6,1,0,http://www.reddit.com/r/readablecode/comments/19wit7/how_to_make_interop_with_obfuscated_code_much/,"[The code](https://github.com/SirCmpwn/VanillaGen/blob/master/VanillaGen/VanillaDefaultGenerator.cs#L6)
+
+    using Profiler = ik;
+    using WorldType = va;
+    using ChunkProviderGenerate = xn;
+    using ISaveHandler = aee;
+    using VanillaChunk = wl;
+    using VanillaWorld = up;
+    using WorldSettings = ux;
+    using EnumGameType = uy;
+    using WorldProviderSurface = xe;
+    using IChunkProvider = wi;
+    using WorldProvider = xc;
+    using IChunkLoader = wq;
+    using IPlayerFileData = aer;
+    using WorldInfo = aed;
+    using NBTTagCompound = an;
+
+This code interacts with an obfuscated Minecraft binary to expose its terrain generator to my [Craft.Net](https://github.com/sircmpwn/Craft.Net) library. I decided to use a wall of using statements rather than use class names like ""ik"" and ""va"" everywhere.",,False,,t5_2wk7l,False,,,True,t3_19wit7,http://www.reddit.com/r/readablecode/comments/19wit7/how_to_make_interop_with_obfuscated_code_much/,
+1362686934.0,4,self.readablecode,19v4ts,Various jQuery selectors,BeachBum09,22,18,16,http://www.reddit.com/r/readablecode/comments/19v4ts/various_jquery_selectors/,"Here are some jQuery selectors. These aren't all of the possible selectors, but rather an overview on how powerful they can be and how to implement some of them. If you are familiar with jQuery you probably know these, but it is still good to have for a reference. Even the smartest people need a sanity check.
+
+To select all elements on the page that are within a paragraph tag:
+
+    $('p')
+
+To select all elements on the page with the CSS class 'active':
+
+    $('.active')
+
+To select the element with the ID 'container':
+
+    $('#container')
+
+To select all div elements with the class 'active':
+
+    $('div.active')
+
+To select all paragraph elements that is within a div with the class of 'active':
+
+    $('div.active p')
+
+To select the 4th list item from an unordered list (note that eq is zero-based):
+
+    $('li:eq(3)')
+
+You could also select the 4th item from an unordered list this way (not zero-based):
+
+    $('li:nth-child(4)')
+
+Select all descendants of an element with the class 'active' that has the class 'selection' then all descendants of the .selection class that are the second paragraph elements:
+
+    $('.active .selection p:eq(1)')
+
+Note that above, the space between each piece. The space means all descendants no matter their parent. Example:
+
+    &lt;div class=""active""&gt;
+        &lt;span class=""selection""&gt;
+            &lt;p&gt;I won't be selected&lt;/p&gt;
+            &lt;p&gt;I will be selected&lt;/p&gt;
+        &lt;/span&gt;
+        &lt;div class=""buffer""&gt;
+            &lt;span class=""choice""&gt;
+                &lt;p&gt;I won't be selected&lt;/p&gt;
+                &lt;p&gt;Neither will I&lt;/p&gt;
+            &lt;/span&gt;
+            &lt;span class=""selection""&gt;
+                &lt;p&gt;I won't be selected&lt;/p&gt;
+                &lt;p&gt;I will be selected&lt;/p&gt;
+            &lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+There is the direct descendant selector. This tells jQuery to select only from the immediate child of the parent element:
+
+    $('.active &gt; .selection p:eq(1)')
+
+Here is the HTML from the previous example that shows what will be selected when using the direct descendant selector. Notice that only the .selection that is the first child of the .active will be selected:
+
+    &lt;div class=""active""&gt;
+        &lt;span class=""selection""&gt;
+            &lt;p&gt;I won't be selected&lt;/p&gt;
+            &lt;p&gt;I will be selected&lt;/p&gt;
+        &lt;/span&gt;
+        &lt;div class=""buffer""&gt;
+            &lt;span class=""choice""&gt;
+                &lt;p&gt;I won't be selected&lt;/p&gt;
+                &lt;p&gt;Neither will I&lt;/p&gt;
+            &lt;/span&gt;
+            &lt;span class=""selection""&gt;
+                &lt;p&gt;I won't be selected&lt;/p&gt;
+                &lt;p&gt;Neither will I&lt;/p&gt;
+            &lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+Lets say you have a bunch of div elements. Each will be assigned a CSS class based on their data. Your classes are DebitCash, DebitCard, CreditCash, CreditCard. You want to select all divs that have a class that begins with Debit:
+
+    $('div[class^=""Debit""]')
+
+Using the above example, now lets say there is also a class called DebitTotal. You now want to select all elements that begin with Debit or that have the class DebitTotal:
+
+    $('div[class^=""Debit""], [class~=""DebitTotal""]')
+
+
+
+I know those are only a very few. These are just a few I came across in my learning and working with jquery. As I said, they are always nice to have so you can refer to them. Sometimes the most basic concepts need to be reinforced. ",,False,,t5_2wk7l,False,,,True,t3_19v4ts,http://www.reddit.com/r/readablecode/comments/19v4ts/various_jquery_selectors/,
+1362671322.0,5,norvig.com,19ul1t,Peter Norvig's Spelling Corrector,Monkeyget,6,1,3,http://www.reddit.com/r/readablecode/comments/19ul1t/peter_norvigs_spelling_corrector/,,,False,,t5_2wk7l,False,,,False,t3_19ul1t,http://norvig.com/spell-correct.html,
+1362707105.0,3,perl6advent.wordpress.com,19vusb,now - INIT now; # code which needs to be executed at different phases of execution but which ought to be kept together for readability (p6),raiph,5,2,0,http://www.reddit.com/r/readablecode/comments/19vusb/now_init_now_code_which_needs_to_be_executed_at/,,,False,,t5_2wk7l,False,,,False,t3_19vusb,http://perl6advent.wordpress.com/2012/12/15/day-15-phasers-set-to-stun/,
+1366310805.0,3,pastebin.com,1cmf9c,I could use some criticism on my code.,thelochnessmonstah,4,1,7,http://www.reddit.com/r/readablecode/comments/1cmf9c/i_could_use_some_criticism_on_my_code/,,,False,,t5_2wk7l,False,,,False,t3_1cmf9c,http://pastebin.com/wh2Sp4hC,
+1363704201.0,5,self.readablecode,1aleql,C++11 Variant that supports const/ref types,Kometes_,11,6,3,http://www.reddit.com/r/readablecode/comments/1aleql/c11_variant_that_supports_constref_types/,"Here's my [variant](https://github.com/Kometes/Honeycomb/blob/master/Honeycomb/src/common/Honey/Misc/Variant.h) implementation and the [docs](http://kometes.github.com/Honeycomb/Doxygen/html/classhoney_1_1variant.html).  I think the code is fairly easy to grok.
+
+    int a = 0;
+    variant&lt;int, char, string&gt; var('a');           //selects char
+    variant&lt;int, int64, string&gt; var2(1.1);         //no exact match, first convertible is int
+    variant&lt;int&amp;, const Foo&amp;, string&gt; var3(a);     //int ref to a
+    var3 = ""foo"";                                  //selects string
+    var3.bind(a);                                  //selects int&amp;
+    var3 = 1;                                      //a = 1
+    float f = var3;                                //implicit conversion from int
+    string res = var3.visit&lt;string&gt;(overload
+    (
+       [](int) { return ""foo""; },                  //selects this, res = ""foo""
+       [](string) { return ""bar""; }
+    ));
+",,False,,t5_2wk7l,1363704931.0,,,True,t3_1aleql,http://www.reddit.com/r/readablecode/comments/1aleql/c11_variant_that_supports_constref_types/,
+1362776798.0,3,github.com,19xmfb,[Python] Calculator in 50 lines (using a LALR parser),hexbrid,6,3,3,http://www.reddit.com/r/readablecode/comments/19xmfb/python_calculator_in_50_lines_using_a_lalr_parser/,,,False,,t5_2wk7l,False,,,False,t3_19xmfb,https://github.com/erezsh/plyplus/blob/master/examples/calc.py,
+1362772928.0,3,self.readablecode,19xhqo,Recommend favorite JavaScript code/coder repositories?,standingdesk,7,4,2,http://www.reddit.com/r/readablecode/comments/19xhqo/recommend_favorite_javascript_codecoder/,I'm looking for good source code to study as a JavaScript beginner.,,False,,t5_2wk7l,False,,,True,t3_19xhqo,http://www.reddit.com/r/readablecode/comments/19xhqo/recommend_favorite_javascript_codecoder/,
+1362707865.0,4,github.com,19vvpe,Simple hashtable in C,larsendt,7,3,10,http://www.reddit.com/r/readablecode/comments/19vvpe/simple_hashtable_in_c/,,,False,,t5_2wk7l,False,,,False,t3_19vvpe,https://github.com/larsendt/hashtable/blob/master/src/hashtable.c,
+1362685051.0,6,gist.github.com,19v2au,for comprehensions as monad in clojure,dustingetz,10,4,1,http://www.reddit.com/r/readablecode/comments/19v2au/for_comprehensions_as_monad_in_clojure/,,,False,,t5_2wk7l,False,,,False,t3_19v2au,https://gist.github.com/dustingetz/4588672,
+1362672364.0,2,code.google.com,19um7v,[Java] Artemis Entity System Framework,egonelbre,17,15,9,http://www.reddit.com/r/readablecode/comments/19um7v/java_artemis_entity_system_framework/,,,False,,t5_2wk7l,False,,,False,t3_19um7v,https://code.google.com/p/artemis-framework/,
+1376414547.0,3,self.readablecode,1kafla,Reporting Errors/Warnings,tylercamp,8,5,5,http://www.reddit.com/r/readablecode/comments/1kafla/reporting_errorswarnings/,"For a while I've been going back and forth in how I do my error handling. When I pick a style I stick with it for the entire library, but I've never really been sure of what's appropriate.
+
+The two main methods I use are simply throwing exceptions, or defining a ""debug stream"" to which messages/warnings/errors are reported. For debug streams, it's usually customizable such that the user can define what actually happens. i.e. I have an ExceptionOutputStream, a ConsoleOutputStream, and a FakeOutputStream for starters.
+
+I like to think that using a debug stream is preferable since an exception will crash the program, whereas a controlled output stream generally won't. (Uncaught exception will always crash, if you specify output to console/text file then there's no crash and the debug information is still recorded.)
+
+What do you guys normally do for this sort of thing?
+
+What's more appropriate - throwing exceptions or a customizable debug stream?",,False,,t5_2wk7l,False,,,True,t3_1kafla,http://www.reddit.com/r/readablecode/comments/1kafla/reporting_errorswarnings/,
+1366761528.0,3,self.readablecode,1cz1qh,[C++] Using Overloaded Function Call inside Class,rightandleft,3,0,4,http://www.reddit.com/r/readablecode/comments/1cz1qh/c_using_overloaded_function_call_inside_class/,"I have a FailureSurface class in a stress analysis program which overloads the function call operator so that
+
+    double someVar = myFailureSurface(Eigen::Vector3d PointOfStress);
+
+returns a value indicating whether the point of stress is inside the FailureSurface function. I use this same function inside of the class for several operations which produces some nasty looking code
+
+    double someVar = this-&gt;operator()(Eigen::Vector3d PointOfStress);
+
+while this appears to work, it doesn't render the code as readable as the first instance - does anyone have any suggestions as to how to clean this up?",,False,,t5_2wk7l,False,,,True,t3_1cz1qh,http://www.reddit.com/r/readablecode/comments/1cz1qh/c_using_overloaded_function_call_inside_class/,
+1362739103.0,3,self.readablecode,19wmef,best first tree search C++,Gupie,3,0,0,http://www.reddit.com/r/readablecode/comments/19wmef/best_first_tree_search_c/,"    #include &lt;queue&gt; 
+
+    template&lt; class Node, typename Distance_func &gt;
+    class Frontier;
+
+    // ""best first"" tree search - nodes are expanded in best first order, ( as oppossed to depth or breadth first ),
+    // the search stops when a node passed a given goal test,
+    // a supplied function gives an estimate of how close a node is to the goal,
+    // only works for trees, not for graphs as there is no check to prevent loops
+    //
+    template&lt; class Node, typename Distance_func, typename Goal_test_func &gt;
+    Node* tree_search_best_first( Node&amp; start, Distance_func estimate_dist, Goal_test_func goal_test )
+    {
+        Frontier&lt; Node, Distance_func &gt; frontier( estimate_dist );
+    
+        frontier.add( start );
+
+        while( frontier.size() != 0 )
+        {
+            // retrieve best node from frontier and check if we have reached the goal
+
+            Node* best_p = frontier.remove_best();
+
+            if( goal_test( *best_p ) ) 
+            {
+                return best_p;
+            }
+
+            // add the best node's children to the frontier
+
+            for( typename Node::iterator i = best_p-&gt;begin(); i != best_p-&gt;end(); ++i )
+            {
+                frontier.add( *i );
+            }
+        }
+
+        return 0;  // no goal found
+    }
+
+    // class to hold the frontier nodes, i.e. nodes that have been reached
+    // but not yet checked for being a goal
+    //
+    template&lt; class Node, typename Distance_func &gt;
+    class Frontier
+    {
+    public:
+
+        Frontier( Distance_func estimate_dist )
+        :   estimate_dist_( estimate_dist )
+        {
+        }
+
+        void add( Node&amp; node )
+        {
+            priority_queue_.push( Node_dist( node, estimate_dist_( node ) ) );
+        }
+
+        Node* remove_best()
+        {
+            Node* best_p = priority_queue_.top().node_p_;
+            priority_queue_.pop();
+            return best_p;
+        }
+
+        size_t size() const
+        {
+            return priority_queue_.size();
+        }
+
+    private:
+
+        struct Node_dist
+        {
+            Node_dist( Node&amp; node, const int dist )
+            :   node_p_( &amp;node )
+            ,   dist_( dist )
+            {
+            }
+
+            bool operator&gt;( const Node_dist&amp; rhs ) const
+            {
+                return dist_ &gt; rhs.dist_;
+            }
+
+            Node* node_p_;
+            int dist_;
+        };
+
+        typedef std::priority_queue&lt; Node_dist, std::vector&lt; Node_dist &gt;, std::greater&lt; Node_dist &gt; &gt; Priority_queue;
+
+        Distance_func estimate_dist_;
+        Priority_queue priority_queue_;
+    };
+",,False,,t5_2wk7l,False,,,True,t3_19wmef,http://www.reddit.com/r/readablecode/comments/19wmef/best_first_tree_search_c/,
+1362718802.0,4,self.readablecode,19w8k8,I like to prefix all my css classes used for jquery rather than style.,thilehoffer,7,3,13,http://www.reddit.com/r/readablecode/comments/19w8k8/i_like_to_prefix_all_my_css_classes_used_for/,"If I want to put a css class on a tag and I know it is going to selected via jquqery I prefix it with a j. For example,
+&lt;a class='j-my-class'&gt;&lt;a/&gt; compared to &lt;a class='style-option'&gt;&lt;/a&gt;
+ 
+This makes it clear that css class is for jquery rather than in a style sheet.
+",,False,,t5_2wk7l,False,,,True,t3_19w8k8,http://www.reddit.com/r/readablecode/comments/19w8k8/i_like_to_prefix_all_my_css_classes_used_for/,
+1362717635.0,2,haskell.org,19w7bl,Guided tour of the xmonad source - StackSet.hs,smackmybishop,4,2,0,http://www.reddit.com/r/readablecode/comments/19w7bl/guided_tour_of_the_xmonad_source_stackseths/,,,False,,t5_2wk7l,False,,,False,t3_19w7bl,http://www.haskell.org/haskellwiki/Xmonad/Guided_tour_of_the_xmonad_source/StackSet.hs,
+1362678352.0,3,self.readablecode,19utli,[*] Incredibly useful function I use all the time,jerzmacow,6,3,6,http://www.reddit.com/r/readablecode/comments/19utli/incredibly_useful_function_i_use_all_the_time/,"I first saw this in Processing back when I was a little Java noob. I've found a use for it in pretty much every project I've done, especially ones involving graphics.
+
+    Re-maps a number from one range to another. In the example above,
+    
+    value:  the incoming value to be converted
+    start1: lower bound of the value's current range
+    stop1:  upper bound of the value's current range
+    start2: lower bound of the value's target range
+    stop2:  upper bound of the value's target range
+    
+    float map(float value, float istart, float istop, float ostart, float ostop) {
+       return ostart + (ostop - ostart) * ((value - istart) / (istop - istart));
+    }",,False,,t5_2wk7l,False,,,True,t3_19utli,http://www.reddit.com/r/readablecode/comments/19utli/incredibly_useful_function_i_use_all_the_time/,
+1362675754.0,3,self.readablecode,19uqag,[bash] Recursively drop TCP connections,SaturnFive,4,1,0,http://www.reddit.com/r/readablecode/comments/19uqag/bash_recursively_drop_tcp_connections/,"A simple script that will recursively drop TCP connections and allows for exceptions to be defined.
+
+    #!/bin/sh
+
+    # Get IP addresses and port numbers
+    nstat=$(netstat -n | grep tcp)
+    srcip=$(echo $nstat | awk '{ print $4 }' | cut -d '.' -f 1,2,3,4)
+    dstip=$(echo $nstat | awk '{ print $5 }' | cut -d '.' -f 1,2,3,4)
+    srcpt=$(echo $nstat | awk '{ print $4 }' | cut -d '.' -f 5)
+    dstpt=$(echo $nstat | awk '{ print $5 }' | cut -d '.' -f 5)
+    count=$(echo $srcip | wc -l)
+
+    # Bind addresses into arrays
+    i=0; for ip in $srcip; do srcip[$i]=$ip; let ""i++""; done
+    i=0; for ip in $dstip; do dstip[$i]=$ip; let ""i++""; done
+    i=0; for pt in $srcpt; do srcpt[$i]=$pt; let ""i++""; done
+    i=0; for pt in $dstpt; do dstpt[$i]=$pt; let ""i++""; done
+
+    # Drop TCP connections
+    i=0; while [[ $i -ne $count ]]; do
+
+      # Exceptions (port 22 and 80 in this example)
+      if [[ ${srcpt[$i]} -eq 22 || ${dstpt[$i]} -eq 80 ]]; then
+        echo ${srcip[$i]}:${srcpt[$i]} ${dstip[$i]}:${dstpt[$i]} skipped
+        let ""i++""
+        continue
+      fi
+
+      # Drop 'em like it's hot
+      tcpdrop ${srcip[$i]} ${srcpt[$i]} ${dstip[$i]} ${dstpt[$i]}
+      let ""i++""
+
+    done
+
+Not sure if anyone will find it useful, but I use it frequently when I need to clear out the results from netstat so I can see what is *actually* connected.
+
+Comments welcome.",,False,,t5_2wk7l,1362675948.0,,,True,t3_19uqag,http://www.reddit.com/r/readablecode/comments/19uqag/bash_recursively_drop_tcp_connections/,
+1362722225.0,2,self.readablecode,19wc0s,Generic Repository Interface C#,habathcx,3,1,14,http://www.reddit.com/r/readablecode/comments/19wc0s/generic_repository_interface_c/,"Recently created a data access layer, went with a repository pattern because it was clean and simple. Not the best for every scenario, but keeps things simple.
+
+    public interface IObjectRepository&lt;T&gt; where T: class
+    {
+        IEnumerable&lt;T&gt; SelectAll();
+        IEnumerable&lt;T&gt; SelectByColumn(String column, Object value);
+        IEnumerable&lt;T&gt; SelectMultiLimit(int offset, int limit);
+        IEnumerable&lt;T&gt; SelectByColumnMultiLimit(String column, Object value, int offset, int limit);
+        T SelectById(int objId);
+        T Insert(T obj);
+        T Update(T obj);
+        bool Delete(T obj);
+    }",,False,,t5_2wk7l,False,,,True,t3_19wc0s,http://www.reddit.com/r/readablecode/comments/19wc0s/generic_repository_interface_c/,
+1362704619.0,4,self.readablecode,19vru9,In-lining C# delegates,Darkmoon_UK,6,2,4,http://www.reddit.com/r/readablecode/comments/19vru9/inlining_c_delegates/,"I encounter this kind of form a lot:
+
+    DoSomething( aParam, bParam, delegate{
+         PostAction( cParam, dParam );
+    });
+
+It's even worse when there are multiple delegates defined in-line as parameters, and worse still when these are nested.
+
+I think it's outright bad practise to do this, because of two things: First and most obvious; the unbalanced layout of brackets is visually harder to follow.  More importantly though, you've wasted the opportunity to create self documenting code by a meaningful naming of the delegate.
+
+    Action postDoSomething = delegate()
+    {
+        PostAction( cParam, dParam );
+    };
+
+    DoSomething( aParam, bParam, postDoSomething );
+
+It's a bit more verbose, sure, but I think in this case it pays off.
+
+Small and obvious one liners forgiven:
+
+    DoSomething( aParam, bParam, delegate{ PostAction(); } )",,False,,t5_2wk7l,False,,,True,t3_19vru9,http://www.reddit.com/r/readablecode/comments/19vru9/inlining_c_delegates/,
+1362691531.0,2,norvig.com,19vb1v,[Python] Natural Language Corpus Data,abecedarius,2,0,0,http://www.reddit.com/r/readablecode/comments/19vb1v/python_natural_language_corpus_data/,,,False,,t5_2wk7l,False,,,False,t3_19vb1v,http://norvig.com/ngrams/,
+1362689576.0,1,self.readablecode,19v8bv,Groovy regexps in Groovy,mikevdg,5,4,6,http://www.reddit.com/r/readablecode/comments/19v8bv/groovy_regexps_in_groovy/,"I was doing some SQL munging in Groovy, and I need to pull the first occurance of an Integer out of a String:
+
+    def parameterPublicId = (parameterStr =~ /\d+/)[0] as Integer // Oh man. Groovy's regexps are awesome.
+
+This was magical to me. Explanation: http://groovy.codehaus.org/Regular+Expressions",,False,,t5_2wk7l,False,,,True,t3_19v8bv,http://www.reddit.com/r/readablecode/comments/19v8bv/groovy_regexps_in_groovy/,
+1362683789.0,3,javascriptbeautifier.com,19v0le,"Javascript beautifier, in case anyone has never seen it",dowelly,6,3,2,http://www.reddit.com/r/readablecode/comments/19v0le/javascript_beautifier_in_case_anyone_has_never/,,,False,,t5_2wk7l,False,,,False,t3_19v0le,http://www.javascriptbeautifier.com/,
+1362681294.0,2,self.readablecode,19ux9z,[C++] A simple class that has so many applications,Fiennes,3,1,3,http://www.reddit.com/r/readablecode/comments/19ux9z/c_a_simple_class_that_has_so_many_applications/,"		class TypeInfoBox {
+			friend bool operator == (const TypeInfoBox&amp; l, const TypeInfoBox&amp; r);
+		private:
+			const std::type_info&amp; typeInfo_;
+
+		public:
+			TypeInfoBox(const std::type_info&amp; info) : typeInfo_(info) {
+			};	// eo ctor
+
+			// hasher
+			class hash {
+			public:
+				size_t operator()(const TypeInfoBox&amp; typeInfo) const {
+					return typeInfo.typeInfo_.hash_code();
+				};
+			};	// eo class hash
+
+			const std::type_info&amp; typeInfo() const { return typeInfo_; };
+		};
+
+		bool operator == (const TypeInfoBox&amp; l, const TypeInfoBox&amp; r) { return l.typeInfo_.hash_code() == r.typeInfo_.hash_code(); };
+
+
+Hopefully, this is the right place to post this!  The above class ends up getting used in many of my C++ projects.  What it does, is wrap up std::type_info&amp; in a form that can be used within map collections.  For example:
+
+    typedef std::function&lt;void()&gt; some_delegate;
+    typedef std::unordered_map&lt;TypeInfoBox, some_delegate, TypeInfoBox::hash&gt; type_map;
+    type_map map_;
+
+    // add something specifically for std::string
+    map_[typeid(std::string)] = []() -&gt; void { /* do something */};
+
+This allows us to leverage the type-system in powerful ways, by using a simple class wrapper.",,False,,t5_2wk7l,False,,,True,t3_19ux9z,http://www.reddit.com/r/readablecode/comments/19ux9z/c_a_simple_class_that_has_so_many_applications/,
+1362677968.0,2,hackage.haskell.org,19ut42,[haskell] basic libraries,hay_guise,2,0,1,http://www.reddit.com/r/readablecode/comments/19ut42/haskell_basic_libraries/,,,False,,t5_2wk7l,False,,,False,t3_19ut42,http://hackage.haskell.org/packages/archive/base/latest/doc/html/,
+1362737045.0,1,personal.cis.strath.ac.uk,19wlgx,Literate Agda is Exemplary Agda,psygnisfive,1,0,1,http://www.reddit.com/r/readablecode/comments/19wlgx/literate_agda_is_exemplary_agda/,,,False,,t5_2wk7l,False,,,False,t3_19wlgx,https://personal.cis.strath.ac.uk/conor.mcbride/pub/OAAO/LitOrn.pdf,
+1362731166.0,1,cse.chalmers.se,19wiix,The Agda Standard Library,drkevorkian,1,0,0,http://www.reddit.com/r/readablecode/comments/19wiix/the_agda_standard_library/,,,False,,t5_2wk7l,False,,,False,t3_19wiix,http://www.cse.chalmers.se/~nad/listings/lib-0.7/README.html,
+1362722824.0,1,self.readablecode,19wcl0,Static Configuration Properties / app.config Storage C#,habathcx,1,0,2,http://www.reddit.com/r/readablecode/comments/19wcl0/static_configuration_properties_appconfig_storage/,"I like to use the built in app.config to store my application settings and I like the idea of being able to use static properties of a class to get and set those values.
+
+I typically create a class called Config and use the following methods to get/set the settings within the app.config.
+
+        private static Configuration _config = null;
+        private static void SetValue(String key, String value)
+        {
+            _config = ConfigurationManager.OpenExeConfiguration(ConfigurationUserLevel.None);
+            _config.AppSettings.Settings.Remove(key);
+            _config.AppSettings.Settings.Add(key, value);
+            _config.Save(ConfigurationSaveMode.Modified);
+        }
+        private static String GetValue(String key)
+        {
+            //Need to call refresh section to pull any changed values
+            ConfigurationManager.RefreshSection(""appSettings"");
+            String retVal = String.Empty;
+            try
+            {
+                retVal = ConfigurationManager.AppSettings.Get(key);
+            }
+            catch (Exception)
+            {
+                return String.Empty;
+            }
+            return retVal;
+        }
+        private static bool GetValueAsBool(String key)
+        {
+            String val = GetValue(key);
+            return !String.IsNullOrEmpty(val) &amp;&amp; bool.Parse(val);
+        }
+        private static int GetValueAsInt(String key)
+        {
+            String val = GetValue(key);
+            return String.IsNullOrEmpty(val) ? 0 : Int32.Parse(val);
+        }
+
+
+The property typically looks something like:
+
+        public static String ConnectionString
+        {
+            get { return GetValue(""ConnectionString""); }
+            set { SetValue(""ConnectionString"", value); }
+        }
+
+There are probably better patterns but, this is the wonderful habit I have picked up. And it's pretty easy to drop in quickly and use through the project. 
+
+If anyone has advice on a better pattern for this I would love to see it.",,False,,t5_2wk7l,False,,,True,t3_19wcl0,http://www.reddit.com/r/readablecode/comments/19wcl0/static_configuration_properties_appconfig_storage/,
+1362686829.0,1,gist.github.com,19v4p0,[CoffeeScript] Web server with support for transparent RPC and MongoDB CRUD,runvnc,1,0,0,http://www.reddit.com/r/readablecode/comments/19v4p0/coffeescript_web_server_with_support_for/,,,False,,t5_2wk7l,False,,,False,t3_19v4p0,https://gist.github.com/ithkuil/4191057,
+1362685219.0,1,self.readablecode,19v2iz,TSQL Functions to get First/Last days of months,BeachBum09,2,1,0,http://www.reddit.com/r/readablecode/comments/19v2iz/tsql_functions_to_get_firstlast_days_of_months/,"Found this subreddit and figured I could add some of my snippets.
+
+Here are some various date functions to get the first/last days of a month or other various months. I saved these because every time I needed to do something similar, I had to spend the time figuring out how to do it again.
+
+    -- Getting the first day of the previous month
+    SELECT
+        DATEADD(MONTH, DATEDIFF(MONTH, 0, GETDATE()) -1, 0)
+
+    -- Getting the first day of the previous month (alternate)
+    SELECT
+        DATEADD(DAY, -(DAY(DATEADD(MONTH, 1, GETDATE())) -1),   DATEADD(MONTH, -1, GETDATE()))
+
+    -- First day of current month
+    SELECT
+        DATEADD(MONTH, DATEDIFF(MONTH, 0, GETDATE()), 0)
+
+    --First day of current month (alternate)
+    SELECT
+        DATEADD(DAY, -(DAY(GETDATE()) -1), GETDATE())
+
+    -- First day of next month
+    SELECT
+        DATEADD(MONTH, DATEDIFF(MONTH, 0, GETDATE()) + 1, 0)
+
+    -- First day of next month (alternate)
+    SELECT
+        DATEADD(DAY, -(DAY(DATEADD(MONTH, 1, GETDATE())) - 1) DATEADD(MONTH, 1, GETDATE()))
+
+    -- Last day of previous month
+    SELECT
+        DATEADD(DAY, -(DAY(GETDATE())), GETDATE())",,False,,t5_2wk7l,False,,,True,t3_19v2iz,http://www.reddit.com/r/readablecode/comments/19v2iz/tsql_functions_to_get_firstlast_days_of_months/,
+1362685200.0,1,github.com,19v2i4,[Python] Robinson Crusoe's parsing library,abecedarius,1,0,3,http://www.reddit.com/r/readablecode/comments/19v2i4/python_robinson_crusoes_parsing_library/,,,False,,t5_2wk7l,False,,,False,t3_19v2i4,https://github.com/darius/peglet,
+1362678435.0,1,spinellis.gr,19utpu,Diomidis Spinellis blog (author of Code Quality and  Code Reading),jnazario,2,1,0,http://www.reddit.com/r/readablecode/comments/19utpu/diomidis_spinellis_blog_author_of_code_quality/,,,False,,t5_2wk7l,False,,,False,t3_19utpu,http://www.spinellis.gr/blog/,
+1362672451.0,1,self.readablecode,19umbk,Name the must read repo!,init0,2,1,2,http://www.reddit.com/r/readablecode/comments/19umbk/name_the_must_read_repo/,,,False,,t5_2wk7l,False,,,True,t3_19umbk,http://www.reddit.com/r/readablecode/comments/19umbk/name_the_must_read_repo/,
+1375391344.0,0,self.readablecode,1jirnj,[Scala] Good way to format Maps?,JarlOfBacon,1,1,0,http://www.reddit.com/r/readablecode/comments/1jirnj/scala_good_way_to_format_maps/,"http://pastebin.com/6wpHgWr7
+
+I just started using this method of writing maps in Scala. I find it
+readable, but what do you guys think?",,False,,t5_2wk7l,False,,,True,t3_1jirnj,http://www.reddit.com/r/readablecode/comments/1jirnj/scala_good_way_to_format_maps/,
+1367442861.0,1,gist.github.com,1di9km,Snippet of a javascript date formatter.,L8D,10,9,12,http://www.reddit.com/r/readablecode/comments/1di9km/snippet_of_a_javascript_date_formatter/,,,False,,t5_2wk7l,False,,,False,t3_1di9km,https://gist.github.com/L8D/5498414,
+1366666913.0,0,github.com,1cw395,"My completely unfinished, short, stupidly written, dumb book or guide of sorts on how to write beutifule code. Feel free to do pull requests or suggest stuff.",L8D,9,9,12,http://www.reddit.com/r/readablecode/comments/1cw395/my_completely_unfinished_short_stupidly_written/,,,False,,t5_2wk7l,False,,,False,t3_1cw395,https://github.com/L8D/book/blob/master/how-to-write-beautiful-code.md,
+1365599136.0,0,self.readablecode,1c269h,Funny how this snippet is almost fluent English,ggPeti,2,2,1,http://www.reddit.com/r/readablecode/comments/1c269h/funny_how_this_snippet_is_almost_fluent_english/,"This is a little piece of Ruby code in the project I'm working on.
+
+    unless ENV[""STOP_ON_FIRST_ERROR""] == ""no""
+      After do |scenario|
+        Cucumber.wants_to_quit = true if scenario.failed?
+      end
+    end
+
+Quite self-explanatory, but let me just write this out in plain English, to show how close the code is to human communication.
+
+""Unless the environment does not want us to stop on the first error, after it does a scenario, Cucumber wants to quit if the scenario failed.""",,False,,t5_2wk7l,False,,,True,t3_1c269h,http://www.reddit.com/r/readablecode/comments/1c269h/funny_how_this_snippet_is_almost_fluent_english/,
+1364720777.0,0,pastebin.ca,1bcnjj,"Comma-first notation can produce clean, easy to read and self-aligned code.",MrDoomBringer,9,9,16,http://www.reddit.com/r/readablecode/comments/1bcnjj/commafirst_notation_can_produce_clean_easy_to/,,,False,,t5_2wk7l,False,,,False,t3_1bcnjj,http://pastebin.ca/2346182,
+1375948959.0,0,i.imgur.com,1jxzvg,An email from my CTO on the drawbacks of refactoring...,thiswillspelldoom,2,3,2,http://www.reddit.com/r/readablecode/comments/1jxzvg/an_email_from_my_cto_on_the_drawbacks_of/,,,False,,t5_2wk7l,False,,,False,t3_1jxzvg,http://i.imgur.com/XpUhw2y.png,
+1366994539.0,0,self.readablecode,1d5vbk,Comments are like tweets to your future self,zero_intp,4,4,0,http://www.reddit.com/r/readablecode/comments/1d5vbk/comments_are_like_tweets_to_your_future_self/,\#DUMBHACK,,False,,t5_2wk7l,False,,,True,t3_1d5vbk,http://www.reddit.com/r/readablecode/comments/1d5vbk/comments_are_like_tweets_to_your_future_self/,
+1362786988.0,0,github.com,19xyyg,"Some code I wrote a while ago, what do you think?",Intrepidd,1,2,0,http://www.reddit.com/r/readablecode/comments/19xyyg/some_code_i_wrote_a_while_ago_what_do_you_think/,,,False,,t5_2wk7l,False,,,False,t3_19xyyg,https://github.com/Intrepidd/rails-canhaz/blob/master/lib/rails-canhaz/extensions_subject.rb,
+1362779737.0,0,cplusplus.com,19xq62,Fizz Buzz in C++11,ErstwhileRockstar,2,3,1,http://www.reddit.com/r/readablecode/comments/19xq62/fizz_buzz_in_c11/,,,False,,t5_2wk7l,False,,,False,t3_19xq62,http://www.cplusplus.com/forum/lounge/69069/#msg369461,
+1362712746.0,0,websequencediagrams.com,19w1nr,"i saw an interesting comment in Resig's porthole.js code, it lead me here.",tau-lepton,2,3,5,http://www.reddit.com/r/readablecode/comments/19w1nr/i_saw_an_interesting_comment_in_resigs_portholejs/,,,False,,t5_2wk7l,False,,,False,t3_19w1nr,http://www.websequencediagrams.com/,
+1370245925.0,0,irclog.perlgeek.de,1fkiru,Carl Mäsak cackles at a one line balanced brackets parser,raiph,8,10,2,http://www.reddit.com/r/readablecode/comments/1fkiru/carl_mäsak_cackles_at_a_one_line_balanced/,,,False,,t5_2wk7l,False,,,False,t3_1fkiru,http://irclog.perlgeek.de/perl6/2013-06-03#i_7146104,
+1364773890.0,0,self.readablecode,1bdxp7,"Some complained that my last submission was not readable. I worked on it, and I think its a lot better now. (warning: project euler solution spoiler)",umenthum,4,6,3,http://www.reddit.com/r/readablecode/comments/1bdxp7/some_complained_that_my_last_submission_was_not/,"    #include &lt;stdio.h&gt;
+    int main(){for(int n=0,i=0,t,f;1;(({int j=2,k=n;for(f=1,t=1;j&lt;=k;({for(;k%j==0;t++,k/=j);}),f*=t,t=1,j++);}),f)&lt;500?n+=i++:(printf(""%d\n"",n),({return 0;})));}",,False,,t5_2wk7l,False,,,True,t3_1bdxp7,http://www.reddit.com/r/readablecode/comments/1bdxp7/some_complained_that_my_last_submission_was_not/,
+1362697887.0,0,self.readablecode,19vjl9,[C] Preprocessor Macro,LeptonVerde,1,3,1,http://www.reddit.com/r/readablecode/comments/19vjl9/c_preprocessor_macro/,"    #define quickSort(l, n) real_quickSort(l, 0, n)  
+    #define mergeSort(l, n) real_mergeSort(l, 0, n - 1)  
+    #define max(n, m) ((n) &gt; (m)?(n):(m))  
+    #define benchmark(FUNCTION, ...) \  
+    {\  
+    current = arrayDup(ilist,size*sizeof(int)); \  
+    uswtime(&amp;utime0, &amp;stime0, &amp;wtime0); \  
+    FUNCTION(__VA_ARGS__); \  
+    uswtime(&amp;utime1, &amp;stime1, &amp;wtime1); \  
+    free(current);\  
+    printf(#FUNCTION"": \t\t""); \  
+    printf(""real  %.13f \t"",  wtime1 - wtime0); \  
+    printf(""\n"");\  
+    }  
+
+     benchmark(bubble, ilist, size);  
+     benchmark(mergeSort, ilist, size);  
+     benchmark(quickSort, ilist, size);  
+     benchmark(insSort, ilist,size);  
+     benchmark(minMax, ilist, size);  
+     benchmark(secMin, ilist, size);  
+     benchmark(find, ilist, size, 1);  
+
+
+What do you think? 
+
+edit: More macros",,False,,t5_2wk7l,False,,,True,t3_19vjl9,http://www.reddit.com/r/readablecode/comments/19vjl9/c_preprocessor_macro/,
+1362668059.0,0,pastebin.com,19uhql,C++: Here's a template based endian swapper,smellslikedonkey,1,3,0,http://www.reddit.com/r/readablecode/comments/19uhql/c_heres_a_template_based_endian_swapper/,,,False,,t5_2wk7l,False,,,False,t3_19uhql,http://pastebin.com/qAe0Dx8t,
+1362677170.0,0,self.readablecode,19us37,[APL] The Finest Fizz That Ever Did Buzz,rghd,7,9,3,http://www.reddit.com/r/readablecode/comments/19us37/apl_the_finest_fizz_that_ever_did_buzz/,"⎕IO←0
+(L,'Fizz' 'Buzz' 'FizzBuzz')[¯1+(L×W=0)+W←(100×~0=W)+W←⊃+/1 2×0=3 5|⊂L←1+⍳100]
+
+Beautiful.",,False,,t5_2wk7l,False,,,True,t3_19us37,http://www.reddit.com/r/readablecode/comments/19us37/apl_the_finest_fizz_that_ever_did_buzz/,
+1362683211.0,0,gist.github.com,19uzuh,scala - find longest palindrome in a block of text,dustingetz,6,10,3,http://www.reddit.com/r/readablecode/comments/19uzuh/scala_find_longest_palindrome_in_a_block_of_text/,,,False,,t5_2wk7l,False,,,False,t3_19uzuh,https://gist.github.com/dustingetz/5110801,
+1362695553.0,0,self.readablecode,19vgie,Line Seperations,miike24,2,7,5,http://www.reddit.com/r/readablecode/comments/19vgie/line_seperations/,"http://imgur.com/kX4mNf5
+
+Use lines of dashes to separate the content in your class body.
+Currently I use 100-character lines (separate class definitions), 70-character lines (separate methods within the class), and 40-character lines (to separate chunks of code within a method).",,False,,t5_2wk7l,False,,,True,t3_19vgie,http://www.reddit.com/r/readablecode/comments/19vgie/line_seperations/,
+1362669479.0,0,github.com,19uj3t,Brainfuck IRC Client,AllegraGeller,20,26,5,http://www.reddit.com/r/readablecode/comments/19uj3t/brainfuck_irc_client/,,,False,,t5_2wk7l,False,,,False,t3_19uj3t,https://github.com/SirCmpwn/bf-irc-bot/blob/master/irc-bot.bf,
+1362693170.0,0,self.readablecode,19vdbu,FizzBuzz One-Liner,a1phanumeric,5,18,10,http://www.reddit.com/r/readablecode/comments/19vdbu/fizzbuzz_oneliner/,"Ok, I know this is the opposite of ""ReadableCode"" but I love refactoring little challenges like this (and Project Euler ones). Shame on me, but it's a PHP solution.
+
+    for($i=1;$i&lt;=100;$i++)print((($i%15==0)?'FizzBuzz':(($i%5==0)?'Buzz':(($i%3==0)?'Fizz':$i))).""\n"");
+
+[FizzBuzz](https://www.hackerrank.com/fizzbuzz) for those interested. Here's my [Gist](https://gist.github.com/a1phanumeric/3907827), here's my [GitHub](https://github.com/a1phanumeric).",,False,,t5_2wk7l,False,,,True,t3_19vdbu,http://www.reddit.com/r/readablecode/comments/19vdbu/fizzbuzz_oneliner/,
+1362674832.0,0,self.readablecode,19up4h,Quickly returning the number of factors an integer has,umenthum,3,20,11,http://www.reddit.com/r/readablecode/comments/19up4h/quickly_returning_the_number_of_factors_an/,"
+    int factorize(int n){
+        int ret=1,i,temp=1;
+        for(i=2;i&lt;=n;ret*=temp,temp=1,i++)
+            for(;n%i==0;temp++,n/=i);
+        return ret;
+    }",,False,,t5_2wk7l,False,,,True,t3_19up4h,http://www.reddit.com/r/readablecode/comments/19up4h/quickly_returning_the_number_of_factors_an/,
