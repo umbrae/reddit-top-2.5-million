@@ -17,6 +17,8 @@ I plan to use this for some data analysis I'm putting together for [/r/serendipi
 
 Who knows! Here's one simple example: [This is a breakdown of the top voted domains on Serendipity.](https://docs.google.com/spreadsheet/ccc?key=0AmvRNMJOaKWldDA4TlBqNHcyOU85ZmRXUzNNRE5lR2c#gid=2) (Yes, as a pie chart.)
 
+For my use, I'm considering finding important terms for a subreddit using [TF-IDF](http://en.wikipedia.org/wiki/Tf*idf).
+
 Have other ideas? I'd love to hear what you do with this. [Let me know.](https://twitter.com/chrisdary)
 
 ## Gotchas?
