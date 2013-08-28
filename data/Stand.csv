@@ -1,0 +1,544 @@
+created_utc,score,domain,id,title,author,ups,downs,num_comments,permalink,selftext,link_flair_text,over_18,thumbnail,subreddit_id,edited,link_flair_css_class,author_flair_css_class,is_self,name,url,distinguished
+1366604766.0,2305,self.Stand,1cufnx,Official Unofficial CISPA Discussion Thread.,NotaMethAddict,3921,1616,1304,http://www.reddit.com/r/Stand/comments/1cufnx/official_unofficial_cispa_discussion_thread/,"**What is going on?**
+
+[CISPA](http://en.wikipedia.org/wiki/Cyber_Intelligence_Sharing_and_Protection_Act), or The Cyber Intelligence Sharing and Protection Act,
+is a bill that has just passed the House of Representitives and is [currently working its way through the Senate](http://www.govtrack.us/congress/bills/113/hr624).
+If you don't remember this bill from [last year's blackout](http://blog.reddit.com/2012/05/cispa-and-cybersecurity-bills-are.html); you're in luck, because it's been reintroduced! 
+
+In order to raise awareness for this legislation, many subreddits are blacking out and trying to do their part.
+
+**Okay, but what does it do and why should I care?**
+
+First of all, [here is the complete text](http://www.govtrack.us/congress/bills/113/hr624/text). Please take the time to actually read it. It is important to be fully informed as there is a lot of misinformation about the purpose of this bill. Relax, it's not as long as you think it is.
+
+CISPA is a bill focused on Cyber Security. It's meant to address growing concerns for Cyber threats and give protection to businesses who handle your personal information. The number one threat to your personal information is malicious attackers, and it costs much more to defend from attacks than to initiate them. CISPA puts more tools in businesses' hands, but it brings into the question of security vs privacy.
+
+*So, what exactly is a Cyber Threat?*
+
+(A) IN GENERAL- The term ‘cyber threat information’ means information directly pertaining to--
+
+    (i) a vulnerability of a system or network of a government or private entity;
+
+    (ii) a threat to the integrity, confidentiality, or availability of a system or network of a government or private entity or any information stored on, processed on, or transiting such a system or network;
+
+    (iii) efforts to deny access to or degrade, disrupt, or destroy a system or network of a government or private entity; or
+
+    (iv) efforts to gain unauthorized access to a system or network of a government or private entity, including to gain such unauthorized access for the purpose of exfiltrating information stored on, processed on, or transiting a system or network of a government or private entity.
+
+(B) EXCLUSION- Such term does not include information pertaining to efforts to gain unauthorized access to a system or network of a government or private entity that solely involve violations of consumer terms of service or consumer licensing agreements and do not otherwise constitute unauthorized access.
+
+*Well that's well and dandy, why should I be concerned?*
+
+While CISPA was written to address a legitimate problem, there are concerns about it potential for misuse. It could allow private companies to share your personal information with other companies and the government without informing you of it. The wording that relates to what information can be shared is vague, which raises concerns about what personal information of yours will be shared. The bill has been changed over time to address some of these concerns but most privacy advocates feel that it still has large loopholes that could be abused.
+
+**I want to make a difference, what should I do?**
+
+[Contact your senators!](http://www.senate.gov/general/contact_information/senators_cfm.cfm)
+Call them, email them, write them, send smoke signals! Whatever it takes! The more they hear from their constituents
+the more they'll see how important the issue is to us. CISPA is very low salience among most people, that's why it's so
+important for us to get the word out the best we can. You *do* have a voice and it's time to make it heard.
+
+**I want to learn more about protecting my privacy, what can I do?**
+
+* Internet Anonymization: [Tor](https://www.torproject.org/), [I2P](http://i2p2.de/)
+
+* Disk Encryption: [TrueCrypt](http://www.truecrypt.org/), [File Vault](http://support.apple.com/kb/ht4790) (Mac).
+
+* File/Email Encryption: [GPGTools](https://www.gpgtools.org/) + [GPGMail](https://www.gpgtools.org/gpgmail/index.html) (Mac),  [Enigmail](http://www.enigmail.net/home/index.php)
+
+* IM/Voice Encryption: [Jitsi](https://jitsi.org/)
+
+* IM Encryption: [Pidgin](http://www.pidgin.im/) + [Pidgin OTR](http://www.cypherpunks.ca/otr/)
+
+* SMS/Voice Encryption: [WhisperSystems](http://www.whispersystems.org/), [Silent Circle](https://silentcircle.com/) ($$$)
+
+* Digital P2P Currency: [BitCoin](http://bitcoin.org/)
+
+* Live Anonymous/Secure Linux: [TAILS Linux](https://tails.boum.org/)
+
+If you have any problems installing or using the above software, please contact the projects. They would love to get feedback and help you use their software.
+
+Have no clue what Cryptography is or why you should care? Checkout the
+[Crypto Party Handbook](http://weise7.org/tmp/cryptobook-v1.1.pdf)
+or the [EFF's Surveillance Self-Defense Project](https://ssd.eff.org/).
+
+Just want some simple tips? Checkout
+[EFF's Top 12 Ways to Protect Your Online Privacy](https://www.eff.org/wp/effs-top-12-ways-protect-your-online-privacy).
+
+--- 
+
+This thread will be open to any questions, concerns, and feedback. Please keep comments civil and on topic. Thank you.
+
+--
+
+**ATTN to moderators who are currently making their subreddits private in protest:** [Please read this post before doing so.](http://www.reddit.com/r/modhelp/comments/1cunyu/a_note_to_moderators_who_are_interested_in/)",,False,,t5_2u479,1366642557.0,,,True,t3_1cufnx,http://www.reddit.com/r/Stand/comments/1cufnx/official_unofficial_cispa_discussion_thread/,
+1372916700.0,185,courthousenews.com,1hm9y5,"Arested for not letting police use house for stake out. Police knock down door, fire at him and dog (""pepperball"" rounds), arrest him for ""obstructing a police officer"" and set up lookout.",randomhumanuser,203,18,12,http://www.reddit.com/r/Stand/comments/1hm9y5/arested_for_not_letting_police_use_house_for/,,,False,,t5_2u479,False,,,False,t3_1hm9y5,http://www.courthousenews.com/2013/07/03/59061.htm,
+1374617156.0,161,defundthensa.com,1iwx9g,We are at a critical point in or fight against the NSA. Please call your legislator and push for a vote against NSA funding.,beaverburgular,181,20,2,http://www.reddit.com/r/Stand/comments/1iwx9g/we_are_at_a_critical_point_in_or_fight_against/,,,False,,t5_2u479,False,,,False,t3_1iwx9g,http://defundthensa.com/,
+1371234288.0,155,gutenberg.net.au,1gcqah,George Orwell's '1984' Free,Bargalarkh,170,15,9,http://www.reddit.com/r/Stand/comments/1gcqah/george_orwells_1984_free/,,,False,,t5_2u479,False,,,False,t3_1gcqah,http://gutenberg.net.au/ebooks01/0100021.txt,
+1372382488.0,140,businessinsider.com,1h7w1r,This Plan To End Government Spying Has Grown So Big It Might Actually Work (article on Stop Watching Us),hueypriest,166,26,2,http://www.reddit.com/r/Stand/comments/1h7w1r/this_plan_to_end_government_spying_has_grown_so/,,,False,,t5_2u479,False,,,False,t3_1h7w1r,http://www.businessinsider.com/mozilla-backed-stop-watching-us-grows-2013-6,
+1370956263.0,124,eff.org,1g49ow,86 Civil Liberties Groups and Internet Companies Demand an End to NSA Spying,eyjafjallajoekull,140,16,0,http://www.reddit.com/r/Stand/comments/1g49ow/86_civil_liberties_groups_and_internet_companies/,,,False,,t5_2u479,False,,,False,t3_1g49ow,https://www.eff.org/deeplinks/2013/06/86-civil-liberties-groups-and-internet-companies-demand-end-nsa-spying,
+1370971096.0,121,optin.stopwatching.us,1g4sqy,Demand to know what the NSA is doing!,benjaminjsanders,128,7,3,http://www.reddit.com/r/Stand/comments/1g4sqy/demand_to_know_what_the_nsa_is_doing/,,,False,,t5_2u479,False,,,False,t3_1g4sqy,https://optin.stopwatching.us/,
+1372602060.0,113,youtube.com,1hd5lv,"Every driver who refuses to blow is strapped to a table, put in a headlock, blood forcibly taken - Sheriff Phil Miller says ""law requires us to give them a choice"", but they then get search warrants for all DUI suspects. [xpost from r/libertarian]",randomhumanuser,122,9,3,http://www.reddit.com/r/Stand/comments/1hd5lv/every_driver_who_refuses_to_blow_is_strapped_to_a/,,,False,,t5_2u479,False,,,False,t3_1hd5lv,http://www.youtube.com/watch?v=WX6_QWieZlU/,
+1370693873.0,113,self.Stand,1fx8ae,"/u/161719 offers a chilling rebuttal to the notion that it's okay for the government to spy on you because you have nothing to hide. ""I didn't make anything up. These things happened to people I know."" [X-Post from /r/bestof]",Rasmase,116,3,14,http://www.reddit.com/r/Stand/comments/1fx8ae/u161719_offers_a_chilling_rebuttal_to_the_notion/,http://www.reddit.com/r/changemyview/comments/1fv4r6/i_believe_the_government_should_be_allowed_to/caeb3pl?context=3,,False,,t5_2u479,False,,,True,t3_1fx8ae,http://www.reddit.com/r/Stand/comments/1fx8ae/u161719_offers_a_chilling_rebuttal_to_the_notion/,
+1370871124.0,114,bloomberg.com,1g1kbv,"""I hope this is a rallying cry for the American people to realize this is a very big deal.""",kn0thing,116,2,0,http://www.reddit.com/r/Stand/comments/1g1kbv/i_hope_this_is_a_rallying_cry_for_the_american/,,,False,,t5_2u479,False,,,False,t3_1g1kbv,http://www.bloomberg.com/video/centralization-and-infrastructure-of-the-internet-lJve6_8FQ_6MyAtep16ssQ.html,
+1368553363.0,107,stallman.org,1ebrtu,Why you should not use Apple products by Richard Stallman,BFKelleher,134,27,32,http://www.reddit.com/r/Stand/comments/1ebrtu/why_you_should_not_use_apple_products_by_richard/,,,False,,t5_2u479,False,,,False,t3_1ebrtu,http://stallman.org/apple.html,
+1371219854.0,101,youtube.com,1gc7sw,"""Those who make peaceful revolution impossible, will make violent revolution inevitable"" -JFK",D3mi5e,115,14,2,http://www.reddit.com/r/Stand/comments/1gc7sw/those_who_make_peaceful_revolution_impossible/,,,False,,t5_2u479,False,,,False,t3_1gc7sw,http://www.youtube.com/watch?v=_AesVsRvOEo,
+1370902102.0,103,imgur.com,1g2qex,Responding proactively to PRISM,yawy,115,12,17,http://www.reddit.com/r/Stand/comments/1g2qex/responding_proactively_to_prism/,,,False,,t5_2u479,False,,,False,t3_1g2qex,http://imgur.com/18bkyxV,
+1373227412.0,105,emptywheel.net,1hth0w,In These Times We Can’t Blindly Trust Government to Respect Freedom of Association,hueypriest,119,14,1,http://www.reddit.com/r/Stand/comments/1hth0w/in_these_times_we_cant_blindly_trust_government/,,,False,,t5_2u479,False,,,False,t3_1hth0w,http://www.emptywheel.net/2013/07/07/in-these-times-we-cant-blindly-trust-government-to-respect-freedom-of-association/,
+1375538457.0,92,mailpile.is,1jmjt9,"Mailpile: email that is free, open source, encrypted, self-hosted, well-designed, user-driven - too good to be true?",groundhog593,101,9,11,http://www.reddit.com/r/Stand/comments/1jmjt9/mailpile_email_that_is_free_open_source_encrypted/,,,False,,t5_2u479,False,,,False,t3_1jmjt9,http://mailpile.is/,
+1373117552.0,87,wired.com,1hqx24,Did NSA Put a Secret Backdoor in New Encryption Standard? [x-post /r/programming],LibertyR3volution,101,14,11,http://www.reddit.com/r/Stand/comments/1hqx24/did_nsa_put_a_secret_backdoor_in_new_encryption/,,,False,,t5_2u479,False,,,False,t3_1hqx24,http://www.wired.com/politics/security/commentary/securitymatters/2007/11/securitymatters_1115,
+1370144874.0,86,dailymail.co.uk,1fi2u1,Google MUST hand over sensitive details for thousands of users to FBI,themangodess,98,12,8,http://www.reddit.com/r/Stand/comments/1fi2u1/google_must_hand_over_sensitive_details_for/,,,False,,t5_2u479,False,,,False,t3_1fi2u1,http://www.dailymail.co.uk/news/article-2334324/Google-MUST-hand-sensitive-details-thousands-users-FBI--warrant.html,
+1368759196.0,83,self.Stand,1ehto2,"AT&amp;T continues to mock the concept of net neutrality, this time with Google Hangouts block",meyamashi,87,4,1,http://www.reddit.com/r/Stand/comments/1ehto2/att_continues_to_mock_the_concept_of_net/,Here's the [techdirt](http://www.techdirt.com/blog/wireless/articles/20130516/10513523106/att-continues-to-mock-concept-net-neutrality-this-time-with-google-hangouts-block.shtml).,,False,,t5_2u479,False,,,True,t3_1ehto2,http://www.reddit.com/r/Stand/comments/1ehto2/att_continues_to_mock_the_concept_of_net/,
+1369166270.0,81,washingtonpost.com,1es9f0,"Let artists, innovators and the public define our copyright system",hueypriest,96,15,7,http://www.reddit.com/r/Stand/comments/1es9f0/let_artists_innovators_and_the_public_define_our/,,,False,,t5_2u479,False,,,False,t3_1es9f0,http://www.washingtonpost.com/blogs/wonkblog/wp/2013/05/21/hollywood-should-not-decide-our-copyright-laws/,
+1375041797.0,79,thestar.com,1j8cjw,Freedom to photograph under threat. Examples of arrests in Canada of people taking pictures in public [xpost from r/canada],randomhumanuser,88,9,0,http://www.reddit.com/r/Stand/comments/1j8cjw/freedom_to_photograph_under_threat_examples_of/,,,False,,t5_2u479,False,,,False,t3_1j8cjw,http://www.thestar.com/opinion/commentary/2013/07/28/freedom_to_photograph_under_threat.html,
+1368930884.0,81,i.imgur.com,1em03f,"That recrutement ad ""Where do you stand""",shodanx,90,9,7,http://www.reddit.com/r/Stand/comments/1em03f/that_recrutement_ad_where_do_you_stand/,,,False,,t5_2u479,False,,,False,t3_1em03f,http://i.imgur.com/3oH6G5Q.png,
+1366162028.0,70,cms.fightforthefuture.org,1ci47l,"CISPA's sponsor, Mike Rogers, calls opponents to CISPA ""14 year old tweeters in their basements."" And it's on video.",fightforthefuture,78,8,3,http://www.reddit.com/r/Stand/comments/1ci47l/cispas_sponsor_mike_rogers_calls_opponents_to/,,,False,,t5_2u479,False,,,False,t3_1ci47l,https://cms.fightforthefuture.org/mike-rogers/,
+1370624814.0,72,eff.org,1fvf41,"In Response to the NSA, We Need A New Church Commission and We Need It Now.",hueypriest,87,15,1,http://www.reddit.com/r/Stand/comments/1fvf41/in_response_to_the_nsa_we_need_a_new_church/,,,False,,t5_2u479,False,,,False,t3_1fvf41,https://www.eff.org/deeplinks/2013/06/response-nsa-we-need-new-church-commission-and-we-need-it-now,
+1368277163.0,67,bakersfieldcalifornian.com,1e4jwv,Dad who died during arrest 'begged for his life'; witness videos seized [xpost],randomhumanuser,78,11,8,http://www.reddit.com/r/Stand/comments/1e4jwv/dad_who_died_during_arrest_begged_for_his_life/,,,False,,t5_2u479,False,,,False,t3_1e4jwv,http://www.bakersfieldcalifornian.com/local/x568091070/Dad-who-died-during-arrest-begged-for-his-life-cops-take-witness-video,
+1367282558.0,65,self.Stand,1ddm0q,"Senate will not consider CISPA, citing privacy",meyamashi,70,5,4,http://www.reddit.com/r/Stand/comments/1ddm0q/senate_will_not_consider_cispa_citing_privacy/,"Here's the [skinny](http://www.pcmag.com/article2/0,2817,2418228,00.asp) from pcmag.com.",,False,,t5_2u479,False,,,True,t3_1ddm0q,http://www.reddit.com/r/Stand/comments/1ddm0q/senate_will_not_consider_cispa_citing_privacy/,
+1370804613.0,64,self.Stand,1fzu2i,Submit to CISPA! [READ],Bargalarkh,80,16,6,http://www.reddit.com/r/Stand/comments/1fzu2i/submit_to_cispa_read/,"I mean, how bad can it be? So, okay, you may be arrested for something you posted on Reddit a few years ago, and you may or may not end up being blackmailed by your government with a story that could ruin your life upon release if you don't tell them about your friends' planned protest against the perfectly valid CISPA law.
+
+You may also experience a total fear of expressing your opinions on what used to be an un-regulated testament to humanity, but you won't have to worry about the Legion of Doom or the illuminati-satanist Anonymous from taking down Yahoo for a week. Or 911! 911 is bad. If you don't give in to CISPA then you'll be 911-ed by evil terrorists who eat babies!
+
+Don't take my word for it though, take Benjamin Franklin's; **""Freedom of speech is a principal pillar of a free government; when this support is taken away, the constitution of a free society is dissolved, and tyranny is erected on its ruins. Republics and limited monarchies derive their strength and vigor from a popular examination into the action of the magistrates.""**
+
+Shit, no not that one. This one; **""They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.""**
+
+Fuck. Disregard those last two quotes. This isn't going well; all I can advise you to do now is to avoid a Google search of House Un-American Activities Committee, the Salem Witch-Hunt or the book 1984.
+
+Now let us submit to our benevolent rulers, the great kings of America.",,False,,t5_2u479,1370808073.0,,,True,t3_1fzu2i,http://www.reddit.com/r/Stand/comments/1fzu2i/submit_to_cispa_read/,
+1368807345.0,68,arstechnica.com,1eiwaa,"Aussie government tries to block two sites, takes down 1,200",TuneRaider,71,3,2,http://www.reddit.com/r/Stand/comments/1eiwaa/aussie_government_tries_to_block_two_sites_takes/,,,False,,t5_2u479,False,,,False,t3_1eiwaa,http://arstechnica.com/tech-policy/2013/05/aussie-government-tries-to-block-two-sites-takes-down-1200/,
+1371232425.0,60,self.Stand,1gcnv0,Creating a router blacklist of PRISM compliant companies and their subsidiaries,fauvenoire,68,8,21,http://www.reddit.com/r/Stand/comments/1gcnv0/creating_a_router_blacklist_of_prism_compliant/,"I recently started to make a list of websites that I interact with that have PRISM connections and I realized the extent to which my life could be cataloged by the NSA. As a result, I'd like to put together a blacklist for my router (maybe with a personalized redirect to PRISM/NSA page) as a form of activism and to force me to change my habits. A blacklist prevents your router from allowing traffic to the sites on the list; it's a sort of one-way firmware firewall.
+
+Please list any relevant sites that should be included in my blacklist.
+
+**Microsoft / Skype**
+
+    www.microsoft.com
+    www.hotmail.com
+    www.live.com
+    www.bing.com
+    www.msn.com
+    www.outlook.com
+    www.bingtoolbar.com
+    www.windowsphone.com
+    www.windows.com
+    www.xbox.com
+    www.microsoftstore.com
+    www.skype.com
+    www.office.com
+    www.halowaypoint.com
+    www.bigpark.com
+    www.mgsvancouver.com
+    www.playxbla.com
+    www.ensemblestudios.com
+    www.fasastudio.com
+    www.giantcompany.com
+    www.goodsciencestudio.com
+    www.lionhead.com
+    lionhead.com
+    www.massiveincorporated.com
+    www.rare.co.uk
+    www.screentonic.com
+    www.forzacentral.com
+    www.twistedpixelgames.com
+    www.forzamotorsport.net
+    forzamotorsport.net
+    www.pumamotorsport.com
+    www.winternals.com
+
+**Google / YouTube**
+
+    www.google.com
+    www.gmail.com
+    www.youtube.com
+
+
+**Yahoo!**
+
+    www.yahoo.com
+    www.flickr.com
+    www.tumblr.com
+    www.citizensportsinc.com
+    www.foxytunes.com
+    www.intonow.com
+
+**Facebook**
+
+    www.facebook.com
+
+
+**PalTalk**
+
+    www.paltalk.com
+    www.hearme.com
+    www.vumber.com
+    www.firetalk.com
+    www.camfrog.com
+
+**AOL**
+
+    www.aol.com
+    www.huffingtonpost.com
+    www.spinner.com
+
+**Apple**
+
+    www.apple.com
+
+Join me? Perhaps we can hit compliant companies where it hurts. Because ""I was just following orders"" isn't good enough.
+
+This is the internet phase of a three-part plan to limit my exposure to Big Brother. The next step involves using different software and abandoning BigBro Warez. Finally, I will do the same for the relevant hardware.",,False,,t5_2u479,1371238978.0,,,True,t3_1gcnv0,http://www.reddit.com/r/Stand/comments/1gcnv0/creating_a_router_blacklist_of_prism_compliant/,
+1371077036.0,61,money.cnn.com,1g88o9,"""It's time to draw a line in the sand for what's off-limits in the digital age."" - Me in response to NSA shenanigans",kn0thing,70,9,2,http://www.reddit.com/r/Stand/comments/1g88o9/its_time_to_draw_a_line_in_the_sand_for_whats/,,,False,,t5_2u479,False,,,False,t3_1g88o9,http://money.cnn.com/video/technology/2013/06/11/t-co-reddit-alexis-ohanian.cnnmoney/,
+1367280629.0,57,self.Stand,1ddjcf,DOJ wants to be able to fine tech companies who don't let it wiretap your communications,meyamashi,59,2,1,http://www.reddit.com/r/Stand/comments/1ddjcf/doj_wants_to_be_able_to_fine_tech_companies_who/,Here's the [dirt](http://www.techdirt.com/articles/20130429/08042622880/doj-wants-to-be-able-to-fine-tech-companies-who-dont-let-it-wiretap-your-communications.shtml) from techdirt.,,False,,t5_2u479,False,,,True,t3_1ddjcf,http://www.reddit.com/r/Stand/comments/1ddjcf/doj_wants_to_be_able_to_fine_tech_companies_who/,
+1371130375.0,52,reddit.com,1g9lgt,"James Bamford, one of the journalists investigating the NSA is doing AMA over in /r/iama",hueypriest,59,7,2,http://www.reddit.com/r/Stand/comments/1g9lgt/james_bamford_one_of_the_journalists/,,,False,,t5_2u479,False,,,False,t3_1g9lgt,http://www.reddit.com/r/IAmA/comments/1g9gz0/i_am_james_bamford_one_of_the_journalists/?sort=confidence,
+1368466714.0,54,self.Stand,1e988d,Congress wants to let you unlock your cell phone: The Unlocking Technology Act aims to eliminate the most frustrating copyright infringement.,meyamashi,56,2,2,http://www.reddit.com/r/Stand/comments/1e988d/congress_wants_to_let_you_unlock_your_cell_phone/,An offering from [Salon](http://www.salon.com/2013/05/10/congress_wants_to_let_you_unlock_your_cellphone_partner/).,,False,,t5_2u479,False,,,True,t3_1e988d,http://www.reddit.com/r/Stand/comments/1e988d/congress_wants_to_let_you_unlock_your_cell_phone/,
+1370869713.0,51,bestbits.net,1g1j4o,A range of international groups submit statement to be read at the Human Rights Council in Geneva today at 3pm (9am EST) and call on call on the HRC to act swiftly to prevent the creation of a global Internet based surveillance system.,hueypriest,59,8,1,http://www.reddit.com/r/Stand/comments/1g1j4o/a_range_of_international_groups_submit_statement/,,,False,,t5_2u479,False,,,False,t3_1g1j4o,http://bestbits.net/prism-nsa/,
+1363876329.0,52,self.Stand,1aqeu2,"MY day job is to fight Hollywood (and other monopolies)! My org, FFTF, stops the entrenched from writing the rules of the internet, fights copyright trolls, fights CISPA, started the SOPA protests - AMA",textdog,64,12,18,http://www.reddit.com/r/Stand/comments/1aqeu2/my_day_job_is_to_fight_hollywood_and_other/,"IAm Tiffiniy Cheng. I'm for using the internet to fight for itself. Ever since people got computers, it's been fun to mess with the political-economic stranglehold of monopolies and corrupted government. My organization, Fight for the Future works to activate the web for good (the open web), more specifically, free expression and basic rights using tech. Let's discuss.... ",,False,,t5_2u479,False,,,True,t3_1aqeu2,http://www.reddit.com/r/Stand/comments/1aqeu2/my_day_job_is_to_fight_hollywood_and_other/,
+1375690653.0,50,blog.tdobson.net,1jq9re,Phone hacking was a big deal. Is Internet interception ok?,tdobson,61,11,9,http://www.reddit.com/r/Stand/comments/1jq9re/phone_hacking_was_a_big_deal_is_internet/,,,False,,t5_2u479,False,,,False,t3_1jq9re,http://blog.tdobson.net/2013/08/how-can-we-communicate-the-implications-of-tempora-to-the-smartphone-using-masses/,
+1368202650.0,53,dailydot.com,1e2qgo,The Senate introduced its own version of CISPA: The Deter Cyber Theft Act,BFKelleher,61,8,3,http://www.reddit.com/r/Stand/comments/1e2qgo/the_senate_introduced_its_own_version_of_cispa/,,,False,,t5_2u479,False,,,False,t3_1e2qgo,http://www.dailydot.com/politics/deter-cyber-theft-act-cispa-hackers-trade-secrets/,
+1367973555.0,48,self.Stand,1dweov,So my Senator responded back.,TrojanX,54,6,7,http://www.reddit.com/r/Stand/comments/1dweov/so_my_senator_responded_back/,"Thank you for your letter concerning the ""Cyber Intelligence Sharing and Protection Act"" (H.R. 3523).   I appreciate your taking the time to write and welcome the opportunity to respond. 
+ 
+The Cyber Intelligence Sharing and Protection Act  was introduced in the House of Representatives on February 13, 2013 by Representative Mike Rogers (R-MI).  The bill would, among other things, establish procedures to allow the Intelligence Community to share cyber threat intelligence with the private sector. 
+ 
+I agree with the authors of the House bill that our nation faces a serious and growing threat from  cyber attacks and espionage—threats to both our national security and our economy.  Effective  cybersecurity requires that information on cyber threats and defenses in our government's hands be passed to the private sector, and that information from industry be shared with the government.
+ 
+At the same time, it is critical that our efforts to improve cyber security include robust privacy protections.  In particular, we must ensure that our constitutional rights and liberties are protected, and place proper limits on the government's use of cyber security information that it obtains from the private sector. 
+ 
+Last Congress I authored the  Cybersecurity Information Sharing Act of 2012 (S. 2102).  While that legislation accomplished many of the same goals as the House legislation, it included robust privacy protections and safeguards against the private sector abusing information sharing authorities.  As Chairman of the Senate Intelligence Committee, I will shortly be introducing a bill on information sharing which allows sharing of cyber intrusion data with the government with full immunity.  In this way we hope to encourage a major effort between the public and private sector to share data so that cyber intrusion can be prevented. 
+ 
+Once again, thank you for your letter.  I am pleased that you are engaged in this important issue and hope you continue to inform me of issues that matter to you.  If you have any additional questions or concerns, please do not hesitate to contact my office in Washington, D.C. at (202) 224-3841, or visit my website at http://www.feinstein.senate.gov. 
+
+
+Sincerely yours,
+
+
+  Dianne Feinstein
+         United States Senator",,False,,t5_2u479,False,,,True,t3_1dweov,http://www.reddit.com/r/Stand/comments/1dweov/so_my_senator_responded_back/,
+1366900789.0,42,techdirt.com,1d3233,"ECPA reform passes Senate Judiciary Committee - ""Senate Judiciary Committee Votes That Accessing Your Email Should Require A Warrant""",hueypriest,49,7,0,http://www.reddit.com/r/Stand/comments/1d3233/ecpa_reform_passes_senate_judiciary_committee/,,,False,,t5_2u479,False,,,False,t3_1d3233,https://www.techdirt.com/articles/20130425/07212222831/senate-judiciary-committee-votes-that-accessing-your-email-should-require-warrant.shtml,
+1371154634.0,43,wired.com,1gahmj,"Wired Magazine did a cover article on Keith Alexander, head of the NSA",D3mi5e,46,3,3,http://www.reddit.com/r/Stand/comments/1gahmj/wired_magazine_did_a_cover_article_on_keith/,,,False,,t5_2u479,False,,,False,t3_1gahmj,http://www.wired.com/threatlevel/2013/06/general-keith-alexander-cyberwar/,
+1373662711.0,40,reddit.com,1i6gan,/r/yro- a recently revitalized subreddit that is dedicated to Your Rights Online,another-thing,46,6,3,http://www.reddit.com/r/Stand/comments/1i6gan/ryro_a_recently_revitalized_subreddit_that_is/,,,False,,t5_2u479,False,,,False,t3_1i6gan,http://www.reddit.com/r/yro,
+1365454617.0,36,reddit.com,1bxxoo,We are the ACLU and the EFF and we have teamed up to fight the good fight against CISPA. Ask us anything.,hueypriest,45,9,1,http://www.reddit.com/r/Stand/comments/1bxxoo/we_are_the_aclu_and_the_eff_and_we_have_teamed_up/,,,False,,t5_2u479,False,,,False,t3_1bxxoo,http://www.reddit.com/r/IAmA/comments/1bxdfb/we_are_the_aclu_and_the_eff_and_we_have_teamed_up,
+1372777329.0,41,self.Stand,1hi0bj,"Hi, I come from a conspiracy theorist background and wanted to tell you this.",kris_lace,54,13,8,http://www.reddit.com/r/Stand/comments/1hi0bj/hi_i_come_from_a_conspiracy_theorist_background/,"**Edit: source added at bottom**
+
+
+Like most here I am interested in subreddits turning to action when finding out things like the NSA leaks for example. With the exemption of witch hunts. 
+
+
+The thing I want to share with this subreddit is around the time that conspiracy theorists were focused on the illegal war in iraq and the economic inequality (and unethical banking practice). A new 'hypothetical' idea came about.
+
+
+The idea was to exploit 'common law' to claim sovereignty. (Turning around and refusing the rule of the country and claiming a new rule). This is vastly over simplified and the legal intricacies, requirements and resources you'd need to pull it off aren't simple stuff. But it is possible. 
+
+
+This is why I think it's possible:
+
+
+The media are a huge resourceful sector. Plenty of money and influence - in fact, media companies have some of the biggest power potential. However, once it was clear to a minority (mostly the 'conspiracy theorists') that the media were untruthful. At first they whined, then they tried to spread awareness. Then finally, they **replaced them**. The sheer amount of blogs, alternative news outlets, youtube channels and other community based media are replacing the powers of old - especially the the ones known to be least truthful. 
+
+
+As technology and online communities give momentum to this media replacement, doing things like ""don't post sources from *this* tabloid or ""I came to read the comments so the users could tell me why this article is wrong"" - become common place. 
+
+
+Essentially, I'm saying, there are avenues to replace the systems we see that fail. It has been/is being done in media, and that's no small feat (A ex-CIA Director did a speech about the bloggers replacing media too). 
+
+
+I'm not fully informed on this because I am absolved by other avenues at the moment but I thought if this post caught the eye of some people in the subreddit it might be useful. 
+
+
+___
+
+
+Source: http://www.tuks.nl/wiki/index.php/Main/TheFascinatingHistoryOfCivilLawVersusDivineCommonLaw
+
+
+(very interesting read going into the specifics of the process of 'Common Law') ",,False,,t5_2u479,1372857125.0,,,True,t3_1hi0bj,http://www.reddit.com/r/Stand/comments/1hi0bj/hi_i_come_from_a_conspiracy_theorist_background/,
+1366864319.0,40,news.cnet.com,1d2aiu,"U.S. gives big, secret push to Internet surveillance - Justice Department agreed to issue ""2511 letters"" immunizing AT&amp;T and other companies participating in a cybersecurity program from criminal prosecution under the Wiretap Act",TuneRaider,41,1,0,http://www.reddit.com/r/Stand/comments/1d2aiu/us_gives_big_secret_push_to_internet_surveillance/,,,False,,t5_2u479,False,,,False,t3_1d2aiu,http://news.cnet.com/8301-13578_3-57581161-38/u.s-gives-big-secret-push-to-internet-surveillance/,
+1369699665.0,37,nationalreview.com,1f61vv,"""This legislation provides substantial utility to the consumer, increase competition in the market, help new market participants to innovate and compete, and represent an extension of a long American tradition of tinkering with gadgets and technology.""",hueypriest,42,5,2,http://www.reddit.com/r/Stand/comments/1f61vv/this_legislation_provides_substantial_utility_to/,,,False,,t5_2u479,False,,,False,t3_1f61vv,http://www.nationalreview.com/article/349379/phone-unlocking-made-legal,
+1372385716.0,34,defectivebydesign.org,1h7zwl,Defective by Design calls for a boycott on Netflix as they announce the introduction DRM into HTML5 with Microsoft's help,brianpeiris,40,6,11,http://www.reddit.com/r/Stand/comments/1h7zwl/defective_by_design_calls_for_a_boycott_on/,,,False,,t5_2u479,False,,,False,t3_1h7zwl,http://www.defectivebydesign.org/cancelnetflix,
+1371057829.0,36,youtube.com,1g7h7v,A little outdated but I'm pretty sure the PRISM leaks were what this bill was designed for,D3mi5e,44,8,2,http://www.reddit.com/r/Stand/comments/1g7h7v/a_little_outdated_but_im_pretty_sure_the_prism/,,,False,,t5_2u479,False,,,False,t3_1g7h7v,http://www.youtube.com/watch?v=HrXyLrTRXso,
+1366642289.0,34,blogs.detroitnews.com,1cv66u,Today is CISPA Blackout Day - Detroit News,lmaotsetung,40,6,0,http://www.reddit.com/r/Stand/comments/1cv66u/today_is_cispa_blackout_day_detroit_news/,,,False,,t5_2u479,False,,,False,t3_1cv66u,http://blogs.detroitnews.com/politics/2013/04/22/cispa-blackout-planned-for-april-22nd/,
+1363984805.0,36,infosecurity-magazine.com,1atko3,"Reddit and Craigslist are spearheading a ""week of action"" campaign to further educate the population about cybersecurity legislation",lmaotsetung,37,1,0,http://www.reddit.com/r/Stand/comments/1atko3/reddit_and_craigslist_are_spearheading_a_week_of/,,,False,,t5_2u479,False,,,False,t3_1atko3,http://www.infosecurity-magazine.com/view/31397/reddit-craigslist-join-week-of-action-against-cispa/,
+1372050497.0,31,vimeo.com,1gy9ic,Adam Curtis documentary on 20th century propaganda. Most enlightening thing I've seen in a long time.,Samdi,39,8,1,http://www.reddit.com/r/Stand/comments/1gy9ic/adam_curtis_documentary_on_20th_century/,,,False,,t5_2u479,False,,,False,t3_1gy9ic,http://vimeo.com/61857758,
+1363973269.0,31,eff.org,1at5rz,Defend the Open Web: Keep DRM Out of W3C Standards,hueypriest,46,15,1,http://www.reddit.com/r/Stand/comments/1at5rz/defend_the_open_web_keep_drm_out_of_w3c_standards/,,,False,,t5_2u479,False,,,False,t3_1at5rz,https://www.eff.org/deeplinks/2013/03/defend-open-web-keep-drm-out-w3c-standards,
+1375977543.0,31,self.Stand,1jyna7,An appeal for animators to help defend internet freedom and guard against censorship in the UK (/r/ReinstateArticle8),kobiyahu,35,4,3,http://www.reddit.com/r/Stand/comments/1jyna7/an_appeal_for_animators_to_help_defend_internet/,"Hi. This is a request on behalf of a UK based sub-reddit called /r/ReinstateArticle8 which was created in a similar spirit to /r/RestoreTheFourth. 
+
+We’re all volunteers, concerned with promoting privacy and freedom from censorship (taking into account that we have different legislation affecting privacy here, hence the movement’s name).
+
+Firstly, my apologies if this is not the correct place to post this but we are in dire need of your help and expertise.
+We are in need of skilled animators/video makers to kindly volunteer their services in the name of internet freedom. If you think you can help, have adequate experience, and the issues we stand for resonate with you, then please read on and see if you would like to be involved with producing the visual side of our first promotional video (We already have the audio covered).
+
+We have a preliminary script which is very short, so as to test the water. If all goes well we will be producing something later which will be more in-depth and fact/statistic based.
+
+The idea is to put something out which is accessible to the general public, not just redditors, in order to drive traffic to the site so we can get people informed and organized about crucial issues of abuses of civil liberties taking place in their name.
+
+The video/animation does not have to be incredibly complex, so long as it looks professional. It could even be a series of merging still frames with one animation at the end. But you folks are the experts so perhaps you would kindly like to take a look at the script below and have a think about what you could come up with?
+________________________________________
+""We all value our privacy, in day to day life, and while we are online.""
+
+""But, unless we act now, our right to open and uncensored access to the Internet could be gone forever.""
+
+*Animation reflecting the internet in a positive manner*
+
+""The internet is amazing"" ""Let's keep it that way""
+
+""Reinst8 - Demand Privacy, Reject Censorship""
+________________________________________
+
+We have a frame for the final slogan which we would like to be used at the end of the sequence. 
+You can view it [here]( http://imgur.com/7wV44yp,E5bBaIt#0)
+
+If you feel you can help, or you know somebody who you think might be interested in getting involved, please let us know. 
+
+The overall length will need to be around 25-30 seconds (A 30 second segment would be ideal) as the VO has not yet been recorded and can be fitted to the animation/video.
+
+Again, thank you so much for taking the time to read this. 
+We look forward to hearing from you.
+
+Regards,
+
+/r/ReinstateArticle8",,False,,t5_2u479,False,,,True,t3_1jyna7,http://www.reddit.com/r/Stand/comments/1jyna7/an_appeal_for_animators_to_help_defend_internet/,
+1368677537.0,30,newuniversity.org,1efk4e,In my university's newspaper...,AllenJacoby,35,5,0,http://www.reddit.com/r/Stand/comments/1efk4e/in_my_universitys_newspaper/,,,False,,t5_2u479,False,,,False,t3_1efk4e,http://www.newuniversity.org/2013/05/opinion/the-electronic-frontier/,
+1365079288.0,33,presstv.ir,1bnnv7,PressTV: CISPA to be amended behind closed doors for the sake of national security and expediency,lmaotsetung,39,6,1,http://www.reddit.com/r/Stand/comments/1bnnv7/presstv_cispa_to_be_amended_behind_closed_doors/,,,False,,t5_2u479,False,,,False,t3_1bnnv7,http://www.presstv.ir/usdetail/296484.html,
+1366824044.0,31,self.Stand,1d0rsq,CISPA and the Constitution: a Fourth Amendment Primer,nowsoapbox,33,2,1,http://www.reddit.com/r/Stand/comments/1d0rsq/cispa_and_the_constitution_a_fourth_amendment/,"Would CISPA violate the Constitution? Specifically, the Fourth Amendment? I'm leaning ""no,"" because it does not *require*  internet companies to divulge info. 
+
+Here is the breakdown, with relevant statutes and caselaw cited:
+
+http://nowso.com/does-cispa-violate-the-fourth-amendment/",,False,,t5_2u479,False,,,True,t3_1d0rsq,http://www.reddit.com/r/Stand/comments/1d0rsq/cispa_and_the_constitution_a_fourth_amendment/,
+1366753033.0,30,self.Stand,1cyq6w,CISPA (H.R. 624) Explained,SenselessNoise,32,2,5,http://www.reddit.com/r/Stand/comments/1cyq6w/cispa_hr_624_explained/,"Hi redditors of /r/Stand.
+
+I have created a primer that explains just about all of CISPA as well as I could explain it.  It's designed to be read alongside the actual bill (link to the bill in the posts).  It's a little long, but hopefully it'll help explain why CISPA is so dangerous (particularly Section 3(g)(6)).
+
+Spread the word, if you can.  It'd be appreciated.  Also, IANAL, but I have a pretty extensive mastery of legal-ese, as well as a penchant for word problems.  The 3 part series is pretty much designed for people that really want to see EVERYTHING in CISPA.
+
+[Part 1 - Section 1 and 2](http://redd.it/1ctycc).
+
+[Part 2 - Section 3 - (a) through (c)](http://redd.it/1cykk6).
+
+[Part 3 - Section 3 - (d) through Section 7](http://redd.it/1cyo8o).
+
+For a short and sweet ELI5-version of CISPA...
+
+CISPA creates a way for the US Government and companies like Facebook, Google and others to share information with the US Government, as well as each other.   It also includes laws making it illegal to share information with people that shouldn’t know (what Bradley Manning did), to share that information among others that shouldn’t know (what WikiLeaks does), and allows for companies to trade personal information without getting in trouble.  It also allows for the US Government to spy on US citizens, to prosecute people that pirate movies, games or music, and does all of this without telling you.  You will also never know it’s happening.
+
+The extreme version is people violating CISPA can be labeled ""domestic terrorists"" through a combination of CISPA and the Patriot Act, which is what the US Government *really* wants to do to Anonymous.
+
+Many companies (nearly all that support CISPA, actually) stand to make money from this Act - new companies will be hired by every company on the internet for ""cybersecurity,"" as well as by the US Government, and everyone from internet providers to social networking sites will make money from the trading of information.  This is why there are so few companies fighting CISPA, and more reason for us citizens to protect our freedoms and liberties from ""Big Brother.""",,False,,t5_2u479,False,,,True,t3_1cyq6w,http://www.reddit.com/r/Stand/comments/1cyq6w/cispa_hr_624_explained/,
+1364215779.0,32,techdirt.com,1ayxrr,"TechDirt: Rather Than Fix The CFAA, House Judiciary Committee Planning To Make It Worse... Way Worse",lmaotsetung,33,1,0,http://www.reddit.com/r/Stand/comments/1ayxrr/techdirt_rather_than_fix_the_cfaa_house_judiciary/,,,False,,t5_2u479,False,,,False,t3_1ayxrr,http://www.techdirt.com/articles/20130324/14342822435/rather-than-fix-cfaa-house-judiciary-committee-planning-to-make-it-worse-way-worse.shtml,
+1366298076.0,33,webpronews.com,1clyb5,CISPA Amendment Stripped Of Its Pro-Privacy Provision - WebProNews,lmaotsetung,36,3,0,http://www.reddit.com/r/Stand/comments/1clyb5/cispa_amendment_stripped_of_its_proprivacy/,,,False,,t5_2u479,False,,,False,t3_1clyb5,http://www.webpronews.com/cispa-amendment-stripped-of-its-pro-privacy-provision-2013-04,
+1375450833.0,25,youtube.com,1jka28,"Oversight: Thank you for volunteering, citizen.",tdobson,28,3,6,http://www.reddit.com/r/Stand/comments/1jka28/oversight_thank_you_for_volunteering_citizen/,,,False,,t5_2u479,False,,,False,t3_1jka28,http://www.youtube.com/watch?v=RIuf1V1FhpY,
+1364489502.0,26,guardian.co.uk,1b6pgy,The Guardian: Copyright wars are damaging the health of the internet ,lmaotsetung,27,1,0,http://www.reddit.com/r/Stand/comments/1b6pgy/the_guardian_copyright_wars_are_damaging_the/,,,False,,t5_2u479,False,,,False,t3_1b6pgy,http://www.guardian.co.uk/technology/blog/2013/mar/28/copyright-wars-internet,
+1371072374.0,24,explosm.net,1g82a0,Just bringing some relevant humor to this subreddit :),kmcallister7,31,7,2,http://www.reddit.com/r/Stand/comments/1g82a0/just_bringing_some_relevant_humor_to_this/,,,False,,t5_2u479,False,,,False,t3_1g82a0,http://www.explosm.net/comics/3201/,
+1366069010.0,27,action.eff.org,1cfa8d,The House of Representatives is voting on CISPA this week - send a message to your representatives asking them to oppose this dangerous bill (x-post),TuneRaider,29,2,0,http://www.reddit.com/r/Stand/comments/1cfa8d/the_house_of_representatives_is_voting_on_cispa/,,,False,,t5_2u479,False,,,False,t3_1cfa8d,https://action.eff.org/o/9042/p/dia/action/public/?action_KEY=9048,
+1369155637.0,29,youtube.com,1eruu1,"Cops Confiscate Memory Card, But Miss Footage",randomhumanuser,37,8,5,http://www.reddit.com/r/Stand/comments/1eruu1/cops_confiscate_memory_card_but_miss_footage/,,,False,,t5_2u479,False,,,False,t3_1eruu1,http://www.youtube.com/watch?v=lMxML9WE0Z0,
+1366605049.0,26,self.Stand,1cufxv,"r/privacy and r/funny have gone ""dark"". What is Reddit Inc. doing to stop CISPA?",Joe_12265,33,7,14,http://www.reddit.com/r/Stand/comments/1cufxv/rprivacy_and_rfunny_have_gone_dark_what_is_reddit/,"The time for nuanced discussion is over.  This thing is running forward with the momentum of a freight train.  I think the admins of reddit should do something.  I'm not sure what but being passive isn't an option.
+
+Forgive me if something is happening and i missed it.",,False,,t5_2u479,False,,,True,t3_1cufxv,http://www.reddit.com/r/Stand/comments/1cufxv/rprivacy_and_rfunny_have_gone_dark_what_is_reddit/,
+1372088616.0,26,civicinsight.com,1gz2e7,[Civic Engagement] CivicInsight.com makes it easy to get information about how to gain access to blighted spaces and vacant lots,hueypriest,34,8,0,http://www.reddit.com/r/Stand/comments/1gz2e7/civic_engagement_civicinsightcom_makes_it_easy_to/,,,False,,t5_2u479,False,,,False,t3_1gz2e7,http://civicinsight.com/,
+1366751195.0,23,self.Stand,1cyngz,"subreddits used various ways to ""blackout"" in protest of CISPA. Which mechanisms/tactics do you think were most effective?",hueypriest,27,4,9,http://www.reddit.com/r/Stand/comments/1cyngz/subreddits_used_various_ways_to_blackout_in/,,,False,,t5_2u479,False,,,True,t3_1cyngz,http://www.reddit.com/r/Stand/comments/1cyngz/subreddits_used_various_ways_to_blackout_in/,
+1371172761.0,23,self.Stand,1gb52x,"If Keith Alexander does retire next year, what's the next step?",D3mi5e,25,2,3,http://www.reddit.com/r/Stand/comments/1gb52x/if_keith_alexander_does_retire_next_year_whats/,"General Keith Alexander is the head of the NSA and is currently one of the most powerful men in the country, he has an unchecked level of power not seen since the era of J. Edgar Hoover, Alexander is one of the largest threats to civil liberty ever seen in the united states, he is also 61, and plans to retire in 2014.
+
+So what then, what do we do if this ludicrously powerful man, steps down.  All that power is not just going to go away, the country that we live in is on a path to becoming an Owellian nightmare, my greatest fear, indeed all of ours is that government overreach and paranoia will eventually end in a police state, it is our jobs as American citizens to ensure that this does not happen, obviously there are the [regular channels] (http://www.reddit.com/r/IAmA/comments/1g9gz0/i_am_james_bamford_one_of_the_journalists/cai3jrx) readily available for use, but I don't see how that can have the rate of impact required in a situation like this, with an un-elected official, when the current political climate is so dictated by party loyalty
+
+I have seen this community, those of you who have contributed seem truly concerned, so I'm going to take the opportunity to level with you, I'm a Highschool student, frustrated by the apathy of my peers and the clear damage to the system that is supposed to stand as a beacon to the world, I wish I could do more, but I have no grasp of the methods to do so, I don't have the oratory skill to rally people, nor would I know what to do if I did, I'm sure that all of you feel the same, we want to affect change, trigger some kind of paradigm shift, but we are daunted by the prospect of doing so
+
+but that doesn't change the fact that the NSA and organizations like it are out of control, and people like General Alexander run the show in Washington, when the CIA was facing massive cuts, his department expanded, he plays on fear, he creates panic and then uses the chaos to expand his own power, even if he retires his successor has to be stopped, I guess my only real question is
+
+
+
+
+**how?**",,False,,t5_2u479,False,,,True,t3_1gb52x,http://www.reddit.com/r/Stand/comments/1gb52x/if_keith_alexander_does_retire_next_year_whats/,
+1366729147.0,21,thecommentator.com,1cxsq5,CISPA fight reveals political split in Internet policy battles - The Commentator,lmaotsetung,27,6,1,http://www.reddit.com/r/Stand/comments/1cxsq5/cispa_fight_reveals_political_split_in_internet/,,,False,,t5_2u479,False,,,False,t3_1cxsq5,http://www.thecommentator.com/article/3319/cispa_fight_reveals_political_split_in_internet_policy_battles,
+1363884285.0,21,maplight.org,1aqoa8,"Quick look at money behind CISPA. Supporting companies gave $55 million to Congress in last election, 13x more than opposing companies.",donnydonny,25,4,0,http://www.reddit.com/r/Stand/comments/1aqoa8/quick_look_at_money_behind_cispa_supporting/,,,False,,t5_2u479,False,,,False,t3_1aqoa8,http://maplight.org/content/73203,
+1363180243.0,23,eff.org,1a7obd,Join the fight and tell your Representative to say no to CISPA.,hueypriest,27,4,1,http://www.reddit.com/r/Stand/comments/1a7obd/join_the_fight_and_tell_your_representative_to/,,,False,,t5_2u479,False,,,False,t3_1a7obd,https://www.eff.org/deeplinks/2013/03/34-civil-liberties-groups-speak-out-against-cispa-lead-hearings,
+1368544854.0,21,nakedcitizens.eu,1ebgpa,EU Data Protection - Big businesses are stripping us naked! | Naked citizens,edpw,23,2,0,http://www.reddit.com/r/Stand/comments/1ebgpa/eu_data_protection_big_businesses_are_stripping/,,,False,,t5_2u479,False,,,False,t3_1ebgpa,https://nakedcitizens.eu,
+1365517999.0,21,reuters.com,1bzobf,Homeland Security deputy to quit; defended civilian Internet role - Reuters,lmaotsetung,24,3,1,http://www.reddit.com/r/Stand/comments/1bzobf/homeland_security_deputy_to_quit_defended/,,,False,,t5_2u479,False,,,False,t3_1bzobf,http://www.reuters.com/article/2013/04/09/us-usa-homeland-lute-idUSBRE9380DL20130409,
+1364408505.0,19,act.demandprogress.org,1b4hgt,No Harsher CFAA! Support Aaron's Law Instead,hueypriest,32,13,2,http://www.reddit.com/r/Stand/comments/1b4hgt/no_harsher_cfaa_support_aarons_law_instead/,,,False,,t5_2u479,False,,,False,t3_1b4hgt,http://act.demandprogress.org/letter/no_cfaa,
+1364234515.0,21,washingtonexaminer.com,1azi83,Tim Carney explains why Cybersecurity is a lobbyist's dream: More government means more lobbying means more campaign contributions,lmaotsetung,21,0,0,http://www.reddit.com/r/Stand/comments/1azi83/tim_carney_explains_why_cybersecurity_is_a/,,,False,,t5_2u479,False,,,False,t3_1azi83,http://washingtonexaminer.com/cybersecurity-is-a-lobbyists-dream/article/2525309,
+1367254810.0,19,self.Stand,1dcixk,Digital Surveillance: how to avoid another Snoopers' Charter,JimKillock,19,0,0,http://www.reddit.com/r/Stand/comments/1dcixk/digital_surveillance_how_to_avoid_another/,http://www.openrightsgroup.org/blog/2013/digital-surveillance,,False,,t5_2u479,False,,,True,t3_1dcixk,http://www.reddit.com/r/Stand/comments/1dcixk/digital_surveillance_how_to_avoid_another/,
+1369151312.0,18,orgcon.openrightsgroup.org,1erpdj,"Biggest digital rights conference in the UK, with John Perry barlow, Tim Wu",JimKillock,19,1,0,http://www.reddit.com/r/Stand/comments/1erpdj/biggest_digital_rights_conference_in_the_uk_with/,,,False,,t5_2u479,False,,,False,t3_1erpdj,http://orgcon.openrightsgroup.org,
+1366727533.0,17,techdirt.com,1cxqs7,The Copyright Lobotomy: How Intellectual Property Makes Us Pretend To Be Stupid,TuneRaider,19,2,1,http://www.reddit.com/r/Stand/comments/1cxqs7/the_copyright_lobotomy_how_intellectual_property/,,,False,,t5_2u479,False,,,False,t3_1cxqs7,http://www.techdirt.com/articles/20130410/12051322665/copyright-lobotomy-how-intellectual-property-makes-us-pretend-to-be-stupid.shtml,
+1370925987.0,17,self.Stand,1g3n3r,Support people who defend your rights. Donate at crowdtilt to help offset Edward Snowden's drastic changes in his life. Link in comments,happyman2,18,1,3,http://www.reddit.com/r/Stand/comments/1g3n3r/support_people_who_defend_your_rights_donate_at/,,,False,,t5_2u479,False,,,True,t3_1g3n3r,http://www.reddit.com/r/Stand/comments/1g3n3r/support_people_who_defend_your_rights_donate_at/,
+1363627756.0,18,wired.com,1aj9bt,Forget the Cellphone Fight — We Should Be Allowed to Unlock Everything We Own,hueypriest,20,2,1,http://www.reddit.com/r/Stand/comments/1aj9bt/forget_the_cellphone_fight_we_should_be_allowed/,,,False,,t5_2u479,False,,,False,t3_1aj9bt,http://www.wired.com/opinion/2013/03/you-dont-own-your-cellphones-or-your-cars/?cid=co6465584,
+1366729387.0,16,globalresearch.ca,1cxt0o,The Anti-Counterfeit Trade Agreement (ACTA): U.S. Dictating Canada’s Intellectual Property Laws - Center for Research on Globalization,lmaotsetung,20,4,0,http://www.reddit.com/r/Stand/comments/1cxt0o/the_anticounterfeit_trade_agreement_acta_us/,,,False,,t5_2u479,False,,,False,t3_1cxt0o,http://www.globalresearch.ca/the-anti-counterfeit-trade-agreement-acta-u-s-dictating-canadas-intellectual-property-laws/5332612,
+1366655714.0,15,self.Stand,1cvn8f,r/Futurology is completely dark,Xenophon1,22,7,1,http://www.reddit.com/r/Stand/comments/1cvn8f/rfuturology_is_completely_dark/,"In solidarity of the CISPA blackout, the /r/Futurology moderators will completely blackout the sub for a full 24 hours. 
+
+Hats off to mod, u/cswider",,False,,t5_2u479,False,,,True,t3_1cvn8f,http://www.reddit.com/r/Stand/comments/1cvn8f/rfuturology_is_completely_dark/,
+1365682411.0,16,techdirt.com,1c4ooj,The Broadcast Treaty - A Plan To Create Yet Another Copyright-Like Right For Hollywood,hueypriest,20,4,0,http://www.reddit.com/r/Stand/comments/1c4ooj/the_broadcast_treaty_a_plan_to_create_yet_another/,,,False,,t5_2u479,False,,,False,t3_1c4ooj,https://www.techdirt.com/articles/20130410/07011422657/broadcast-treaty-is-baaaaaack-plan-to-create-yet-another-copyright-like-right-hollywood.shtml,
+1366810126.0,15,openrightsgroup.org,1d0ae0,UK Home Office - Drop the Snoopers' Charter from the Queen's Speech!,edpw,18,3,1,http://www.reddit.com/r/Stand/comments/1d0ae0/uk_home_office_drop_the_snoopers_charter_from_the/,,,False,,t5_2u479,False,,,False,t3_1d0ae0,http://www.openrightsgroup.org/campaigns/home-office-give-us-a-say-on-the-snoopers-charter,
+1366152639.0,14,techcrunch.com,1chrmp,"White House Threatens To Veto Cybersecurity Law, CISPA, Citing Privacy Concerns - TechCrunch",lmaotsetung,18,4,1,http://www.reddit.com/r/Stand/comments/1chrmp/white_house_threatens_to_veto_cybersecurity_law/,,,False,,t5_2u479,False,,,False,t3_1chrmp,http://techcrunch.com/2013/04/16/white-house-threatens-to-veto-cybersecurity-law-cispa-citing-privacy-concerns/,
+1365785386.0,15,huffingtonpost.com,1c7rio,CFAA: Internet Activists Win First-Round Victory In Fight Over Anti-Hacking Law - Huffington Post,lmaotsetung,17,2,0,http://www.reddit.com/r/Stand/comments/1c7rio/cfaa_internet_activists_win_firstround_victory_in/,,,False,,t5_2u479,False,,,False,t3_1c7rio,http://www.huffingtonpost.com/2013/04/12/cfaa-internet-activists_n_3068978.html,
+1365172906.0,15,webpronews.com,1bqgw0,Rep. Adam Schiff To Propose Pro-Privacy Amendment To CISPA,lmaotsetung,18,3,0,http://www.reddit.com/r/Stand/comments/1bqgw0/rep_adam_schiff_to_propose_proprivacy_amendment/,,,False,,t5_2u479,False,,,False,t3_1bqgw0,http://www.webpronews.com/rep-adam-schiff-to-propose-pro-privacy-amendment-to-cispa-2013-04,
+1364389660.0,16,blog.sfgate.com,1b3vqh,San Francisco Chronicle: Congress tries to make bad cyber law worse,lmaotsetung,16,0,0,http://www.reddit.com/r/Stand/comments/1b3vqh/san_francisco_chronicle_congress_tries_to_make/,,,False,,t5_2u479,False,,,False,t3_1b3vqh,http://blog.sfgate.com/techchron/2013/03/27/congress-tries-to-make-bad-cyber-law-worse/,
+1363956891.0,16,wired.com,1aso5h,op-ed article re: CISPA from a man who has spent time on Capitol Hill,lmaotsetung,17,1,2,http://www.reddit.com/r/Stand/comments/1aso5h/oped_article_re_cispa_from_a_man_who_has_spent/,,,False,,t5_2u479,False,,,False,t3_1aso5h,http://www.wired.com/opinion/2013/03/dont-hate-cispa-fix-it/,
+1367555523.0,12,self.Stand,1dlnmp,Brazil's Marco Civil not dead yet; Yahoo voices support,meyamashi,14,2,0,http://www.reddit.com/r/Stand/comments/1dlnmp/brazils_marco_civil_not_dead_yet_yahoo_voices/,From [techdirt](http://www.techdirt.com/articles/20130430/03554022889/yahoo-announces-public-support-brazils-marco-civil.shtml).,,False,,t5_2u479,False,,,True,t3_1dlnmp,http://www.reddit.com/r/Stand/comments/1dlnmp/brazils_marco_civil_not_dead_yet_yahoo_voices/,
+1364906304.0,13,infoworld.com,1bif7e,Court has determined that ReDigi's MP3 resale platform violate the Copyright Act of 1976 - Infoworld,lmaotsetung,15,2,1,http://www.reddit.com/r/Stand/comments/1bif7e/court_has_determined_that_redigis_mp3_resale/,,,False,,t5_2u479,False,,,False,t3_1bif7e,"http://www.infoworld.com/t/intellectual-property/court-rules-redigi-mp3-resales-illegal-215608?page=0,0",
+1366665689.0,13,self.Stand,1cw1jo,A template to protest CISPA to your senators,,19,6,11,http://www.reddit.com/r/Stand/comments/1cw1jo/a_template_to_protest_cispa_to_your_senators/,"Hey guys I wrote this over in [this thread](http://www.reddit.com/r/Stand/comments/1cufnx/official_unofficial_cispa_discussion_thread/c9k70rm) and due to numerous responses I figured i'd make a post for it. Edit this to your liking but I think and others seem to think this is a really good starting point: 
+
+&gt;Senator Pryor,
+&gt;
+&gt;As one of your constituents I am writing you this in regards to the upcoming vote on CISPA. I was sorely disappointed to see that Rep. Crawford voted yes for this bill. I believe this bill is just as bad as SOPA if not worse. 
+&gt;
+&gt;I understand in this day and age our government has to protect its citizens however I strongly feel though that giving up our privacy and liberties to combat this is just wrong and in fact it is giving in to the terrorists. What better way could they win? They are defeating our liberties and freedom by scaring our representatives to support bills like this.
+&gt;
+&gt;I voted for you last election but if you support this bill I can assure you that you will not have my vote nor that of many of my friends at Arkansas State University. 
+&gt;
+&gt;Your younger generation of constituents do not agree with these draconian laws and as I understand CISPA it makes what happened to Aaron Swartz even worse and is a disgrace to us Americans.
+&gt;
+&gt;Again, I plead to you to vote no on this bill.
+&gt;
+&gt;I look forward to hearing back from you
+&gt;
+&gt;Best Regards,
+
+
+Now obviously Senator Pryor is my Senator and Rep. Crawford I mentioned is my rep. Change this letter as you see fit and if you have one that's better please feel free to one up me on this! I'll happily take it. We need to stand together on this and if someone can write a better letter please do :)
+
+It only took me about 1 minute and not much thinking to write this so I know some of you can do better but for those of you who don't want to write a whole new one out just edit the names and the part about Arkansas State University.
+
+Good luck guys! 
+
+Edit 1: Try to personalize this a bit. We do not want to look like drones.
+
+Edit 2: People are now posting their own versions of letters in the comments. Please take a look at all and find one that fits you best to send to your Senators. Also make sure you check to see if your rep's from the house voted yes to CISPA and kindly write them an email like I did (i posted mine in the comment section)",,False,,t5_2u479,1366679596.0,,,True,t3_1cw1jo,http://www.reddit.com/r/Stand/comments/1cw1jo/a_template_to_protest_cispa_to_your_senators/,
+1365610933.0,12,youtube.com,1c2k6f,Alexis Ohanian calls Google to talk CISPA,hueypriest,22,10,2,http://www.reddit.com/r/Stand/comments/1c2k6f/alexis_ohanian_calls_google_to_talk_cispa/,,,False,,t5_2u479,False,,,False,t3_1c2k6f,http://www.youtube.com/watch?v=IkuH5ZjEdBw&amp;feature=youtu.be,
+1364569176.0,12,guardian.co.uk,1b8t0s,The Guardian: How a cyberwar was spun by shoddy journalism,lmaotsetung,14,2,0,http://www.reddit.com/r/Stand/comments/1b8t0s/the_guardian_how_a_cyberwar_was_spun_by_shoddy/,,,False,,t5_2u479,False,,,False,t3_1b8t0s,http://www.guardian.co.uk/commentisfree/2013/mar/29/cyberwar-spun-shoddy-journalism,
+1364347823.0,11,self.Stand,1b2zbb,Clicking this link is a CFAA violation and you may find yourself in prison.,javastripped,17,6,0,http://www.reddit.com/r/Stand/comments/1b2zbb/clicking_this_link_is_a_cfaa_violation_and_you/,"I need legal advice here regarding the CFAA ...
+
+Would it be possible to create a website where clicking a link could wind you up in prison?
+
+For example cfaa-violation.com which is literally just a ToS preventing you from accessing the site which would then exceed ""authorized access"" and then end up being a CFAA violation and might end you up in prison.",,False,,t5_2u479,False,,,True,t3_1b2zbb,http://www.reddit.com/r/Stand/comments/1b2zbb/clicking_this_link_is_a_cfaa_violation_and_you/,
+1366642395.0,13,theatlantic.com,1cv6bs,"The Atlantic - Why Is Congress Trying to Make Our Internet Abuse Laws Worse, not Better?",lmaotsetung,18,5,0,http://www.reddit.com/r/Stand/comments/1cv6bs/the_atlantic_why_is_congress_trying_to_make_our/,,,False,,t5_2u479,False,,,False,t3_1cv6bs,http://www.theatlantic.com/politics/archive/2013/04/why-is-congress-trying-to-make-our-internet-abuse-laws-worse-not-better/275142/,
+1366293464.0,11,lexology.com,1clt0e,U.S. Court of Appeals ruling protects ISPs from copyright infringement - Lexology,lmaotsetung,16,5,0,http://www.reddit.com/r/Stand/comments/1clt0e/us_court_of_appeals_ruling_protects_isps_from/,,,False,,t5_2u479,False,,,False,t3_1clt0e,http://www.lexology.com/library/detail.aspx?g=00536761-63fb-47f6-8851-040705b62105,
+1366665108.0,11,i.imgur.com,1cw0p9,Wanna stop CISPA the easy way?,fightforthefuture,22,11,5,http://www.reddit.com/r/Stand/comments/1cw0p9/wanna_stop_cispa_the_easy_way/,,,False,,t5_2u479,False,,,False,t3_1cw0p9,http://i.imgur.com/AUuPSkT.png,
+1366654290.0,11,nationaljournal.com,1cvlby,"Brian Fung Explains How CISPA Opponents Were Outspent by Industry Lobbyists, 38 to 1 - National Journal",lmaotsetung,13,2,0,http://www.reddit.com/r/Stand/comments/1cvlby/brian_fung_explains_how_cispa_opponents_were/,,,False,,t5_2u479,False,,,False,t3_1cvlby,http://www.nationaljournal.com/tech/how-cispa-opponents-were-outspent-by-industry-lobbyists-38-to-1-20130422,
+1365427940.0,11,meta.wikimedia.org,1bwzfk,Wikimedia Foundation elaborates on recent demand by French governmental agency to remove Wikipedia content.,hueypriest,12,1,0,http://www.reddit.com/r/Stand/comments/1bwzfk/wikimedia_foundation_elaborates_on_recent_demand/,,,False,,t5_2u479,False,,,False,t3_1bwzfk,https://meta.wikimedia.org/wiki/Legal_and_Community_Advocacy/Statement_on_France,
+1364821042.0,12,adage.com,1bf3gb,How the U.S. Government Is Screwing Up the War Against Cyberterrorism - AdAge's Simon Dumenco explains,lmaotsetung,13,1,0,http://www.reddit.com/r/Stand/comments/1bf3gb/how_the_us_government_is_screwing_up_the_war/,,,False,,t5_2u479,False,,,False,t3_1bf3gb,http://adage.com/article/the-media-guy/u-s-government-screwing-war-cyberterrorism/240613/,
+1363701528.0,11,reddit.com,1albzl,Internet freedom advocates and online innovators talk international agreements!,hueypriest,13,2,0,http://www.reddit.com/r/Stand/comments/1albzl/internet_freedom_advocates_and_online_innovators/,,,False,,t5_2u479,False,,,False,t3_1albzl,http://www.reddit.com/r/IAmA/comments/1ajboq/we_are_internet_freedom_advocates_and_online/,
+1362756726.0,9,torrentfreak.com,19wyhp,Copyright Trolls Order WordPress To Hand Over Critics’ IP Addresses,hueypriest,15,6,0,http://www.reddit.com/r/Stand/comments/19wyhp/copyright_trolls_order_wordpress_to_hand_over/,,,False,,t5_2u479,False,,,False,t3_19wyhp,http://torrentfreak.com/copyright-trolls-order-wordpress-to-hand-over-critics-ip-addresses-130308/,
+1365639699.0,10,sfgate.com,1c3o0v,SF Gate : House committee approves pro-business cyber bill aka CISPA,lmaotsetung,13,3,0,http://www.reddit.com/r/Stand/comments/1c3o0v/sf_gate_house_committee_approves_probusiness/,,,False,,t5_2u479,False,,,False,t3_1c3o0v,http://www.sfgate.com/business/technology/article/House-committee-advancing-pro-business-cyber-bill-4424126.php,
+1365179274.0,10,digitaltrends.com,1bqp6v,A push toward greater transparency: Right To Know Bill lets customers learn what companies know about them - DigitalTrends,lmaotsetung,12,2,0,http://www.reddit.com/r/Stand/comments/1bqp6v/a_push_toward_greater_transparency_right_to_know/,,,False,,t5_2u479,False,,,False,t3_1bqp6v,http://www.digitaltrends.com/web/new-california-right-to-know-bill-allows-customers-access-to-their-market-research-data/,
+1364896890.0,10,classic.skor.nl,1bi99e,"Copyright, Copyleft, Copygift by Mackenzie Wark",mercurious,11,1,0,http://www.reddit.com/r/Stand/comments/1bi99e/copyright_copyleft_copygift_by_mackenzie_wark/,,,False,,t5_2u479,False,,,False,t3_1bi99e,http://classic.skor.nl/3091/en/mckenzie-wark-copyright-copyleft-copygift,
+1363034882.0,11,readwrite.com,1a3pqr,CISPA: Who's For It And Who's Against It,hueypriest,14,3,0,http://www.reddit.com/r/Stand/comments/1a3pqr/cispa_whos_for_it_and_whos_against_it/,,,False,,t5_2u479,False,,,False,t3_1a3pqr,http://readwrite.com/2013/03/11/cispa-supporters-opponents-and-you,
+1372590169.0,8,self.Stand,1hcyyk,Open Your Eyes: A list of all the most inspiring pro-human things out there.,luxybug,23,15,3,http://www.reddit.com/r/Stand/comments/1hcyyk/open_your_eyes_a_list_of_all_the_most_inspiring/,"[The Story of Your Enslavement](http://www.youtube.com/watch?v=Xbp6umQT58A)
+
+[The Collapse of The American Dream Explained in Animation](http://www.youtube.com/watch?v=mII9NZ8MMVM&amp;list=FLaQOqL_Y-Fjj5AvwMiOLmfw&amp;index=2)
+
+Carl Sagan's Cosmos.
+
+Bill Hicks's Comedy.
+
+Please add to the list.",,False,,t5_2u479,False,,,True,t3_1hcyyk,http://www.reddit.com/r/Stand/comments/1hcyyk/open_your_eyes_a_list_of_all_the_most_inspiring/,
+1364569654.0,9,techdirt.com,1b8tjp,Law Professor Eric Goldman: The CFAA Is A Failed Experiment; It's Time To Gut It - TechDirt,lmaotsetung,11,2,0,http://www.reddit.com/r/Stand/comments/1b8tjp/law_professor_eric_goldman_the_cfaa_is_a_failed/,,,False,,t5_2u479,False,,,False,t3_1b8tjp,http://www.techdirt.com/articles/20130328/15252122499/law-professor-eric-goldman-cfaa-is-failed-experiment-get-rid-it.shtml,
+1364299449.0,10,lawfareblog.com,1b1bxa,Lawfare: Congress v. China on Cybersecurity - by Jack Goldsmith,lmaotsetung,10,0,0,http://www.reddit.com/r/Stand/comments/1b1bxa/lawfare_congress_v_china_on_cybersecurity_by_jack/,,,False,,t5_2u479,False,,,False,t3_1b1bxa,http://www.lawfareblog.com/2013/03/congress-v-china-on-cybersecurity/,
+1364132446.0,11,whitehouse.gov,1awuwr,The Obama Administration's position concerning national cybersecurity.  A worthwhile read if you want to further your understanding of the various points of view in this debate.,lmaotsetung,13,2,1,http://www.reddit.com/r/Stand/comments/1awuwr/the_obama_administrations_position_concerning/,,,False,,t5_2u479,False,,,False,t3_1awuwr,http://www.whitehouse.gov/cybersecurity/comprehensive-national-cybersecurity-initiative,
+1363274786.0,7,techdirt.com,1aae0s,"European Court of Human Rights has rejected appeals from two founders of The Pirate Bay, setting a dangerous precedent on liability and free expression.",hueypriest,11,4,0,http://www.reddit.com/r/Stand/comments/1aae0s/european_court_of_human_rights_has_rejected/,,,False,,t5_2u479,False,,,False,t3_1aae0s,http://www.techdirt.com/articles/20130313/10343422312/rejection-pirate-bay-founders-appeal-sets-dangerous-precedent-liability-free-expression.shtml,
+1372644582.0,9,youtube.com,1hef6u,Eden of the East - short reggae song dedicated to the NSA,DizzyAudio,13,4,1,http://www.reddit.com/r/Stand/comments/1hef6u/eden_of_the_east_short_reggae_song_dedicated_to/,,,False,,t5_2u479,False,,,False,t3_1hef6u,http://www.youtube.com/watch?v=DZAKgozXoeM,
+1366565885.0,10,bloomberg.com,1ct4yb,Obama Decision on Interrogating Boston Bombing Suspect Draws Criticism,Joe_12265,15,5,1,http://www.reddit.com/r/Stand/comments/1ct4yb/obama_decision_on_interrogating_boston_bombing/,,,False,,t5_2u479,False,,,False,t3_1ct4yb,http://www.bloomberg.com/news/2013-04-21/obama-decision-on-interrogating-suspect-draws-criticism.html,
+1366046905.0,8,docs.house.gov,1cefcr,H.R. 624: Cyber Intelligence Sharing and Protection Act -- To be considered on the House floor this week (pdf),TuneRaider,10,2,0,http://www.reddit.com/r/Stand/comments/1cefcr/hr_624_cyber_intelligence_sharing_and_protection/,,,False,,t5_2u479,False,,,False,t3_1cefcr,http://docs.house.gov/billsthisweek/20130415/CPRT-113-HPRT-RU00-HR624.pdf,
+1364906672.0,6,rollcall.com,1bifh7,Ford and Sununu op-ed: Protect 'Internet Ecosystem' by Avoiding Excess Regulation - Roll Call,lmaotsetung,9,3,0,http://www.reddit.com/r/Stand/comments/1bifh7/ford_and_sununu_oped_protect_internet_ecosystem/,,,False,,t5_2u479,False,,,False,t3_1bifh7,http://www.rollcall.com/news/ford_and_sununu_protect_internet_ecosystem_by_avoiding_excess_regulation-223521-1.html,
+1364473555.0,8,latimes.com,1b68s8,LA Times op-ed: Reform the CFAA penalties to protect  individuals from overzealous prosecutors,lmaotsetung,10,2,0,http://www.reddit.com/r/Stand/comments/1b68s8/la_times_oped_reform_the_cfaa_penalties_to/,,,False,,t5_2u479,False,,,False,t3_1b68s8,"http://www.latimes.com/news/opinion/editorials/la-ed-computer-fraud-abuse-act-20130328,0,83875.story",
+1364388842.0,9,washingtontimes.com,1b3v2l,"Janet Napolitano, Homeland Security Secretary, seeks 'hackers for good' to help with cybersecurity",lmaotsetung,9,0,0,http://www.reddit.com/r/Stand/comments/1b3v2l/janet_napolitano_homeland_security_secretary/,,,False,,t5_2u479,False,,,False,t3_1b3v2l,http://www.washingtontimes.com/news/2013/mar/27/homeland-security-seeks-hackers-good-help-cybersec/,
+1364327055.0,8,computerworld.com,1b27d1,Private sector solutions: Ashar Aziz's FireEye has disrupted the security landscape for protection against next-gen threats,lmaotsetung,8,0,0,http://www.reddit.com/r/Stand/comments/1b27d1/private_sector_solutions_ashar_azizs_fireeye_has/,,,False,,t5_2u479,False,,,False,t3_1b27d1,http://www.computerworld.com/s/article/9237890/FireEye_has_disrupted_the_security_landscape_for_protection_against_next_gen_threats_Ashar_Aziz,
+1365785069.0,8,aclu.org,1c7r4f,ACLU: Why Won’t the IRS Deploy Basic Web Security?,lmaotsetung,10,2,0,http://www.reddit.com/r/Stand/comments/1c7r4f/aclu_why_wont_the_irs_deploy_basic_web_security/,,,False,,t5_2u479,False,,,False,t3_1c7r4f,http://www.aclu.org/blog/technology-and-liberty/why-wont-irs-deploy-basic-web-security,
+1365770943.0,8,natlawreview.com,1c7azx,The Copyright Alert System: Copyright Infringement and The Educational Approach - National Law Review,lmaotsetung,10,2,0,http://www.reddit.com/r/Stand/comments/1c7azx/the_copyright_alert_system_copyright_infringement/,,,False,,t5_2u479,False,,,False,t3_1c7azx,http://www.natlawreview.com/article/copyright-alert-system-copyright-infringement-and-educational-approach,
+1364747961.0,7,economictimes.indiatimes.com,1bd4dj,The Economic Times: Cyber security market may reach $870 million by 2017,lmaotsetung,9,2,0,http://www.reddit.com/r/Stand/comments/1bd4dj/the_economic_times_cyber_security_market_may/,,,False,,t5_2u479,False,,,False,t3_1bd4dj,http://economictimes.indiatimes.com/tech/software/cyber-security-market-may-reach-870-million-by-2017-report/articleshow/19303845.cms,
+1364475264.0,8,fcw.com,1b6a1k,FCW: New report suggests how agencies can improve cybersecurity without waiting for Congress,lmaotsetung,8,0,0,http://www.reddit.com/r/Stand/comments/1b6a1k/fcw_new_report_suggests_how_agencies_can_improve/,,,False,,t5_2u479,False,,,False,t3_1b6a1k,http://fcw.com/Articles/2013/03/27/Cybersecurity-without-Congress.aspx?Page=1,
+1363614199.0,5,reddit.com,1aiukm,"'In November of 2012 I was found guilty of violating the Computer Fraud and Abuse Act, the same law used against Matthew Keys, Aaron Swartz and Stephen Watt."" AMA [xpost from /r/IAMA]",hueypriest,12,7,0,http://www.reddit.com/r/Stand/comments/1aiukm/in_november_of_2012_i_was_found_guilty_of/,,,False,,t5_2u479,False,,,False,t3_1aiukm,http://www.reddit.com/r/IAmA/comments/1ahkgc/i_am_weev_i_may_be_going_to_prison_under_the/,
+1365173224.0,5,informationweek.com,1bqhbg,Laws Can't Save Banks From DDoS Attacks - InformationWeek,lmaotsetung,8,3,0,http://www.reddit.com/r/Stand/comments/1bqhbg/laws_cant_save_banks_from_ddos_attacks/,,,False,,t5_2u479,False,,,False,t3_1bqhbg,http://www.informationweek.com/security/attacks/laws-cant-save-banks-from-ddos-attacks/240152324,
+1365173013.0,6,aclu.org,1bqh19,ACLU: CISPA Explainer #4: Is There Anything Besides Information-Sharing Hidden in CISPA?,lmaotsetung,8,2,0,http://www.reddit.com/r/Stand/comments/1bqh19/aclu_cispa_explainer_4_is_there_anything_besides/,,,False,,t5_2u479,False,,,False,t3_1bqh19,http://www.aclu.org/blog/national-security-technology-and-liberty/cispa-explainer-4-there-anything-besides-information,
+1364473289.0,6,techcrunch.com,1b68ku,TechCrunch: New U.S. Cyber-Security Law May Hinder Lenovo’s Sales Growth,lmaotsetung,6,0,0,http://www.reddit.com/r/Stand/comments/1b68ku/techcrunch_new_us_cybersecurity_law_may_hinder/,,,False,,t5_2u479,False,,,False,t3_1b68ku,http://techcrunch.com/2013/03/27/new-u-s-cyber-security-law-may-hinder-lenovos-sales-growth/,
+1363996821.0,5,self.Stand,1atx6c,Other cool sub-Reddits that this place should encompass,ajpos,8,3,0,http://www.reddit.com/r/Stand/comments/1atx6c/other_cool_subreddits_that_this_place_should/,"I have been on the ""Reddit Activism"" scene for a while, and just wanted to compile a **small** list of similar sub-reddits for you.
+
+&gt;/r/evolutionreddit - The same concept as this subreddit, although lately it has been lacking on discussion. The guy who created it is, /u/equanimousmind, is the most prolific Reddit-activist I know.
+
+&gt;/r/sunlight - The subreddit for the Sunlight Foundation. These guys are pretty cool, and focus on government transparency issues as they relate to technology.
+
+&gt;/r/SOPA - Still active, believe it or not.
+
+&gt;/r/technology - The largest sub that seems to care about SOPA/CISPA issues.
+
+&gt;/r/Runforit - This one is listed in the sidebar. I actually started this sub, but removed my moderator-ness when I tried to pass the torch on to someone else. Now the place has pretty much died due to not getting any TLC. Perhaps I should request to be reinstated as a mod?
+
+&gt;/r/testpac - Also dead, but hopefully coming back for the 2014 election cycle. If Fight For the Future is Reddit's 501c3, then TestPAC is Reddit's PAC. (A 501c3 cannot endorse particular political candidates, a PAC can). We actually raised a lot of money for a primary election, and unlike Demand Progress (started by Aaron Schwartz), were non-partisan. Related sub: /r/rpac
+
+The demographics of Reddit have definitely changed constantly for the past several years. Doing anything worthwhile will be met with negativity and nastiness. The top post in /r/trees for two days in a row are pleas for political action, but some of the top comments are depressing cynicism. Don't give up - Reddit activism was my full-time ~~hobby~~ job for a year, and gave me the experience I needed to get me the awesome job I have now. Never give up, never surrender. ",,False,,t5_2u479,False,,,True,t3_1atx6c,http://www.reddit.com/r/Stand/comments/1atx6c/other_cool_subreddits_that_this_place_should/,
+1363015579.0,6,techcrunch.com,1a33bf,Senator Moran On How To Influence Congressmen,hueypriest,10,4,0,http://www.reddit.com/r/Stand/comments/1a33bf/senator_moran_on_how_to_influence_congressmen/,,,False,,t5_2u479,False,,,False,t3_1a33bf,http://techcrunch.com/2013/03/10/senator-moran-on-filibustering-drone-policy-and-how-to-influence-congressmen-sxsw/,
+1362756104.0,8,m.ajc.com,19wxth,Bill to limit municipal networks defeated in Georgia. Will this be a turning point? ,hueypriest,11,3,0,http://www.reddit.com/r/Stand/comments/19wxth/bill_to_limit_municipal_networks_defeated_in/,,,False,,t5_2u479,False,,,False,t3_19wxth,http://m.ajc.com/news/news/state-regional-govt-politics/bill-limiting-cities-ability-to-create-broadband-n/nWkj2/,
+1366689548.0,5,self.Stand,1cwxvz,What CISPA would you like to see?,herograw,6,1,3,http://www.reddit.com/r/Stand/comments/1cwxvz/what_cispa_would_you_like_to_see/,"So, cyber threats will continue to be a thing, and until a bill passes that addresses cyber threats our representatives will keep writing them. This CISPA might fail, but eventually some future version of CISPA will become law. 
+
+My question is: what form of CISPA would you guys *want* to have pass? People worry that internet laws are written by those who don't really understand the internet and how it works so they can't fully understand the effects and implications of the bills they are proposing. 
+
+But we can, right? Maybe not everyone on reddit, but our community is made up of such a large, diverse talent pool that I imagine one of us could write a version of CISPA that we could all agree on. 
+
+We could write a version without ambiguous language, and then look at them in parallel and, by example, show scenarios in which the bill (as it is currently written) is twisted and abused whereas in the same situation our version is not susceptible. 
+
+What will this accomplish? Probably nothing. At best, one of our elected officials will read it, understand the problems with the current CISPA, and incorporate positive changes. At worst, we've wasted time on reddit, which is what most of us are doing anyway.
+
+As it stands right now this situation is like when friends try to decide on a place to eat:
+
+&gt; Government: How about mexican food?
+
+&gt; Us: Nah, I don't like mexican food, it makes me gassy.
+
+&gt; Government: Okay what about italian?
+
+&gt; Us: Nah, italian gives me heartburn
+
+Since hunger is a real problem, we're going to eat somewhere. But the ""Us"" in that conversation is purely reactionary. I'd hope that we could actually contribute to the conversation in addition to pointing out dead ends.",,False,,t5_2u479,False,,,True,t3_1cwxvz,http://www.reddit.com/r/Stand/comments/1cwxvz/what_cispa_would_you_like_to_see/,
+1366030147.0,6,politico.com,1cdwo4,Cybersecurity: New version of old fight - Politico,lmaotsetung,9,3,0,http://www.reddit.com/r/Stand/comments/1cdwo4/cybersecurity_new_version_of_old_fight_politico/,,,False,,t5_2u479,False,,,False,t3_1cdwo4,http://www.politico.com/story/2013/04/security-vs-privacy-goes-cyber-in-post-911-world-90048.html?hp=f3,
+1364907180.0,5,scmagazineuk.com,1bifvb,Is the UK really prepared for cyber attack mitigation? Vice President of FireEye EU explains why 'proactive threat mitigation' is the best approach for the UK - SC Magazine,lmaotsetung,6,1,0,http://www.reddit.com/r/Stand/comments/1bifvb/is_the_uk_really_prepared_for_cyber_attack/,,,False,,t5_2u479,False,,,False,t3_1bifvb,http://www.scmagazineuk.com/is-the-uk-really-prepared-for-cyber-attack-mitigation/article/286523/,
+1364748184.0,5,thestandard.co.zw,1bd4lj,China-based US firms see red over data theft - The Standard,lmaotsetung,6,1,0,http://www.reddit.com/r/Stand/comments/1bd4lj/chinabased_us_firms_see_red_over_data_theft_the/,,,False,,t5_2u479,False,,,False,t3_1bd4lj,http://www.thestandard.co.zw/2013/03/31/china-based-us-firms-see-red-over-data-theft/,
+1364569965.0,5,darkreading.com,1b8tvv,NSA Director: information-sharing critical to U.S. cybersecurity; points to private sector solutions - DarkReading,lmaotsetung,5,0,0,http://www.reddit.com/r/Stand/comments/1b8tvv/nsa_director_informationsharing_critical_to_us/,,,False,,t5_2u479,False,,,False,t3_1b8tvv,http://www.darkreading.com/threat-intelligence/167901121/security/news/240151955/nsa-director-information-sharing-critical-to-u-s-cybersecurity.html,
+1362754399.0,5,thehill.com,19ww4z,Senate bill would legalize cellphone unlocking,hueypriest,9,4,0,http://www.reddit.com/r/Stand/comments/19ww4z/senate_bill_would_legalize_cellphone_unlocking/,,,False,,t5_2u479,False,,,False,t3_19ww4z,http://thehill.com/blogs/hillicon-valley/technology/286869-senate-bill-would-legalize-cellphone-unlocking,
+1362411425.0,5,self.Stand,19n415,Thoughts on the CSS,Drunken_Economist,7,2,1,http://www.reddit.com/r/Stand/comments/19n415/thoughts_on_the_css/,"You currently are overriding the two submit buttons to create just one ""submit a post"" button. That's not necessarily bad, but you might want to stick with the reddit-standard way of having a separate text and link submit button, since this is an ""official"" subreddit
+
+At any rate, definitely change the wording of the submit button. If you'll be using this to host big AMAs (or really anything that will end up with traffic and comments from external sites), many of the people seeing the subreddit and thread will not be familiar with how reddit functions. They'll end up using that button to try to submit comments. We saw this a lot after the change in /r/IAmA. I ended up fixing the issue by hiding the submit button when users are actually in a thread -- people linked directly into an AMA would never see that button to misuse it. Something like:  
+
+        body.comments-page div.sidebox.submit-text {display: none;}  
+will accomplish that.
+
+Other than that everything is fine -- just make sure you give a shout-out to /u/Edurne in the CSS. He did most of the legwork on making this CSS actually work properly.",,False,,t5_2u479,False,,,True,t3_19n415,http://www.reddit.com/r/Stand/comments/19n415/thoughts_on_the_css/,
+1366729507.0,4,washingtontimes.com,1cxt63,Washington Times: China and U.S. militaries talk cybersecurity,lmaotsetung,6,2,0,http://www.reddit.com/r/Stand/comments/1cxt63/washington_times_china_and_us_militaries_talk/,,,False,,t5_2u479,False,,,False,t3_1cxt63,http://www.washingtontimes.com/news/2013/apr/23/china-and-us-militaries-talk-cybersecurity/?utm_source=RSS_Feed&amp;utm_medium=RSS,
+1366671211.0,5,darkreading.com,1cw9bz,NIST Announces Plan To Sponsor First Cybersecurity FFRDC - Dark Reading,lmaotsetung,6,1,1,http://www.reddit.com/r/Stand/comments/1cw9bz/nist_announces_plan_to_sponsor_first/,,,False,,t5_2u479,False,,,False,t3_1cw9bz,http://www.darkreading.com/government-vertical/nist-announces-plan-to-sponsor-first-cyb/240153370,
+1364489051.0,5,theverge.com,1b6ovg,Private sector solutions: pictures of kitties and their contribution to the cybersecurity debate,lmaotsetung,5,0,0,http://www.reddit.com/r/Stand/comments/1b6ovg/private_sector_solutions_pictures_of_kitties_and/,,,False,,t5_2u479,False,,,False,t3_1b6ovg,http://www.theverge.com/2013/3/28/4156118/how-employers-are-using-cute-kittens-to-avoid-cyberattacks,
+1364488802.0,4,computing.co.uk,1b6okt,"Computing UK op-ed: H4cked Off - The Spamhaus cyber attack that did not 'break the internet,' and what it means for cybersecurity in the future",lmaotsetung,5,1,0,http://www.reddit.com/r/Stand/comments/1b6okt/computing_uk_oped_h4cked_off_the_spamhaus_cyber/,,,False,,t5_2u479,False,,,False,t3_1b6okt,http://www.computing.co.uk/ctg/opinion/2258252/h4cked-off-the-spamhaus-cyber-attack-that-did-not-break-the-internet,
+1364475082.0,4,energybiz.com,1b69wx,EnergyCentral: Cyber Security and Getting the President's Ear - A look at the issue of cybersecurity through the lens of an energy corporation,lmaotsetung,5,1,0,http://www.reddit.com/r/Stand/comments/1b69wx/energycentral_cyber_security_and_getting_the/,,,False,,t5_2u479,False,,,False,t3_1b69wx,http://www.energybiz.com/article/13/03/cyber-security-and-getting-presidents-ear,
+1364389159.0,5,forbes.com,1b3vbl,Private sector solutions: Nir Zuk's Palo Alto Networks Is Blowing Up Internet Security,lmaotsetung,5,0,0,http://www.reddit.com/r/Stand/comments/1b3vbl/private_sector_solutions_nir_zuks_palo_alto/,,,False,,t5_2u479,False,,,False,t3_1b3vbl,http://www.forbes.com/sites/calebmelby/2013/03/27/nir-zuks-palo-alto-networks-is-blowing-up-internet-security/,
+1364243560.0,3,self.Stand,1azudl,"Report for the  Chief of Naval Operations Strategic Studies Group, suggesting the creation of security ware to police all Internet traffic.",micaldas,4,1,1,http://www.reddit.com/r/Stand/comments/1azudl/report_for_the_chief_of_naval_operations/,"Excerpt from the report: ""These modifications would alter the perspective of the ""rights"" of the Internet,
+the right of transmission and the right of any node to communicate to any other node of the
+system. An effective security system requires that this right be limited, as best as possible,
+to those who do not cause damage to the system.""
+
+http://arxiv.org/abs/1303.2682?utm_source=Complexity+Digest&amp;utm_campaign=877f1ff05c-RSS_EMAIL_CAMPAIGN&amp;utm_medium=email",,False,,t5_2u479,False,,,True,t3_1azudl,http://www.reddit.com/r/Stand/comments/1azudl/report_for_the_chief_of_naval_operations/,
+1362757842.0,3,fixthedmca.org,19wznu,Write Congress to fix the anti-circumvention provision of the DMCA,hueypriest,8,5,0,http://www.reddit.com/r/Stand/comments/19wznu/write_congress_to_fix_the_anticircumvention/,,,False,,t5_2u479,False,,,False,t3_19wznu,http://fixthedmca.org/,
+1365684543.0,3,politico.com,1c4qch,Politico Op-Ed: A conservative cybersecurity strategy - Rep. Marsha Blackburn (R-Tenn.),lmaotsetung,6,3,0,http://www.reddit.com/r/Stand/comments/1c4qch/politico_oped_a_conservative_cybersecurity/,,,False,,t5_2u479,False,,,False,t3_1c4qch,http://www.politico.com/story/2013/04/a-conservative-cybersecurity-framework-89877.html,
+1365516789.0,3,phys.org,1bzmym,US lawmakers offer cybersecurity olive branch - civil liberty concerns still remain,lmaotsetung,7,4,0,http://www.reddit.com/r/Stand/comments/1bzmym/us_lawmakers_offer_cybersecurity_olive_branch/,,,False,,t5_2u479,False,,,False,t3_1bzmym,http://phys.org/news/2013-04-lawmakers-cybersecurity-olive.html,
+1365078235.0,4,gsnmagazine.com,1bnn13,Privacy groups urge open mark-up of House Cyber security legislation - GSN,lmaotsetung,5,1,0,http://www.reddit.com/r/Stand/comments/1bnn13/privacy_groups_urge_open_markup_of_house_cyber/,,,False,,t5_2u479,False,,,False,t3_1bnn13,http://www.gsnmagazine.com/node/28839?c=cyber_security,
+1364819626.0,4,cio.com,1bf2b5,China Slams U.S. for Discriminating Against Nation's Tech Vendors - CIO,lmaotsetung,7,3,0,http://www.reddit.com/r/Stand/comments/1bf2b5/china_slams_us_for_discriminating_against_nations/,,,False,,t5_2u479,False,,,False,t3_1bf2b5,http://www.cio.com/article/730992/China_Slams_U.s._for_Discriminating_Against_Nation_39_s_Tech_Vendors?taxonomyId=1375,
+1362353255.0,3,self.Stand,19lqfx,Test post!,Dacvak,8,5,1,http://www.reddit.com/r/Stand/comments/19lqfx/test_post/,:D,,False,,t5_2u479,False,,,True,t3_19lqfx,http://www.reddit.com/r/Stand/comments/19lqfx/test_post/,
+1364568931.0,2,news.idg.no,1b8srk,"ComputerWorld: Bitcoin exchange faces DDoS, even as the digital currency surges",lmaotsetung,2,0,0,http://www.reddit.com/r/Stand/comments/1b8srk/computerworld_bitcoin_exchange_faces_ddos_even_as/,,,False,,t5_2u479,False,,,False,t3_1b8srk,http://news.idg.no/cw/art.cfm?id=11FC5898-A994-1DC9-25F84EC8C336FE03,
+1364301329.0,2,darkreading.com,1b1dcm,Small Suppliers Must Beef Up Security,lmaotsetung,3,1,0,http://www.reddit.com/r/Stand/comments/1b1dcm/small_suppliers_must_beef_up_security/,,,False,,t5_2u479,False,,,False,t3_1b1dcm,http://www.darkreading.com/smb-security/167901073/security/news/240151695/small-suppliers-must-beef-up-security,
+1366152526.0,0,nextgov.com,1chrgi,It’s Cyber Reform All Over Again - NextGov,lmaotsetung,6,6,0,http://www.reddit.com/r/Stand/comments/1chrgi/its_cyber_reform_all_over_again_nextgov/,,,False,,t5_2u479,False,,,False,t3_1chrgi,http://www.nextgov.com/cybersecurity/cybersecurity-report/2013/04/its-cyber-reform-all-over-again/62571/?oref=ng-dropdown,
+1365784898.0,1,americanbanker.com,1c7qwh,Technology Trade Group Backs Controversial Cybersecurity Bill - Bank Technology News,lmaotsetung,5,4,0,http://www.reddit.com/r/Stand/comments/1c7qwh/technology_trade_group_backs_controversial/,,,False,,t5_2u479,False,,,False,t3_1c7qwh,http://www.americanbanker.com/issues/178_71/technology-trade-group-backs-controversial-cybersecurity-bill-1058264-1.html,
+1365684269.0,1,tgdaily.com,1c4q4k,Obama's budget calls for more investment to nation's cyber defenses - TGDaily,lmaotsetung,3,2,0,http://www.reddit.com/r/Stand/comments/1c4q4k/obamas_budget_calls_for_more_investment_to/,,,False,,t5_2u479,False,,,False,t3_1c4q4k,http://www.tgdaily.com/hardware-brief/70885-obama-spends-more-on-cyber-defense,
+1365618045.0,3,publicpolicy.verizon.com,1c2tym,BITAG: A New and Increasingly Important Multi-Stakeholder Organization,hueypriest,8,5,0,http://www.reddit.com/r/Stand/comments/1c2tym/bitag_a_new_and_increasingly_important/,,,False,,t5_2u479,False,,,False,t3_1c2tym,http://publicpolicy.verizon.com/blog/entry/bitag-a-new-and-increasingly-important-multi-stakeholder-organization,
+1365598464.0,1,lawfareblog.com,1c25mg,Lawfare - Peter Margulies Summarizes the NIST Conference on Cybersecurity Standards,lmaotsetung,4,3,0,http://www.reddit.com/r/Stand/comments/1c25mg/lawfare_peter_margulies_summarizes_the_nist/,,,False,,t5_2u479,False,,,False,t3_1c25mg,http://www.lawfareblog.com/2013/04/peter-margulies-summarizes-the-nist-conference-on-cybersecurity-standards/,
+1365518865.0,1,readwrite.com,1bzpat,"Hitting Back At Hackers: Why ""Strikeback"" Is Doomed To Fail",lmaotsetung,4,3,0,http://www.reddit.com/r/Stand/comments/1bzpat/hitting_back_at_hackers_why_strikeback_is_doomed/,,,False,,t5_2u479,False,,,False,t3_1bzpat,http://readwrite.com/2013/04/09/hitting-back-at-hackers-why-strikeback-is-doomed-to-fail,
+1364820694.0,1,politicalnews.me,1bf363,"Dianne Feinstein, Marco Rubio to Co-Chair Senate National Security Working Group - PoliticalNews",lmaotsetung,3,2,0,http://www.reddit.com/r/Stand/comments/1bf363/dianne_feinstein_marco_rubio_to_cochair_senate/,,,False,,t5_2u479,False,,,False,t3_1bf363,http://politicalnews.me/?id=22522&amp;keys=COCHAIRMEN-BIPARTISAN-GROUP-COOPERATION,
+1373051629.0,0,self.Stand,1hpfts,"Remove ban from /r/niggers, before talking about free speech, democracy and all that ""Internet Freedom"" bullshit!",EasternEuropean,13,15,2,http://www.reddit.com/r/Stand/comments/1hpfts/remove_ban_from_rniggers_before_talking_about/,Word,,False,,t5_2u479,False,,,True,t3_1hpfts,http://www.reddit.com/r/Stand/comments/1hpfts/remove_ban_from_rniggers_before_talking_about/,
+1367055599.0,0,browse.deviantart.com,1d7jka,Replace all your accessible online data with one simple bit of information for all would be privacy invaders.,ProperReporter,5,5,1,http://www.reddit.com/r/Stand/comments/1d7jka/replace_all_your_accessible_online_data_with_one/,,,False,,t5_2u479,False,,,False,t3_1d7jka,http://browse.deviantart.com/art/Catspa-367653060?q=gallery%3A4orsight%20randomize%3A1&amp;qo=0,
+1366688814.0,0,self.Stand,1cwwzx,Let's collaborate..,thnkbigger,2,2,0,http://www.reddit.com/r/Stand/comments/1cwwzx/lets_collaborate/,"Do you think we could compile a list of all state senators and link their email/ contacts with it. Then We could go to state/ cities *subreddits* and direct people to copy and paste a 'scripted letter' to their senators. Because as we all know the turn out on things like these are always a small percentile of eligible people. I don't want use to realize we could have done more, but were too lazy. So I think by utilizing the subreddits of states/ cities we could easily direct people to email their senator's to vote against CISPA.",,False,,t5_2u479,False,,,True,t3_1cwwzx,http://www.reddit.com/r/Stand/comments/1cwwzx/lets_collaborate/,
+1366678024.0,0,salon.com,1cwidh,Anonymous Pushes Anti-Cispa Protests,TarikIso,1,1,0,http://www.reddit.com/r/Stand/comments/1cwidh/anonymous_pushes_anticispa_protests/,,,False,,t5_2u479,False,,,False,t3_1cwidh,http://www.salon.com/2013/04/22/anonymous_pushes_anti_cispa_protests/,
+1366651510.0,0,i.imgur.com,1cvhjx,This is really helping me get through the CISPA backout.,ab26,2,2,0,http://www.reddit.com/r/Stand/comments/1cvhjx/this_is_really_helping_me_get_through_the_cispa/,,,False,,t5_2u479,False,,,False,t3_1cvhjx,http://i.imgur.com/xw4rrsN.png,
+1366293737.0,0,infosecurity-magazine.com,1cltbl,Infosec - New security firm established to help combat APTs,lmaotsetung,1,1,0,http://www.reddit.com/r/Stand/comments/1cltbl/infosec_new_security_firm_established_to_help/,,,False,,t5_2u479,False,,,False,t3_1cltbl,http://www.infosecurity-magazine.com/view/31894/new-security-firm-established-to-help-combat-apts/,
+1366152859.0,0,gcn.com,1chry5,Private sector solutions: LoadMaster can keep agency Internet secure and smooth - GCN,lmaotsetung,3,3,0,http://www.reddit.com/r/Stand/comments/1chry5/private_sector_solutions_loadmaster_can_keep/,,,False,,t5_2u479,False,,,False,t3_1chry5,http://gcn.com/articles/2013/04/16/loadmaster-can-keep-internet-secure-smooth.aspx,
+1364819432.0,0,inewp.com,1bf248,"Break the News, Not the Professional Code of Conduct - iNEWP article about CFAA guidelines and a journalist's ethics",lmaotsetung,2,2,0,http://www.reddit.com/r/Stand/comments/1bf248/break_the_news_not_the_professional_code_of/,,,False,,t5_2u479,False,,,False,t3_1bf248,http://inewp.com/?p=15063,
+1373114884.0,0,self.Stand,1hqvlo,"So, I went to a DOD school that had computers issued to us...",ajcoss,3,4,0,http://www.reddit.com/r/Stand/comments/1hqvlo/so_i_went_to_a_dod_school_that_had_computers/,"They contracted out to a company called Blue Coat systems and, with the amount of websites that were blocked, and which websites were blocked, I started wondering if they wanted to do something like that to the US internet in general. I've worked at places that also use computers and I have to say, they were never restricted as severely. Some of us found ways around the systems, but it was still overall effective to the people who didn't know a lot about computers. Just thought I would put that out there for all of you to get an idea of might be coming.",,False,,t5_2u479,False,,,True,t3_1hqvlo,http://www.reddit.com/r/Stand/comments/1hqvlo/so_i_went_to_a_dod_school_that_had_computers/,
+1369704310.0,0,self.Stand,1f676t,You can go on TOR and do whatever you want on the internet.,snakeblitzken,2,3,1,http://www.reddit.com/r/Stand/comments/1f676t/you_can_go_on_tor_and_do_whatever_you_want_on_the/,https://www.torproject.org,,False,,t5_2u479,False,,,True,t3_1f676t,http://www.reddit.com/r/Stand/comments/1f676t/you_can_go_on_tor_and_do_whatever_you_want_on_the/,
+1371536867.0,0,self.Stand,1gkjvl,Appsteller Provides you the best Apps for all platforms,kaasib,1,3,1,http://www.reddit.com/r/Stand/comments/1gkjvl/appsteller_provides_you_the_best_apps_for_all/,,,False,,t5_2u479,False,,,True,t3_1gkjvl,http://www.reddit.com/r/Stand/comments/1gkjvl/appsteller_provides_you_the_best_apps_for_all/,
+1368169880.0,0,caketi.me,1e2220,Just a response to those shills (3d printing and other things),nenielyy,5,5,1,http://www.reddit.com/r/Stand/comments/1e2220/just_a_response_to_those_shills_3d_printing_and/,,,False,,t5_2u479,False,,,False,t3_1e2220,http://caketi.me/just-a-response-to-3d-printing-and-other-things/369,
+1370678128.0,0,brandonsneed.com,1fx1ae,F*ck the Police,Kill_The_Autistic,10,14,1,http://www.reddit.com/r/Stand/comments/1fx1ae/fck_the_police/,,,False,,t5_2u479,False,,,False,t3_1fx1ae,http://brandonsneed.com/storage/Sitting%20Sax%20Player.jpeg?__SQUARESPACE_CACHEVERSION=1274121638618,
+1373646248.0,0,self.Stand,1i5szm,Ugh! i'm [le]terally sick of all this OPression we've been facing as americans! NASA is stalking us over Le interwebs and I'm not gonna stand it any more! join me for this protest (Details in comments).,reclithon,2,6,1,http://www.reddit.com/r/Stand/comments/1i5szm/ugh_im_leterally_sick_of_all_this_opression_weve/,"When: 4:20 PM on July 13, 2013
+Who: Anyone who is sick of OPression
+Where: the corner of 69th and 4th street in Omaha Nebraska",,False,,t5_2u479,False,,,True,t3_1i5szm,http://www.reddit.com/r/Stand/comments/1i5szm/ugh_im_leterally_sick_of_all_this_opression_weve/,
