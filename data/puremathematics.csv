@@ -1,0 +1,1172 @@
+created_utc,score,domain,id,title,author,ups,downs,num_comments,permalink,selftext,link_flair_text,over_18,thumbnail,subreddit_id,edited,link_flair_css_class,author_flair_css_class,is_self,name,url,distinguished
+1368503453.0,46,truthiscool.com,1eal6e,Odd Goldbach conjecture resolved.,DevFRus,57,11,3,http://www.reddit.com/r/puremathematics/comments/1eal6e/odd_goldbach_conjecture_resolved/,,,False,,t5_2s5dh,False,,,False,t3_1eal6e,http://www.truthiscool.com/prime-numbers-the-271-year-old-puzzle-resolved,
+1345147768.0,39,self.puremathematics,yc6hv,"I have solved the Pisano periods, a 250 year old open problem",BobHogan,66,27,42,http://www.reddit.com/r/puremathematics/comments/yc6hv/i_have_solved_the_pisano_periods_a_250_year_old/,"me and one of my best friends have recently come up with a general proof for the Pisano periods, which have remained unsolved since they were discovered in 1774. For those of you who don't know, a Pisano period is how many terms it will take the Fibonacci sequence *modulo n* to repeat. Can anybody help us get this peer reviewed, we would really like to publish this proof
+
+edit: Neither I or my friend know much number theory, so the number theory in the proof is quite basic and anybody who has passed Algebra 2 should be able to understand it. We have also decided to hold off on publishing the paper until we can generalize that particular linear relationship, as we do not want to publish anything that isn't our best work.
+
+edit2: We are still working on the linear relationship, but we have decided to go ahead and publish the proof as is. More information coming about who is publishing it and when as soon as I have it",,False,,t5_2s5dh,1345685475.0,,,True,t3_yc6hv,http://www.reddit.com/r/puremathematics/comments/yc6hv/i_have_solved_the_pisano_periods_a_250_year_old/,
+1313606000.0,44,math.wisc.edu,jlunz,"The Proof of Fermat's Last Theorem [Book,pdf,140 pages] ",,45,1,4,http://www.reddit.com/r/puremathematics/comments/jlunz/the_proof_of_fermats_last_theorem_bookpdf140_pages/,,,False,,t5_2s5dh,False,,,False,t3_jlunz,http://www.math.wisc.edu/~boston/869.pdf,
+1348945828.0,42,en.wikipedia.org,10oewj,I wrote a Wikipedia article on the Khinchin integral: anyone care to review it?,Gro-Tsen,49,7,12,http://www.reddit.com/r/puremathematics/comments/10oewj/i_wrote_a_wikipedia_article_on_the_khinchin/,,,False,,t5_2s5dh,False,,,False,t3_10oewj,http://en.wikipedia.org/wiki/Khinchin_integral,
+1361511640.0,38,en.wikipedia.org,1908np,A cool theorem from complex analysis. It relates the roots of a cubic polynomial to the roots of its derivatives in a geometric way,funnyfungus,41,3,11,http://www.reddit.com/r/puremathematics/comments/1908np/a_cool_theorem_from_complex_analysis_it_relates/,,,False,,t5_2s5dh,False,,,False,t3_1908np,http://en.wikipedia.org/wiki/Marden%27s_theorem,
+1351693222.0,35,self.puremathematics,12edig,How do you visualize exotic smoothness (exotic spheres and exotic ℝ^4)?,Gro-Tsen,41,6,5,http://www.reddit.com/r/puremathematics/comments/12edig/how_do_you_visualize_exotic_smoothness_exotic/,"I've always thought of this as the most mind-blowing facts in mathematics: there [exist](http://en.wikipedia.org/wiki/Exotic_sphere) smooth manifolds that are homeomorphic to the n-dimensional sphere (for certain values of n, starting with n=7 if we exclude the complicated problem of n=4) but not diffeomorphic to it; and there [exist](http://en.wikipedia.org/wiki/Exotic_R4) smooth manifolds that are homeomorphic to ℝ^4 but not diffeomorphic to it (and this is false if you replace ""4"" by any other value); even more aggravating: certain (but not all) exotic ℝ^4 can be realized as open subsets of the ordinary ℝ^4, so there exist *open subsets* of (the ordinary) ℝ^4 which are homeomorphic to ℝ^4 but not diffeomorphic to it.
+
+(I put the facts about spheres and those about ℝ^4 on the same level because they blow my mind in the same way, but in fact they aren't really similar: the interplay between the smooth and topological categories in 4-dimensional geometry is very special, because dimension 4 is ""high"" from the topological point of view and ""low"" from the differentiable point of view.  Exotic spheres in dimension 7, say, are much easier to construct and describe algebraically — e.g., the Gromoll-Meyer sphere, the Kervaire sphere or the Brieskorn equations — than exotic ℝ^4; but that doesn't make them easier to visualize.)
+
+I'm not asking about the math itself: there are plenty of good introductions to the subject, e.g., [here](http://www.ams.org/journals/bull/2008-45-04/S0273-0979-08-01213-5/) (a very nice survey on exotic spheres), [here](http://projecteuclid.org/euclid.jdg/1214458322) (constructing an explicit and—supposedly—simple exotic ℝ^4; requires subscription), or the book *Exotic Smoothness and Physics* by Asselmeyer-Maluga and Brans which really explains things from the beginning or again Scorpan's *The Wild World of 4-Manifolds*.
+
+My issue is how you *visualize* the damn things.  I know that ""in mathematics you don't understand things, you just get used to them"", but that doesn't really help.  The problem is, for smooth manifolds, the intuitive idea I have of homeomorphism and diffeomorphism are exactly the same: I visualize two manifolds as being homeomorphic when one can somehow ""bend and stretch"" one into the other, and diffeomorphic, well, just in the same case.  Or to say things otherwise, ""topology"" intuitively seems to be the sudy of how manifolds fit together globally, and all the differential stuff intuitively seems to be about *local* questions.  Now obviously something is wrong with this intuitive idea, because it contradicts reality.
+
+I'm an algebraic geometrist, so I'm quite comfortable with the idea that two manifolds (e.g., elliptic curves seen as 2-dimensional tori) can be homeomorphic as real manifolds and yet not at all isomorphic for some more rigid structure (algebraic varieties); but the problem is, differential geometry does not seem at all ""rigid"" like algebraic geometry is: partitions of unity seem to imply that you can freely split things in little bits and study everything locally.  So my intuition is all fucked up.
+
+Can someone provide Enlightenment?",,False,,t5_2s5dh,False,,,True,t3_12edig,http://www.reddit.com/r/puremathematics/comments/12edig/how_do_you_visualize_exotic_smoothness_exotic/,
+1319142290.0,32,self.puremathematics,lj3ug,Ask PureMath: Is there an something similar to  the Kahn Academy for graduate level math and/or physics?  ,cowgod42,39,7,16,http://www.reddit.com/r/puremathematics/comments/lj3ug/ask_puremath_is_there_an_something_similar_to_the/,"The Kahn Academy seems like a great resource for undergraduates, but for those of us wanting to learn or review some higher-level subjects, the Kahn academy can be a bit disappointing.  Is there a place that hosts higher-level topics?
+
+In particular, I would love a course on Harmonic Analysis, Quantum Field Theory, or numerical methods for PDEs.
+
+EDIT: I should clarify that I am looking specifically for videos.  I have a PhD in math and have a ton of math books already.  I am looking for some entertainment while I eat dinner, do the dishes, etc.  Thanks for all the comments so far!
+
+Edit 2: After some more searching, I found [this blog](http://freescienceonline.blogspot.com/2008/10/more-free-mathematics-video-courses.html) pretty helpful.  It linked to some good lectures [here](http://www.math.hc.keio.ac.jp/coe/videos/).",,False,,t5_2s5dh,True,,,True,t3_lj3ug,http://www.reddit.com/r/puremathematics/comments/lj3ug/ask_puremath_is_there_an_something_similar_to_the/,
+1293910900.0,35,axler.net,eumn9,Down with Determinants!,,40,5,16,http://www.reddit.com/r/puremathematics/comments/eumn9/down_with_determinants/,,,False,,t5_2s5dh,False,,,False,t3_eumn9,http://www.axler.net/DwD.html,
+1361169891.0,31,dpmms.cam.ac.uk,18qlmm, How to lose your fear of tensor products ,mathdestruction,36,5,7,http://www.reddit.com/r/puremathematics/comments/18qlmm/how_to_lose_your_fear_of_tensor_products/,,,False,,t5_2s5dh,False,,,False,t3_18qlmm,https://www.dpmms.cam.ac.uk/~wtg10/tensors3.html,
+1311869919.0,33,strangebeautiful.com,j2ahl,Geometrical Quantum Mechanics,yesmanapple,34,1,1,http://www.reddit.com/r/puremathematics/comments/j2ahl/geometrical_quantum_mechanics/,,,False,,t5_2s5dh,False,,,False,t3_j2ahl,http://strangebeautiful.com/other-texts/geroch-geom-qm.pdf,
+1298787252.0,35,ocw.mit.edu,ftkj7,Introduction to Representation Theory,yesmanapple,37,2,3,http://www.reddit.com/r/puremathematics/comments/ftkj7/introduction_to_representation_theory/,,,False,,t5_2s5dh,False,,,False,t3_ftkj7,http://ocw.mit.edu/courses/mathematics/18-712-introduction-to-representation-theory-fall-2010/lecture-notes/,
+1364264490.0,33,arxiv.org,1b0m6j,My first paper: A Link Splitting Spectral Sequence in Khovanov Homology,cseed,41,8,10,http://www.reddit.com/r/puremathematics/comments/1b0m6j/my_first_paper_a_link_splitting_spectral_sequence/,,,False,,t5_2s5dh,False,,,False,t3_1b0m6j,http://arxiv.org/abs/1303.6240,
+1356325879.0,29,golem.ph.utexas.edu,15czcg,"""Rethinking Set Theory"": an exposition of Lawvere's Elementary Theory of the Category of Sets, an alternate axiomatization of a subset of ZFC (xpost /r/math)",protocol_7,30,1,2,http://www.reddit.com/r/puremathematics/comments/15czcg/rethinking_set_theory_an_exposition_of_lawveres/,,,False,,t5_2s5dh,False,,,False,t3_15czcg,http://golem.ph.utexas.edu/category/2012/12/rethinking_set_theory.html,
+1293466828.0,26,terrytao.wordpress.com,es3c8,Terry Tao: What is a gauge?,mian2zi3,28,2,0,http://www.reddit.com/r/puremathematics/comments/es3c8/terry_tao_what_is_a_gauge/,,,False,,t5_2s5dh,False,,,False,t3_es3c8,http://terrytao.wordpress.com/2008/09/27/what-is-a-gauge/,
+1314680154.0,26,self.puremathematics,jyqxl,Why is a Field such a poorly behaved category?,,28,2,8,http://www.reddit.com/r/puremathematics/comments/jyqxl/why_is_a_field_such_a_poorly_behaved_category/,"This is something that's been on my mind a little bit lately and maybe there's nothing really to talk about. But I've found it curious that groups and rings are complete and cocomplete, yet everything falls apart for fields. That is we don't have products or coproducts and really it doesn't even make sense to group all of the fields of different characteristic together into one category, since you can't have a field-homomorphism between two fields of different characteristic. I haven't really read anything on what happens if you separate the components of Field based on characteristic. It seems though this doesn't get you anything but a initial object (the prime subfield). Anyway I'm just curious if there's been any work done on this or if it really just isn't particularly interesting.",,False,,t5_2s5dh,False,,,True,t3_jyqxl,http://www.reddit.com/r/puremathematics/comments/jyqxl/why_is_a_field_such_a_poorly_behaved_category/,
+1293810475.0,25,ams.org,eu6xg,winners: AMS prize for best expository paper,mian2zi3,28,3,0,http://www.reddit.com/r/puremathematics/comments/eu6xg/winners_ams_prize_for_best_expository_paper/,,,False,,t5_2s5dh,False,,,False,t3_eu6xg,http://www.ams.org/profession/prizes-awards/ams-prizes/conant-prize,
+1343106029.0,25,self.puremathematics,x23zi,"Can anyone provide a very hand-wavy, intuitive explanation of Heegaard Floer Homology?",yesmanapple,28,3,8,http://www.reddit.com/r/puremathematics/comments/x23zi/can_anyone_provide_a_very_handwavy_intuitive/,"Some of the papers I'm reading suggest connections with Heegaard Floer Homology. I'm not necessarily interested in studying it in detail at the moment, but it would be really helpful to get the 'gist' of the theory, if that's not asking too much.
+
+
+Thanks in advance!",,False,,t5_2s5dh,False,,,True,t3_x23zi,http://www.reddit.com/r/puremathematics/comments/x23zi/can_anyone_provide_a_very_handwavy_intuitive/,
+1302236876.0,23,youtube.com,glars,Undergraduate Algebraic Topology Video Lectures,Categoria,25,2,4,http://www.reddit.com/r/puremathematics/comments/glars/undergraduate_algebraic_topology_video_lectures/,,,False,,t5_2s5dh,False,,,False,t3_glars,http://www.youtube.com/watch?v=jrXPFIJ3XCo,
+1354687464.0,21,self.puremathematics,14b5w1,"What results are there in your field that tie in strongly enough to other another field so as to create a ""bridge""?",78666CDC,25,4,15,http://www.reddit.com/r/puremathematics/comments/14b5w1/what_results_are_there_in_your_field_that_tie_in/,"For example, we have the bridge between elliptical curves and modular forms, and we have the Langlands program. This is a famous example. What significant tie-ins are there between your field and others?
+
+Perhaps this isn't proper /r/puremathematics content, but, as an early graduate student that is forced to deal with each course individually (analysis, topology, algebra, &amp;c) as being on its own by virtue of the way courses are structured, I find this to be an interesting question and hope that it's worthy of more general discussion.
+
+When I was an undergraduate, I took my school's graduate level point-set topology class, in which our professor have us an example of a result in number theory that was several dozen pages from that point of view but was perhaps two pages in a topological framework, and I thought that that was fascinating. (I wish I had saved it, but I've lost the handout and he never gave out PDFs.) This isn't a good example of an answer to my question since it's more of a coincidence than a ""bridge"", but I'd be interested to hear examples others may have in mind.",,False,,t5_2s5dh,1354687775.0,,,True,t3_14b5w1,http://www.reddit.com/r/puremathematics/comments/14b5w1/what_results_are_there_in_your_field_that_tie_in/,
+1311192874.0,22,arxiv.org,iv54s,"An Elementary Introduction to Groups and
+Representations",yesmanapple,27,5,3,http://www.reddit.com/r/puremathematics/comments/iv54s/an_elementary_introduction_to_groups_and/,,,False,,t5_2s5dh,False,,,False,t3_iv54s,http://arxiv.org/PS_cache/math-ph/pdf/0005/0005032v1.pdf,
+1295923922.0,21,terrytao.files.wordpress.com,f8h7o,"A PDF of Terence Tao's text ""An introduction to measure theory""",yesmanapple,23,2,1,http://www.reddit.com/r/puremathematics/comments/f8h7o/a_pdf_of_terence_taos_text_an_introduction_to/,,,False,,t5_2s5dh,False,,,False,t3_f8h7o,http://terrytao.files.wordpress.com/2011/01/measure-book1.pdf,
+1372306331.0,19,self.puremathematics,1h5pai,A man is stuck in a perfectly circular arena with a lion. The man can move as fast as the lion. Is it possible for the man to survive? (Assume each has infinite strength).,strategyguru,28,9,26,http://www.reddit.com/r/puremathematics/comments/1h5pai/a_man_is_stuck_in_a_perfectly_circular_arena_with/,"This is a delightful problem I came across and took a long time to find a solution. Apparently it was incorrectly unsolved for 25 years.
+
+I posted a detailed solution from a proof I read in a book. Apparently a lot of people disagree with this proof. I think it's a wonderful problem, was curious what you guys thought.
+
+[writeup of solution](http://mindyourdecisions.com/blog/2013/06/25/the-man-and-the-lion-puzzle-pursuit-and-evasion-game-theory)
+
+**Update**: Thanks all for the thoughtful comments. I am going to have to read about differential games to have a better understanding about this topic.
+
+**References**: The post I wrote up followed a proof presented in this book: [Famous Puzzles of Great Mathematicians](http://www.ams.org/bookstore-getitem/item=MBK-63). The author of that book said he based his proof on 2 papers.
+
+1. *How the Lion Tamer was Saved*, by Richard Rado, Mathematical Spectrum Volume 6 (1973/1974). [Abstract can be found here](http://ms.appliedprobability.org/content.aspx?Group=home&amp;Page=Back_Issues_6)
+
+2. *More About Lions and Other Animals*, by Peter Rado and Richard Rado, Volume 7 (1974/1975). [Abstract can be found here](http://ms.appliedprobability.org/content.aspx?Group=home&amp;Page=Back_Issues_6)
+
+I was only able to find these abstracts, but perhaps those references can help and someone can find the full papers to share.
+
+**Update 2**: Wolfram Mathworld's entry on this problem states the man can survive.
+http://mathworld.wolfram.com/LionandManProblem.html
+
+&gt;A lion and a man in a closed arena have equal maximum speeds. What tactics should the lion employ to be sure of his meal? This problem was stated by Rado in 1925 (Littlewood 1986).
+
+&gt;An incorrect ""solution"" is for the lion to get onto the line joining the man to the center of the arena and then remaining at this radius however the man moves. Besicovitch showed the man had a path of safety, although the lion would come arbitrarily close.",,False,,t5_2s5dh,1372493934.0,,,True,t3_1h5pai,http://www.reddit.com/r/puremathematics/comments/1h5pai/a_man_is_stuck_in_a_perfectly_circular_arena_with/,
+1371170038.0,22,self.puremathematics,1gb1tl,"Example of something that ""looks like"" an adjunction, but isn't?",christianitie,24,2,7,http://www.reddit.com/r/puremathematics/comments/1gb1tl/example_of_something_that_looks_like_an/,"I've seen many of the classical examples of adjunctions, but it almost seems like the naturality is irrelevent in determining what is an adjunction - every time I see the bijection part, it works out to be natural.  It's not hard to contrive a counterexample to this (just take an existing adjunction and force one of the bijections to map in a different way), but I'd much rather see a counterexample that isn't ""obviously"" contrived: a pair of functors F, G in opposite directions with a specified bijection hom(Fx, y) ~= hom(x, Gy) for every appropriate x, y that turns out not to be natural, but can fool someone naive (like myself) into thinking maybe it could be.
+
+Essentially, I'm looking for a counterexample to ""hom(Fx, y) ~= hom(x, Gy) implies naturality"" that doesn't scream out that there is no reason to construct this other than as an explicit counterexample.",,False,,t5_2s5dh,False,,,True,t3_1gb1tl,http://www.reddit.com/r/puremathematics/comments/1gb1tl/example_of_something_that_looks_like_an/,
+1371963704.0,21,self.puremathematics,1gw7xl,"Does |SxS|=|S|, even for uncountable infinities?",paulsalomon27,22,1,23,http://www.reddit.com/r/puremathematics/comments/1gw7xl/does_sxss_even_for_uncountable_infinities/,"I know this is true whenever S is countable, but for example, does | R^2 |=|R|?  If so, can you provide me with the embedding of R^2 into R?",,False,,t5_2s5dh,False,,,True,t3_1gw7xl,http://www.reddit.com/r/puremathematics/comments/1gw7xl/does_sxss_even_for_uncountable_infinities/,
+1362366225.0,20,self.puremathematics,19m5g2,The Geometry of UFDs?,billows,24,4,8,http://www.reddit.com/r/puremathematics/comments/19m5g2/the_geometry_of_ufds/,"I am learning commutative algebra with the goal of doing algebraic geometry, and I tend to like to think geometrically about ring conditions. However, I have trouble putting a real geometric meaning to unique factorisation. Does anyone here have some sort of explanation for what a UFD ""looks like""? 
+
+The sort of geometric picture I'm looking for is along the lines of completions of rings corresponding to infinitesimal neighborhoods of points of the ring spectrum, or Dedekind domains corresponding to nonsingular curves.
+
+Thanks in advance!",,False,,t5_2s5dh,False,,,True,t3_19m5g2,http://www.reddit.com/r/puremathematics/comments/19m5g2/the_geometry_of_ufds/,
+1324660767.0,21,arxiv.org,no33b,On an exotic topology of the integers,yesmanapple,33,12,7,http://www.reddit.com/r/puremathematics/comments/no33b/on_an_exotic_topology_of_the_integers/,,,False,,t5_2s5dh,False,,,False,t3_no33b,http://arxiv.org/PS_cache/arxiv/pdf/1008/1008.0713v1.pdf,
+1315386133.0,20,self.puremathematics,k7esn,Need a new perspective on my research problem.,discretefunctional,22,2,11,http://www.reddit.com/r/puremathematics/comments/k7esn/need_a_new_perspective_on_my_research_problem/,"My field is discrete geometry, and I have been working at this problem for six months:
+
+An n-simplex (generalization of a triangle into higher dimensions) in n dimensions is the convex hull of n+1 points in R^n. A path-simplex (generalization of a right triangle) in n dimensions is an n-simplex that has n mutually orthogonal edges that form a path. Show that an arbitrary n-simplex can be dissected into finitely many path-simplices.
+
+I know that a lot of simplicial problems yield to nice induction proofs, but months have been spent with no result.
+
+Any perspective would be helpful, thanks!",,False,,t5_2s5dh,False,,,True,t3_k7esn,http://www.reddit.com/r/puremathematics/comments/k7esn/need_a_new_perspective_on_my_research_problem/,
+1351994725.0,19,lmfdb.org,12ldm5,The L-functions and modular forms database,weil-deligne,24,5,1,http://www.reddit.com/r/puremathematics/comments/12ldm5/the_lfunctions_and_modular_forms_database/,,,False,,t5_2s5dh,False,,,False,t3_12ldm5,http://www.lmfdb.org/,
+1346609219.0,21,world.mathigon.org,z8lox,The World of Mathematics,Mathigon,32,11,9,http://www.reddit.com/r/puremathematics/comments/z8lox/the_world_of_mathematics/,,,False,,t5_2s5dh,False,,,False,t3_z8lox,http://world.mathigon.org,
+1309535389.0,20,cs.nyu.edu,ieacn,Algorithmic Algebra (1993) [pdf],TTamm,30,10,1,http://www.reddit.com/r/puremathematics/comments/ieacn/algorithmic_algebra_1993_pdf/,,,False,,t5_2s5dh,False,,,False,t3_ieacn,http://cs.nyu.edu/mishra//NOTES/AlgorithmicAlgebraMishra.pdf,
+1317276352.0,18,golem.ph.utexas.edu,kv0ad,Could Peano Arithmetic be Inconsistent? - The n-Category Café,tardibear,21,3,6,http://www.reddit.com/r/puremathematics/comments/kv0ad/could_peano_arithmetic_be_inconsistent_the/,,,False,,t5_2s5dh,False,,,False,t3_kv0ad,http://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html,
+1302591318.0,17,staff.science.uva.nl,go1iy,Infinite Games,yesmanapple,18,1,1,http://www.reddit.com/r/puremathematics/comments/go1iy/infinite_games/,,,False,,t5_2s5dh,False,,,False,t3_go1iy,http://staff.science.uva.nl/~ykhomski/infinitegames2010/Infinite%20Games%20Sofia.pdf,
+1301202581.0,18,tailieuhoctap.files.wordpress.com,gccg7,An Introduction to Harmonic Analysis ,yesmanapple,18,0,1,http://www.reddit.com/r/puremathematics/comments/gccg7/an_introduction_to_harmonic_analysis/,,,False,,t5_2s5dh,False,,,False,t3_gccg7,http://tailieuhoctap.files.wordpress.com/2007/01/katznelson-y-an-introduction-to-harmonic-analysis-cup-2004299s_mcf_.pdf,
+1298666763.0,18,newsinfo.iu.edu,fss98,Solution of Paul Erdös' 1946 Distinct Distances Problem,,19,1,2,http://www.reddit.com/r/puremathematics/comments/fss98/solution_of_paul_erdös_1946_distinct_distances/,,,False,,t5_2s5dh,False,,,False,t3_fss98,http://newsinfo.iu.edu/news/page/normal/17494.html,
+1293505438.0,16,docs.google.com,escmi,Introductory Notes on Tensor Products and the Exterior Algebra,yesmanapple,20,4,5,http://www.reddit.com/r/puremathematics/comments/escmi/introductory_notes_on_tensor_products_and_the/,,,False,,t5_2s5dh,False,,,False,t3_escmi,http://docs.google.com/viewer?a=v&amp;q=cache:1zcfmCB0ta8J:www.cmat.edu.uy/cmat.eventos.16cla/cursos/licenciatura/cursos/alglin2/documentos/tensor.pdf/at_download/file+notes+on+exterior+algebra&amp;hl=en&amp;gl=us&amp;pid=bl&amp;srcid=ADGEEShL-TEu5LdCwQ7-U8WNERb3xz9TvIbPOuqQCdlSN8HJuGWclF2kjZ0Hg_rVs2x8J2O4jA3Fz8b1zKSJNY2E1VrXEdorIaRhGY61tVkYXflgtNIJhl-80j8oZCLRqQR_drsjih3E&amp;sig=AHIEtbQ1aB61K0OpXTIOI9C9ebS4HOBONA,
+1293343916.0,20,en.sevenload.com,erjms,"How to Write Mathematics Badly: Jean-Pierre Serre, a member of the Bourbaki, on writing mathematics.",yesmanapple,23,3,2,http://www.reddit.com/r/puremathematics/comments/erjms/how_to_write_mathematics_badly_jeanpierre_serre_a/,,,False,,t5_2s5dh,False,,,False,t3_erjms,http://en.sevenload.com/videos/h4ndeFL-Serre,
+1374423942.0,18,self.puremathematics,1ir7pa,[x-post from r/math] Questions about the Circumference of a circle given a Minkowski metric.,Danistan619,18,0,1,http://www.reddit.com/r/puremathematics/comments/1ir7pa/xpost_from_rmath_questions_about_the/,"Hello r/puremathematics,
+
+Firstly sorry for the lack of Latexing. I am no good with it but I am learning. I hope everything I have written is readable. Secondly [here](http://www.reddit.com/r/math/comments/1ir37w/questions_about_the_circumference_of_a_circle/) is a link the the r/math cross post.
+
+I have been investigating Minkowski metrics in R^(2). For those who do not know the Minkowski metric in R^(2) with a power, p, is 
+
+d((x1,y1) , (x0,y0)) =  (|x1-x0|^(p) + |y1-y0|^(p))^(1/p) 
+
+The equation for a unit sphere centered at (0,0) is then,
+
+d((x,y) , (0,0)) =  (|x|^(p) + |y|^(p))^(1/p) = 1
+
+You can see what these unit circles look like at the Wikipedia [here](http://en.wikipedia.org/wiki/Minkowski_distance). We are only dealing with p &gt; 1. Solving this for y (assuming x and y are positive) we get,
+
+y = (1 - x^(p))^(1/p)
+
+And now a differential length segment on this path is,
+
+ds = (|dx|^(p) + |dy|^(p))^(1/p)
+
+And the length of the unit circle in the first quadrant is then,
+
+∫ds = ∫(|dx|^(p) + |dy|^(p))^(1/p) = ∫(1 + |dy/dx|^(p))^(1/p) dx
+with 0 &lt; x &lt; 1
+
+So the plugging in circle equation we found earlier we get, 
+
+C(p) = 4 ∫(1 + |(d/dx) (1 - x^(p) )^(1/p) |^(p) )^(1/p) dx with 0 &lt; x &lt; 1.
+
+So this is the circumference of the unit circle with a given Minkowski metric using that metric.
+
+So I evaluated this integral numerically for several values of p and plotted the results [here](http://imgur.com/U1k0igP).
+
+As you can see the plot has a value of C(1) = 8 then a minimum at C(2) = 2 Pi then raises again toward C(∞) = 8.
+
+Also by inspection and intuition I thought that there was a symmetry with
+ 
+~~C(r-1) = C(1/(r-1))~~
+
+C(r-1) = C(1/(r-1) +1 ). 
+
+I checked this out and it seems to be true. As gabgoh has pointed out this can be written as,
+
+""C(p) = C(q) iff 1/p + 1/q = 1"".
+
+However proving it algebraically seems like a nightmare. Here is a table that supports my claim:
+
+|r     |1/(r -1) + 1 | C(r)        | C(1/(r -1) + 1)|
+|----|------------|----------|---------------|
+|1.1  |11             |7.51417    |7.51416          |
+|1.2  |6               |7.14537    |7.14537         |
+|1.3  |4.3333       |6.86894     |6.86894         |
+|1.4  |3.5            |6.66555    |6.66555          |
+|1.5  |3               |6.51954   |6.51954          |
+|1.6  |2.6667        |6.41814   |6.41814          |
+|1.7  |2.4286        |6.3511     |6.3511           |
+|1.8  |2.25           |6.31027   |6.31027          |
+|1.9  |2.1111        |6.28928   |6.28928          |
+|2.0  |2.0             |6.28319   |6.28319          |
+
+So my questions about this are why is there a minimum at C(2) = 2 Pi? The Minkowski with a power of 2 is the metric of our universe if nothing is too massive or moving too fast. I believe that the power 2-metric is the only one of these which is rotationally symmetric as well. So this metric seems to have a lot of nice mathematical properties.
+
+The Minkowski-2 metric has the minimum circumference of the Minkowski metrics, but is it also the minimum of any more general class of metrics?
+
+And can anyone prove that C(r) = C(1/(r-1) + 1) or equivalently ""C(p) = C(q) iff 1/p + 1/q = 1""?
+
+Thanks for your time. I hope you find this as interesting as I do.
+
+Edit1: Gabgoh has pointed out an error in my original claim. I have changed my proposed equality from C(r-1) = C(1/(r-1)) to C(r) = C(1/(r-1) +1). As well as adding in a table supporting this claim. He has also pointed out that this can be written as ""C(p) = C(q) iff 1/p + 1/q = 1"" which I have noted in the post.",,False,,t5_2s5dh,1374429615.0,,,True,t3_1ir7pa,http://www.reddit.com/r/puremathematics/comments/1ir7pa/xpost_from_rmath_questions_about_the/,
+1362760866.0,19,self.puremathematics,19x36f,Are there any metric spaces for which elliptic integrals simplify nicely?,ijustlovemath,21,2,4,http://www.reddit.com/r/puremathematics/comments/19x36f/are_there_any_metric_spaces_for_which_elliptic/,,,False,,t5_2s5dh,False,,,True,t3_19x36f,http://www.reddit.com/r/puremathematics/comments/19x36f/are_there_any_metric_spaces_for_which_elliptic/,
+1354368167.0,18,arxiv.org,143oh0,"Gods as Topological Invariants -- ""We show that the number of gods in a universe must equal the
+Euler characteristics of its underlying manifold.""",Styhn,32,14,5,http://www.reddit.com/r/puremathematics/comments/143oh0/gods_as_topological_invariants_we_show_that_the/,,,False,,t5_2s5dh,False,,,False,t3_143oh0,http://arxiv.org/pdf/1203.6902.pdf,
+1325390498.0,16,isaacsolomonmath.files.wordpress.com,ny9b9,Introduction to the Hyperreals and Nonstandard Analysis,yesmanapple,18,2,4,http://www.reddit.com/r/puremathematics/comments/ny9b9/introduction_to_the_hyperreals_and_nonstandard/,,,False,,t5_2s5dh,False,,,False,t3_ny9b9,http://isaacsolomonmath.files.wordpress.com/2012/01/hyperreals-and-nonstandard-analysis1.pdf,
+1322347921.0,18,boincstats.com,mq9be,Anyone care to join the Reddit Boinc team for finding prime numbers?,Shaku,20,2,3,http://www.reddit.com/r/puremathematics/comments/mq9be/anyone_care_to_join_the_reddit_boinc_team_for/,,,False,,t5_2s5dh,False,,,False,t3_mq9be,http://boincstats.com/stats/team_graph.php?pr=pg&amp;id=2422,
+1307569478.0,15,notationalinvariance.wordpress.com,huz6n,Convolution and the Fourier transform on abelian groups.,esmooth,18,3,0,http://www.reddit.com/r/puremathematics/comments/huz6n/convolution_and_the_fourier_transform_on_abelian/,,,False,,t5_2s5dh,False,,,False,t3_huz6n,http://notationalinvariance.wordpress.com/2011/06/08/convolution-and-the-fourier-transform-on-abelian-groups/,
+1305072030.0,16,arxiv.org,h8j58,Metrisability of Manifolds [pdf],,18,2,3,http://www.reddit.com/r/puremathematics/comments/h8j58/metrisability_of_manifolds_pdf/,,,False,,t5_2s5dh,False,,,False,t3_h8j58,http://arxiv.org/pdf/0910.0885v1,
+1299993922.0,17,thehcmr.org,g2yp1,The Poincare Lemma and de Rham Cohomology,yesmanapple,18,1,0,http://www.reddit.com/r/puremathematics/comments/g2yp1/the_poincare_lemma_and_de_rham_cohomology/,,,False,,t5_2s5dh,False,,,False,t3_g2yp1,http://www.thehcmr.org/issue1_2/poincare_lemma.pdf,
+1298744957.0,17,concretenonsense.wordpress.com,ft9ts,"Harmonic oscillators, integrable systems, and the Arnold-Liouville theorem",mian2zi3,17,0,1,http://www.reddit.com/r/puremathematics/comments/ft9ts/harmonic_oscillators_integrable_systems_and_the/,,,False,,t5_2s5dh,False,,,False,t3_ft9ts,http://concretenonsense.wordpress.com/2011/02/26/harmonic-oscillators-integrable-systems-and-the-arnold-liouville-theorem/,
+1372713557.0,15,self.puremathematics,1hgaqs,Some questions regarding set theory,mokeandcheese,17,2,5,http://www.reddit.com/r/puremathematics/comments/1hgaqs/some_questions_regarding_set_theory/,"Many explanations I have read about contradictions in naive set theory have said that certain sets are 'too big' (like the set of all sets or the set of all sets not contained in themselves).  My question is whether there is a formal notion of 'too big' for a set in ZFC.
+
+In other words, is there some particular quality to a set that makes its existence contradictory?",,False,,t5_2s5dh,False,,,True,t3_1hgaqs,http://www.reddit.com/r/puremathematics/comments/1hgaqs/some_questions_regarding_set_theory/,
+1347487022.0,16,self.puremathematics,zseci,Perspectives on Modern Complex Geometry,PewpewPew28,19,3,2,http://www.reddit.com/r/puremathematics/comments/zseci/perspectives_on_modern_complex_geometry/,"Hey Reddit. I was wondering if anyone out there can give me a better insight into what modern complex geometry. Are things like Huybrecht's Books 'Complex Geometry' representative? Or, are more analytic things, like the existence of Kahler-Einstein metrics, the more commonality? What are the big problems? What are the most important techniques. Etc.",,False,,t5_2s5dh,False,,,True,t3_zseci,http://www.reddit.com/r/puremathematics/comments/zseci/perspectives_on_modern_complex_geometry/,
+1338534397.0,18,thehcmr.org,ufauc,"Young Tableaux and the Representations
+of the Symmetric Group -- An Interesting Interaction between Group Theory and Combinatorics",yesmanapple,20,2,7,http://www.reddit.com/r/puremathematics/comments/ufauc/young_tableaux_and_the_representations_of_the/,,,False,,t5_2s5dh,False,,,False,t3_ufauc,http://www.thehcmr.org/issue2_2/tableaux.pdf,
+1317183766.0,15,en.wordpress.com,ktr1t,Terence Tao's Course Notes on Hilbert's Fifth Problem (currently being taught),yesmanapple,17,2,0,http://www.reddit.com/r/puremathematics/comments/ktr1t/terence_taos_course_notes_on_hilberts_fifth/,,,False,,t5_2s5dh,False,,,False,t3_ktr1t,http://en.wordpress.com/tag/254a-hilberts-fifth-problem/,
+1306730178.0,17,math.uchicago.edu,hn9az,The Gauge Integral,yesmanapple,18,1,3,http://www.reddit.com/r/puremathematics/comments/hn9az/the_gauge_integral/,,,False,,t5_2s5dh,False,,,False,t3_hn9az,http://www.math.uchicago.edu/~may/VIGRE/VIGRE2006/PAPERS/Herschlag.pdf,
+1301817812.0,15,tricki.org,ghjmt,The Tricki - A compendium of problem-solving techniques and advice on how to best use major theorems.,yesmanapple,16,1,8,http://www.reddit.com/r/puremathematics/comments/ghjmt/the_tricki_a_compendium_of_problemsolving/,,,False,,t5_2s5dh,False,,,False,t3_ghjmt,http://www.tricki.org/,
+1363205698.0,14,self.puremathematics,1a8k0s,Question about modeling the about the p-adics geometrically.,Vorlondel,18,4,16,http://www.reddit.com/r/puremathematics/comments/1a8k0s/question_about_modeling_the_about_the_padics/,"Is there a ""natural"" embedding for the p-adic  numbers? and if so how can we tell this is the ""best"" one (this may be an ill formed question and if there's a better way of phrasing this I'd love the help)? 
+
+By this I mean that It seems that the real numbers fit quite well in a line, or a one dimensional space with the usual topology. Similarly the Complex numbers fit quite nicely in a plane. So do the p-adics fit in a line or a plane or something else? In general how can we find a natural embedding for a given number system?
+
+[edit] my apologies regarding the awkward title, I just now caught it :(",,False,,t5_2s5dh,1363210357.0,,,True,t3_1a8k0s,http://www.reddit.com/r/puremathematics/comments/1a8k0s/question_about_modeling_the_about_the_padics/,
+1363147470.0,15,self.puremathematics,1a72hs,"Any word on volume III of ""Sketches of an Elephant""?",error792,15,0,4,http://www.reddit.com/r/puremathematics/comments/1a72hs/any_word_on_volume_iii_of_sketches_of_an_elephant/,"[Oxford University Press](http://ukcatalogue.oup.com/product/9780198524960.do#.UT_5SBkpbB8) only indicates that the 3rd volume will be published ""sometime after 2007"". The nLab doesn't make any mention of when the third volume might appear. Does anyone have insider knowledge on this?",,False,,t5_2s5dh,False,,,True,t3_1a72hs,http://www.reddit.com/r/puremathematics/comments/1a72hs/any_word_on_volume_iii_of_sketches_of_an_elephant/,
+1342755377.0,16,self.puremathematics,wut90,Foundations After Godel,TheEveningStar,16,0,18,http://www.reddit.com/r/puremathematics/comments/wut90/foundations_after_godel/,"I've heard Chaitin say that whereas mathematicians were profoundly interested in taking sides and involving themselves in the problems of foundations before godel, after the incompleteness theorems came out they have generally lost interest. He acts as if they've ""moved on,"" those who formerly subscribed to the once popular theories of game formalism and logicism still maintaining their confidence in the analyticity of theorems. It seems like mathematicians have sort of left the job to philosophers and logicians, analogous to how physicists once abandoned certain problems to philosophers of science.
+
+I'm interested in asking mathematicians though, where do think mathematical statements borrow their certainty? Is some kind of formalism still generally accepted, or is intuitionism gaining popularity in mathematical circles? What do you think the foundations of mathematics are? ",,False,,t5_2s5dh,False,,,True,t3_wut90,http://www.reddit.com/r/puremathematics/comments/wut90/foundations_after_godel/,
+1328699028.0,16,arxiv.org,pg442,The funniest title of a math arXiv post I've read in a while.,deepwank,25,9,5,http://www.reddit.com/r/puremathematics/comments/pg442/the_funniest_title_of_a_math_arxiv_post_ive_read/,,,False,,t5_2s5dh,False,,,False,t3_pg442,http://arxiv.org/abs/1202.0684,
+1315712330.0,16,math.ias.edu,kbqvl,Univalent Foundations of Mathematics [pdf] [cross-post from r/math],thehotelambush,16,0,2,http://www.reddit.com/r/puremathematics/comments/kbqvl/univalent_foundations_of_mathematics_pdf/,,,False,,t5_2s5dh,False,,,False,t3_kbqvl,http://www.math.ias.edu/~vladimir/Site3/Univalent_Foundations_files/2011_Goteborg.pdf,
+1297418409.0,16,vod.mathnet.or.kr,fjd7f,Lectures on Basic Algebraic Geometry (Miles Reid - multiple videos),Seainfinity,17,1,5,http://www.reddit.com/r/puremathematics/comments/fjd7f/lectures_on_basic_algebraic_geometry_miles_reid/,,,False,,t5_2s5dh,False,,,False,t3_fjd7f,http://vod.mathnet.or.kr/sub1.php?key_s_title=Lectures+on+Basic+Algebraic+Geometry+by+Miles+Reid+%28WCU+project%29,
+1364099711.0,14,cp4space.wordpress.com,1awe1c,The Eilenberg-Mazur swindle,protocol_7,18,4,0,http://www.reddit.com/r/puremathematics/comments/1awe1c/the_eilenbergmazur_swindle/,,,False,,t5_2s5dh,False,,,False,t3_1awe1c,https://cp4space.wordpress.com/2013/03/06/eilenberg-mazur-swindle/,
+1352260196.0,13,self.puremathematics,12rte7,How do you understand the implications and uses of new propositions/theorems when you first learn them?,calcuwat,16,3,10,http://www.reddit.com/r/puremathematics/comments/12rte7/how_do_you_understand_the_implications_and_uses/,"When I learn a new theorem, there are always ways of applying it that don't occur to me initially. Does anyone have steps that they go through to think of the different possible ways of enumerating the application possibilities?",,False,,t5_2s5dh,False,,,True,t3_12rte7,http://www.reddit.com/r/puremathematics/comments/12rte7/how_do_you_understand_the_implications_and_uses/,
+1312190338.0,14,golem.ph.utexas.edu,j5jt4,Coinductive Definitions,greenrd,14,0,1,http://www.reddit.com/r/puremathematics/comments/j5jt4/coinductive_definitions/,,,False,,t5_2s5dh,False,,,False,t3_j5jt4,http://golem.ph.utexas.edu/category/2011/07/coinductive_definitions.html,
+1296789975.0,14,numdam.org,feyf9,Erdos' 1935 paper A Combinatorial Problem in Geometry.  It was his first paper in combinatorics and is a goldmine of interesting results. [pdf],,16,2,4,http://www.reddit.com/r/puremathematics/comments/feyf9/erdos_1935_paper_a_combinatorial_problem_in/,,,False,,t5_2s5dh,False,,,False,t3_feyf9,http://www.numdam.org/item?id=CM_1935__2__463_0,
+1287360372.0,15,warwick.ac.uk,dsk0l,Introduction to Tropical Geometry [PDF],rolfr,15,0,2,http://www.reddit.com/r/puremathematics/comments/dsk0l/introduction_to_tropical_geometry_pdf/,,,False,,t5_2s5dh,False,,,False,t3_dsk0l,http://www.warwick.ac.uk/staff/D.Maclagan/papers/TropicalBook.pdf,
+1357327401.0,15,self.puremathematics,15yqou,"I'm puzzled about an aspect of L, the constructible universe of set theory.",schmendrick,17,2,9,http://www.reddit.com/r/puremathematics/comments/15yqou/im_puzzled_about_an_aspect_of_l_the_constructible/,"If I'm understanding things correctly, *L* serves as an ""inner"" model of a system like ZFC, and we can understand *L* as being (transfinitely) constructed in stages at each ordinal. At stage X+1 of the construction, all sets definable by a first order language formula and interpreted over the members of the universe at stage X are added to L so far. (This can be contrasted with the construction of *V* which simply adds to *V* so far the powerset of X at stage X+1.)
+
+My puzzle is the following. What do non-recursively enumerable (non-r.e.) sets ""look like"" in *L*. It looks like the definition of the stages at which *L* is formed can include only r.e. sets. And so *L* will include only r.e. sets at each stage.  But can't we formulate the claim in a first order language (of ZFC) that there is a non r.e. set? What would this be in *L*?
+
+If I'm on the right track with the question, this seemed similar to the situation of Skolem's Paradox -- that claim that there is a non-denumerable set can be made true by a model with a denumerable domain.",,False,,t5_2s5dh,False,,,True,t3_15yqou,http://www.reddit.com/r/puremathematics/comments/15yqou/im_puzzled_about_an_aspect_of_l_the_constructible/,
+1352634303.0,13,self.puremathematics,1308uw,Honours thesis in analysis...advice?,Kurouma,15,2,4,http://www.reddit.com/r/puremathematics/comments/1308uw/honours_thesis_in_analysisadvice/,"I have a prospective honours thesis topic in analysis. In analysis in particular, I've done a standard undergrad R &amp; C course as well as a more abstract topology/vector spaces oriented one (along with all my other pure maths major units). My final undergrad exam is tomorrow afternoon and I start honours in February.
+
+The topic is pretty much an aggressive review of Peter-Weyl theorem. Does anybody have any experience with it? What are your opinions of it? Is this worth my while? Where does it sit in relation to the current state of the field?",,False,,t5_2s5dh,False,,,True,t3_1308uw,http://www.reddit.com/r/puremathematics/comments/1308uw/honours_thesis_in_analysisadvice/,
+1316195534.0,13,math.uni-bielefeld.de,khv2p,The J-invariant and Tits indices for groups of inner type E6,cjunk,14,1,1,http://www.reddit.com/r/puremathematics/comments/khv2p/the_jinvariant_and_tits_indices_for_groups_of/,,,False,,t5_2s5dh,False,,,False,t3_khv2p,http://www.math.uni-bielefeld.de/lag/man/440.html,
+1312704690.0,13,math.berkeley.edu,jbfjj,Solving Systems of Polynomial Equations (2002) [pdf],TTamm,17,4,0,http://www.reddit.com/r/puremathematics/comments/jbfjj/solving_systems_of_polynomial_equations_2002_pdf/,,,False,,t5_2s5dh,False,,,False,t3_jbfjj,http://math.berkeley.edu/~bernd/cbms.pdf,
+1309571512.0,15,self.puremathematics,ieoyi,Looking for background material for the Fundamental Lemma.,QuotientSpace,16,1,4,http://www.reddit.com/r/puremathematics/comments/ieoyi/looking_for_background_material_for_the/,"Just putting this out there in case Nicolas Bourbaki wanders by.
+
+I would like to understand the geometry used in the proof of the Fundamental Lemma, but I'm not even sure what approach to take to the mathematics that phrases the question.  I don't even want to work in the most general case, nothing p-adic.
+
+A deep understanding of Lie Groups, Derived Categories, the Hitchin fibration, +(what else?)+... seems (is) needed.  
+
+**TL'DR**  If you understand the Fundamental Lemma or the Hitchin fibration, how did you gain this understanding?",,False,,t5_2s5dh,True,,,True,t3_ieoyi,http://www.reddit.com/r/puremathematics/comments/ieoyi/looking_for_background_material_for_the/,
+1307686403.0,15,tinyurl.com,hw6k4,"An Application of Topology to Number Theory
+",yesmanapple,17,2,2,http://www.reddit.com/r/puremathematics/comments/hw6k4/an_application_of_topology_to_number_theory/,,,False,,t5_2s5dh,False,,,False,t3_hw6k4,http://tinyurl.com/3w444ye,
+1306714505.0,14,math.ucla.edu,hn4d2,Orders for which there are exactly two non-isomorphic groups,yesmanapple,14,0,1,http://www.reddit.com/r/puremathematics/comments/hn4d2/orders_for_which_there_are_exactly_two/,,,False,,t5_2s5dh,False,,,False,t3_hn4d2,http://www.math.ucla.edu/~cgivens/group%20theory%20final%20version.pdf,
+1305829292.0,15,self.puremathematics,hf8al,"A Cheerful Introduction to Forcing and the
+Continuum Hypothesis",yesmanapple,18,3,3,http://www.reddit.com/r/puremathematics/comments/hf8al/a_cheerful_introduction_to_forcing_and_the/,,,False,,t5_2s5dh,False,,,True,t3_hf8al,http://www.reddit.com/r/puremathematics/comments/hf8al/a_cheerful_introduction_to_forcing_and_the/,
+1304694005.0,13,self.puremathematics,h5nkg,How to show that repeated eigenvalues are rare?,yannt,14,1,4,http://www.reddit.com/r/puremathematics/comments/h5nkg/how_to_show_that_repeated_eigenvalues_are_rare/,"Hi, 
+
+I am currently reading T. Tao book on random matrices, and I have no clue how to handle one of the exercise :  
+
+""Show that the space of Hermitian matrices with at least one repeated eigenvalue has codimension 3 in the space of all Hermitian matrices"" 
+
+First, how do you define exactly the codimension when the subspace is not a vector space? 
+
+I guess it could be natural to do it by induction on the square root of the dimension, but I don't even know how to show it for n=2 (matrices nxn). 
+",,False,,t5_2s5dh,False,,,True,t3_h5nkg,http://www.reddit.com/r/puremathematics/comments/h5nkg/how_to_show_that_repeated_eigenvalues_are_rare/,
+1303618184.0,13,math.ucla.edu,gw4hw,An Introduction to Computability Theory,yesmanapple,14,1,2,http://www.reddit.com/r/puremathematics/comments/gw4hw/an_introduction_to_computability_theory/,,,False,,t5_2s5dh,False,,,False,t3_gw4hw,http://www.math.ucla.edu/~hbe/computability.pdf,
+1362419695.0,13,self.puremathematics,19ndlh,What is the point of extremal epimorphisms in category theory? Why not just use strong epis instead?,bat020,15,2,3,http://www.reddit.com/r/puremathematics/comments/19ndlh/what_is_the_point_of_extremal_epimorphisms_in/,"I've been trying to get my head around the various types of epimorphisms you get in category theory, but I can't see why anyone uses ""extremal"" epis as opposed to the slightly less general notion of ""strong"" epis.
+
+Every strong epi is extremal; extremal epis can be proved strong if you have pullbacks; so the notions coincide in pretty much any category you're likely to be working in. So for instance in **Top** the extremal epis = strong epis = quotient maps (as opposed to any old surjective continuous map).
+
+What's more, the definition of a ""strong"" epi arises naturally when you try to work out what conditions you need to put on an epi to get unique epi-monic factorisation. Try proving that **Set** has unique epi-monic factorisation, for instance; you'll end up proving a lemma that states all epis in **Set** are strong.
+
+The definition of ""extremal"", in contrast, seems to come out of nowhere. So why bother with ""extremals"" at all? Is there any use or motivation for the definition, or is it just some kind of historical hangover?
+
+A couple of links with definitions of what I'm talking about:
+
+http://ncatlab.org/nlab/show/extremal+epimorphism
+
+http://ncatlab.org/nlab/show/strong+epimorphism
+
+Thanks in advance for any light you can shed on this.",,False,,t5_2s5dh,False,,,True,t3_19ndlh,http://www.reddit.com/r/puremathematics/comments/19ndlh/what_is_the_point_of_extremal_epimorphisms_in/,
+1350873331.0,14,self.puremathematics,11vj99,When can a local ring be realized as the (non-trivial) localization of some other ring?,billows,16,2,10,http://www.reddit.com/r/puremathematics/comments/11vj99/when_can_a_local_ring_be_realized_as_the/,"Here by ring I mean commutative ring with unit. Let (R, m) be a local ring with maximal ideal m. When is there some other ring S and a multiplicative set T \subseteq S such that R is isomorphic to T^-1 S? By non-trivial I mean that I am not thinking about the obvious solution of let S = R and T = R \setminus m. ",,False,,t5_2s5dh,False,,,True,t3_11vj99,http://www.reddit.com/r/puremathematics/comments/11vj99/when_can_a_local_ring_be_realized_as_the/,
+1345255341.0,12,self.puremathematics,yeqv2,"periodicity in a ""Look-and-say"" sequence variant",mdiamond,12,0,2,http://www.reddit.com/r/puremathematics/comments/yeqv2/periodicity_in_a_lookandsay_sequence_variant/,"Background: [Look-and-say Sequence](http://en.wikipedia.org/wiki/Look-and-say_sequence)
+
+I was playing around with variations on the Look-and-say Sequence, and I came up with one that led to consistent stabilization, often resulting in a periodic loop.
+
+Here's how it works:
+
+* start with any number
+* take the first digit of that number
+* count the total # of occurrences of that digit
+* remove them from the current number and append the count + digit to a new number in typical look-and-say fashion
+* move on to the next digit in the current number and repeat until the current number is gone
+* now repeat the entire process with the new number as the current number, ad infinitum
+
+So, for example:
+
+
+50
+
+1510 (""one five, one zero"")
+
+211510 (""two ones, one five, one zero"")
+
+12311510 (""one two, three ones, one five, one zero"")
+
+4112131510 (""four ones, one two, one three, one five, one zero"")
+
+etc...
+
+if you work out the entire sequence, you get this:
+
+50
+
+1510
+
+211510
+
+12311510
+
+4112131510
+
+145112131510
+
+611425121310
+
+16511422151310
+
+61162514221310
+
+26513215141310
+
+22162551231410
+
+42411625131410
+
+34225116151310
+
+23142225511610
+
+42134114251610
+
+34225113151610
+
+23142225511610
+
+42134114251610
+
+34225113151610
+
+23142225511610
+...
+
+Notice that the sequence eventually stabilizes on a three number loop that continues forever. My question is this: **is there a name for this Look-and-say variant, and are its properties novel or interesting at all? Is there a simple explanation for why this sequence always stabilizes?**
+
+It reminded me of Conway's *Game of Life*, which is funny since he also did work on the Look-and-say Sequence.
+
+Anyway, what's the deal, mathematicians of Reddit?",,False,,t5_2s5dh,False,,,True,t3_yeqv2,http://www.reddit.com/r/puremathematics/comments/yeqv2/periodicity_in_a_lookandsay_sequence_variant/,
+1336329646.0,12,reddit.com,t9zcg,[Offer] Algebraic Geometry Reading Group (x/post from r/UniversityofReddit),mian2zi3,13,1,0,http://www.reddit.com/r/puremathematics/comments/t9zcg/offer_algebraic_geometry_reading_group_xpost_from/,,,False,,t5_2s5dh,False,,,False,t3_t9zcg,http://www.reddit.com/r/UniversityofReddit/comments/t9yre/offer_algebraic_geometry_reading_group/,
+1327475124.0,13,perso.univ-rennes1.fr,ovs1j,An Introduction to O-Minimal Geometry,yesmanapple,13,0,1,http://www.reddit.com/r/puremathematics/comments/ovs1j/an_introduction_to_ominimal_geometry/,,,False,,t5_2s5dh,False,,,False,t3_ovs1j,http://perso.univ-rennes1.fr/michel.coste/polyens/OMIN.pdf,
+1313890884.0,12,people.cs.uchicago.edu,jpaqg,Computability and Differential Geometry,turnersr,13,1,0,http://www.reddit.com/r/puremathematics/comments/jpaqg/computability_and_differential_geometry/,,,False,,t5_2s5dh,False,,,False,t3_jpaqg,http://www.people.cs.uchicago.edu/~soare/res/Geometry/geom.pdf,
+1311380112.0,13,whitman.edu,ixa03,Commutativity in non-Abelian Groups,yesmanapple,18,5,7,http://www.reddit.com/r/puremathematics/comments/ixa03/commutativity_in_nonabelian_groups/,,,False,,t5_2s5dh,False,,,False,t3_ixa03,http://www.whitman.edu/mathematics/SeniorProjectArchive/2010/SeniorProject_CodyClifton.pdf,
+1296519392.0,11,arxiv.org,fcqbx,arXiv: Flows and Decompositions of Games: Harmonic and Potential Games,mian2zi3,12,1,1,http://www.reddit.com/r/puremathematics/comments/fcqbx/arxiv_flows_and_decompositions_of_games_harmonic/,,,False,,t5_2s5dh,False,,,False,t3_fcqbx,http://arxiv.org/abs/1005.2405,
+1293350435.0,13,terrytao.wordpress.com,erkj6,Cayley graphs and the geometry of groups,yesmanapple,15,2,0,http://www.reddit.com/r/puremathematics/comments/erkj6/cayley_graphs_and_the_geometry_of_groups/,,,False,,t5_2s5dh,False,,,False,t3_erkj6,http://terrytao.wordpress.com/2010/07/10/cayley-graphs-and-the-geometry-of-groups/,
+1375417374.0,10,self.puremathematics,1jjmtt,Are sawtooth waves a complete set,AltoidNerd,13,3,10,http://www.reddit.com/r/puremathematics/comments/1jjmtt/are_sawtooth_waves_a_complete_set/,"I can generate a sawtooth with sines.  How about a sine with these...[sawteeth, if I had the right ones?](http://postimg.org/image/kjpm1trxz/)",,False,,t5_2s5dh,False,,,True,t3_1jjmtt,http://www.reddit.com/r/puremathematics/comments/1jjmtt/are_sawtooth_waves_a_complete_set/,
+1367000453.0,11,self.puremathematics,1d632s,What is the cardinality of N^N. where N is the set of the natural numbers.,The_Grandmother,21,10,28,http://www.reddit.com/r/puremathematics/comments/1d632s/what_is_the_cardinality_of_nn_where_n_is_the_set/,"Is | **N**^**N** | =&gt; | **N** | ? 
+
+If N is the set of all natural numbers and |a| denotes the cardinality of the set a.",,False,,t5_2s5dh,False,,,True,t3_1d632s,http://www.reddit.com/r/puremathematics/comments/1d632s/what_is_the_cardinality_of_nn_where_n_is_the_set/,
+1352391075.0,11,self.puremathematics,12v0y9,"General topology, pointless topology, and category theory: connections, unsolved problems, and monographs",78666CDC,13,2,4,http://www.reddit.com/r/puremathematics/comments/12v0y9/general_topology_pointless_topology_and_category/,"I'm a graduate student in pure mathematics. Point-set topology has been the one field that I've really enjoyed above all others so far. I explain this to myself that I generally dislike the constructive proofs, such as talking about particular subgroups of a group of order n in algebra, or taking epsilons and deltas in analysis. However, it seems that general topology serves nowadays mostly as a base for other fields, and it doesn't seem to have many major unsolved problems if we define it to exclude more specialized fields such as algebraic topology.
+
+Second, I've been studying category theory on my own because I find it very interesting on its own, and I don't think any of the classes in my entire program mention the concept of a category more than in passing. There are no category theorists in my department.
+
+When I was introduced to the concept of a homeomorphism as an undergrad taking a grad level topology class, I asked the professor whether it made sense to study functions from collection of open sets of a topological space to the collection of open sets of the other space without having to talk concretely about a single open set or specific points. My professor said he didn't think that there was much to say there and basically brushed off my question as uninteresting.
+
+I recently discovered that there is a field called pointless topology that deals with this exact concept and that the collection of open sets of a topological space is termed a lattice and can be dealt with on its own without talking about particular points of the underlying space. The Wikipedia article mentions that many results of general topology are analogous to those of pointless topology and that pointless topology has a strong connection to category theory.
+
+My questions, then, are the following:
+
+1. Am I correct that general topology is an essentially ""solved"" field if we exclude more specialized branches such as algebraic topology?
+2. Is pointless topology an active area of research? Put another way, are there significant and interesting unsolved problems in pointless topology? If so, without having studying pointless topology, can I at least somewhat intuitively understand what those problems are?
+3. What are some good monographs or textbooks on pointless topology, and on pointless topology as connected to category theory?
+
+Thanks in advance for any input and apologies for the long-winded introduction.",,False,,t5_2s5dh,False,,,True,t3_12v0y9,http://www.reddit.com/r/puremathematics/comments/12v0y9/general_topology_pointless_topology_and_category/,
+1341955478.0,12,self.puremathematics,wckzc,Information and Coding Theory: Channel Capacity and Markov Sources/Channels (xpost from r/math),backinblack1,13,1,4,http://www.reddit.com/r/puremathematics/comments/wckzc/information_and_coding_theory_channel_capacity/,"Hi,
+I was wondering if anyone in this subreddit knew of any good textbooks, research papers, or really any literature on the subjected topics. Looking for information mainly on the implementations of Shannon's Channel Theorems for an information system and where if can be seen in effect (besides Turbo Codes). I was told to check out LDPC? As well I am looking for sources of information for Markov sources and channels, modelling a source as a Markov source, etc.
+Really any related texts for Information/Coding Theory would be greatly appreciated.",,False,,t5_2s5dh,False,,,True,t3_wckzc,http://www.reddit.com/r/puremathematics/comments/wckzc/information_and_coding_theory_channel_capacity/,
+1336276171.0,11,self.puremathematics,t99pg,From Point-Set Topology to a Paper on Geometric/Low-Dimensional Topology,yesmanapple,13,2,8,http://www.reddit.com/r/puremathematics/comments/t99pg/from_pointset_topology_to_a_paper_on/,"Much as I am reticent to contribute to the mass of  ""what's a good textbook on topic X?"" posts, it seems that after a week of googling I'm still no closer to an answer. Knowing that many of you are well-versed in geometry and topology, I'm hoping you can guide me to some good texts and papers. 
+
+
+Essentially, my goal is to familiarize myself with the material covered in the (first few chapters of) this [paper](http://aif.cedram.org/cedram-bin/article/AIF_2005__55_1_243_0.pdf). I don't necessarily need to know all the specific results used, but more of the general manifold-theoretic machinery, covering-space theory, homology, etc. 
+
+
+My background is the standard undergraduate degree in math. I know point-set topology and the very basics of fundamental groups. What are some good, concrete textbooks on manifold theory, algebraic topology, covering space theory, homology, etc. that are good for self-study (i.e. good exercises, etc.)? Are there any particular chapters from those textbooks I should read, or any method of study I should employ? I'm not necessarily concerned with getting the most general introduction to algebraic topology, as I'll be taking a grad course in it next year.
+
+
+Any other suggestions that you can think of would be appreciated. As always, thanks for reading. =)",,False,,t5_2s5dh,False,,,True,t3_t99pg,http://www.reddit.com/r/puremathematics/comments/t99pg/from_pointset_topology_to_a_paper_on/,
+1330664430.0,10,self.puremathematics,qe2l2,Ramanujan primes... A smaller conjecture of the Riemann hypothesis?,KPuma,13,3,1,http://www.reddit.com/r/puremathematics/comments/qe2l2/ramanujan_primes_a_smaller_conjecture_of_the/,"I was just doing a report on Ramanujan for a course (History of Mathematics) and I was looking for a piece of his work I could ""easily"" explain.  I am interested in primes, and in specific, the Riemann Hypothesis.  When I came upon Ramanujan Primes, I was instantly reminded of a book I read on John Forbes Nash, Jr.  In the book, there was a particular portion which stated Nash's take on how to solve Riemann's Hypothesis.  (This was just before he was admitted into psychiatric help.)
+
+His conjecture was to find a subset of the reals in which the Riemann Hypothesis was correct, and then (somehow) map it onto the reals.
+
+I was wondering if any redditors out there would like to state anything on this, as it seems Ramanujan Primes are within the same realm as what Nash explained.  (I realize that this may not be the best explained reddit, so if you need more information or a clarification, just ask.)  Thanks!",,False,,t5_2s5dh,False,,,True,t3_qe2l2,http://www.reddit.com/r/puremathematics/comments/qe2l2/ramanujan_primes_a_smaller_conjecture_of_the/,
+1318785546.0,12,mathoverflow.net,le7mf,"On the cancellation problem for complete varieties.  (Read the comment after the answer, I felt the same way.)",deepwank,12,0,1,http://www.reddit.com/r/puremathematics/comments/le7mf/on_the_cancellation_problem_for_complete/,,,False,,t5_2s5dh,False,,,False,t3_le7mf,http://mathoverflow.net/questions/78194/v-w-are-varieties-does-v-times-mathbfp1w-times-mathbfp1-imply-v,
+1296519863.0,11,math216.wordpress.com,fcqhk,Tenth notes:  Quasicoherent and coherent sheaves (Ravi Vakil's ongoing series on Foundations of AG),mian2zi3,11,0,0,http://www.reddit.com/r/puremathematics/comments/fcqhk/tenth_notes_quasicoherent_and_coherent_sheaves/,,,False,,t5_2s5dh,False,,,False,t3_fcqhk,http://math216.wordpress.com/2011/01/30/tenth-notes-quasicoherent-and-coherent-sheaves/,
+1376658563.0,9,self.puremathematics,1khhqd,"Why stop with plus C ... why not plus C_1, C_2, C_3, etc.",forgetsID,17,8,10,http://www.reddit.com/r/puremathematics/comments/1khhqd/why_stop_with_plus_c_why_not_plus_c_1_c_2_c_3_etc/,"I think this has been discussed briefly here before.  Our old problem with finding antiderivatives is actually much, much messier than it seemed.
+
+You might have heard that vertical asymptotes allow for the antiderivative to more than one + C constant.  A simple example is the integral of -1/(x^2) which comes in two pieces on different sides of an asymptote.  So, the ""complete"" answer includes: f(x) = (1/x + C_1) when x &lt; 0 and (1/x + C_2) when x &gt; 0.  C_1 and C_2 do NOT have to match.  By taking the derivative of this last piecewise function, we get its antiderivative: -1/(x^2) as both + C_n disappear.
+
+AH, but wait.  If parts of a function separated by asymptotes can have their own + C_n, doesn't that mean a graph with infinitely many asymptotes has infinitely many + C_n?  Like the anti-derivative of (sec(x))^2 dx?  *cough* Tangent *cough*.
+
+Food for thought. :)",,False,,t5_2s5dh,False,,,True,t3_1khhqd,http://www.reddit.com/r/puremathematics/comments/1khhqd/why_stop_with_plus_c_why_not_plus_c_1_c_2_c_3_etc/,
+1374741980.0,10,self.puremathematics,1j0mhj,How complete is digitalized translated historical math?,lolnameless,11,1,14,http://www.reddit.com/r/puremathematics/comments/1j0mhj/how_complete_is_digitalized_translated_historical/,"Historical stuff should be demanding and easy to setup because it has nothing to do with copyright. Moreover, mathematics is a particularly interesting field and whoever comes up with new things, it is often ""out of thin air"". Therefore, i expect that the history of math and mathematicians easy to find, interesting to read/discuss. /r/historyofmath should be like /r/mathporn for pure mathematicians.
+
+
+For example, Galois and Grothendieck have very interesting story and interesting mind but their translated mathematical text don't seem to appear on the internet. Is there something i missed or is translated historical math incomplete?
+
+EDIT: Grothendieck is still alive and i now feel that it really isn't that hard to comprehend mathematical french, they look very similar to english.",,False,,t5_2s5dh,1374942601.0,,,True,t3_1j0mhj,http://www.reddit.com/r/puremathematics/comments/1j0mhj/how_complete_is_digitalized_translated_historical/,
+1373228031.0,9,self.puremathematics,1htho1,"Question about category theory that came up in ""Cybernetics"" by Norbert Wiener",DerRotfuchs,11,2,13,http://www.reddit.com/r/puremathematics/comments/1htho1/question_about_category_theory_that_came_up_in/,"Hey, sorry if this is the wrong subreddit, but I've tried asking in /r/math and /r/learnmath and haven't gotten any answers. I'd like to figure out what I'm doing wrong before I move to the next section, so hopefully someone here can help me out.
+
+I'm reading ""Cybernetics"" by Wiener this summer, but I'm beginning to realize that some of the math is above my head. Rather than giving up, I'm trying to use this as a chance to improve my math maturity and ability to learn on my own. However, I'm stuck on one of the conclusions that Wiener makes about category theory. I'll start with the basics that Wiener gives (you can probably skip this part, it's kinda long...), then the paragraph on which I'm stuck. (Forgive me ahead of time, I'm very new to LaTeX).
+
+(Skip this if you know the basics of category theory, but you may want to look at the notation I've used, since it will be used later in the paragraph I'm confused about).
+
+We start with a group [;X;], which is closed under the transformations in the set [;T;]. This is a little different than group theory formalizations I've normally seen, in which the group is closed under a binary operator. The two are equivalent though, since we can replace the binary operator with a set of transformations [;T;] in which we've essentially partially applied the binary operator to every element in [;X;]. For example, if [;X = \mathbb{R} ;], and our binary operator is addition, we can replace that operator with an uncountable set of transformations [;T;] where each transformation in the set just adds some real number to the element [;x;]. 
+
+I won't prove the following, but we can see that given [; s,t \in T ;], the transformation given by the composition of [; s ;] and [; t ;] will also be in [;T;], and so will [; t^{-1};], so [;T;] is a group closed under composition (with the identity as, surprise, the identity function).
+
+We then define a character to be a function [; f : X \to \mathbb{C} ;] with an associated function [; \alpha : T \to \mathbb{C} ;] with the following properties:
+
+* [; f(t(x)) = \alpha(t(x))f(x) , \forall t \in T;]
+* [; f ;] and [; \alpha ;] both always return values of absolute value 1. This is nice since we can just think of the values of the functions as being angles on the circle defined by e^ix in the complex plane.
+
+For example, when [;X = \mathbb{R} ;] and [;T;] is all of the additions (where [; t(x) = x + t ;] , I know this is a bastardization of notation, but Wiener uses it so bear with me), we can set [; f(x) = e^{i \lamba x ;] and [; \alpha(t) = e^{i \lambda t} ;] (same [;\lambda;]) and the relation holds. Similarly we can see that [; f(x) = 1;] works, just let [; \alpha(t) = 1 ;] and it's trivially true.
+
+Wiener then states a very cool fact, the distribution of [; \alpha(T) ;] is invariant under multiplication by [; \alpha(s), \forall s \in T ;]. I'll try to keep this short, but it's really cool actually. First, imagine we change [;T;] by composing all its transformations with [;s;] to get the set [;T';]. Using the fact that [; s, t \in T \implies st \in T;] and [; t \in T \implies t^{-1} \in T;], it's easy to show that [; T = T';] and so their distributions under [;\alpha;] are the same. Furthermore, we can see that [; \alpha(st) = \alpha(s)\alpha(t) ;] as follows:
+
+* [; f(s(t(x)) = f(st(x)) ;]
+* [; \alpha(s)f(t(x)) = \alpha(st)*f(x) ;]
+* [; \alpha(s)\alpha(t)f(x) = \alpha(st)*f(x) ;], f(x) can't equal 0, so
+* [; \alpha(s)\alpha(t) = \alpha(st) ;]
+
+So if we transform [;T;] to [;T';] by composing all [; t \in T;] with some [;s \in T;], we are transforming the distribution [;\alpha(T);] to [;\alpha(T');] by multiplying each element by [;\alpha(s);], so that we can relate the distributions of T and T' with [; \alpha(T') = \alpha(s)\alpha(T);]. But we just said that the distributions of T and T' under [;\alpha;] must be the same! Thus the distribution [;\alpha(T);] is invariant under multiplication by [;\alpha(s), \forall s \in T;]. Since the average value of a function is a direct result of it's distribution, we can also say the following:
+
+* [; average(\alpha(T')) = average(\alpha(s)\alpha(T)) ;] , T = T'
+* [; average(\alpha(T)) = average(\alpha(s)\alpha(T)) ;] , [;\alpha(s);] is constant
+* [; average(\alpha(T)) = \alpha(s)average(\alpha(T)) ;]
+
+This gives us two options: 
+
+1. [; \alpha(s) = 1 , \forall s \in T ;], and everything works out perfectly.
+2. The average is invariant under multiplication by something not 1, and is therefore 0.
+
+(Sorry that took so long, onto the next part!)
+
+Up to here I understand everything, but the next part doesn't make any sense:
+
+""From this [fact about the average of [;\alpha;]] it may be concluded that the average of the product of any character by its conjugate (which will also be a character) will have the value 1, and that the average of the product of any character by the conjugate of another character will have the value 0.""
+
+Here's where I'm confused. First of all, the first part of this conclusion doesn't rely on the revelation about [;\alpha;] at all. By definition, the product of a character and its conjugate is just the character [; f(x) = 1;] which obviously has an average value of 1. Furthermore, I don't see how the second part fits in with the [;\alpha;] conclusion either, and I think I've found a counterexample in any case. If we look at the following constant functions: [; f(x) = e^{i\pi} , g(x) = e^ {i\pi/2};], we can see that they both work as characters (just let [;\alpha(t) = 1 , \forall t \in T ;]). But we take the product of f(x) with the conjugate of g(x), we get:
+
+* [; f(x) conjugate(g(x)) ;]
+* [; e^{i\pi} e^{-i\pi/2} ;]
+* [; e^{i\pi/2} ;]
+
+This product is also a character, but it has an average value of [; e^{i\pi/2} ;], or [; i ;], not 0. Is there an implicit assumption that we're not using constant functions? Or am I way off the mark on everything?
+
+Thanks for the help, sorry if I rambled on too long.
+",,False,,t5_2s5dh,False,,,True,t3_1htho1,http://www.reddit.com/r/puremathematics/comments/1htho1/question_about_category_theory_that_came_up_in/,
+1372677282.0,9,self.puremathematics,1hf4vh,Weird application of replacement axiom (Chang and Keisler's Model Theory)?,Cardunculus,10,1,2,http://www.reddit.com/r/puremathematics/comments/1hf4vh/weird_application_of_replacement_axiom_chang_and/,"I'm reading Chang and Keisler's model theory textbook, and I'm currently trying to understand the proof of Theorem 2.2.18 (in which they use the omitting types theorem to prove that every countable model of Zermelo-Fraenkel has an end-extension); and, towards the end of the proof, they claim to somehow use the axiom of replacement to go from 
+
+[; (A, a)_{a \in A} |= (\forall y) (\exists z) (\exists x) (z \not \in y \wedge \phi(x, z) \wedge x \in \bar a) ;]
+
+to 
+
+[; (A, a)_{a \in A} |= (\exists x) (\forall y) (\exists z) (z \not \in y \wedge \phi(x, z) \wedge x \in \bar a) ;]
+
+where A is a (countable) model of ZF.  
+
+I am probably missing something bleeding obvious, but I've been thinking about it for a while and I don't see how the conclusion follows from the premise. I can see how to use the axiom of collection (which, in ZF, follows from replacement) to derive something like 
+
+[; (\exists u) (\forall y) (\exists z) (\exists x) (x \in u \wedge z \not \in y \wedge \phi(x, z) \wedge x \in \bar a) ;]
+
+but I see no straightforward way to eliminate the indirect dependency of x from y through z. As I said, chances are that I am forgetting about something completely obvious: can any of you spot it? 
+
+Thanks!
+
+EDIT: Fixed the latex - apparently, \land or \models do not work right here. 
+
+**EDIT 2**: This has now been solved - I posted the same question on MathOverflow, and a solution has been provided (and I feel fairly dumb for not noticing it, but eh :-) ). In brief, if one takes the negation of the second sentence and applies collection and union they get the negation of the first sentence. ",,False,,t5_2s5dh,1372781123.0,,,True,t3_1hf4vh,http://www.reddit.com/r/puremathematics/comments/1hf4vh/weird_application_of_replacement_axiom_chang_and/,
+1367146645.0,11,self.puremathematics,1d9maw,How many surjective functions are there from N to N ?,The_Grandmother,14,3,9,http://www.reddit.com/r/puremathematics/comments/1d9maw/how_many_surjective_functions_are_there_from_n_to/,"Hey guys i have a problem! How big is the set of all surjective unctions from **N** to **N** ??
+My textbook only covers the case for finite sets and i havent found a good answer on wikipedia or the rest of the internet.
+I would really appreciate your help!
+
+
+(**N** is the set of all natural numbers).",,False,,t5_2s5dh,False,,,True,t3_1d9maw,http://www.reddit.com/r/puremathematics/comments/1d9maw/how_many_surjective_functions_are_there_from_n_to/,
+1366387637.0,9,self.puremathematics,1cojml,Textbook Theorem Archive,VonNeumannAlgebra,12,3,2,http://www.reddit.com/r/puremathematics/comments/1cojml/textbook_theorem_archive/,"Would anyone be interested in having an archive of theorems/propositions/corollaries lists in the sidebar, corresponding to particular textbooks? (we could have both the .pdf and .tex)
+
+As a student, I usually TeX up a list of theorems from whatever text we're using, which I find to be much more helpful than constantly flipping through a textbook. Plus, it's possible to make major results (thms) bold, and indent corollaries underneath it, so that there's a nice way of encoding the importance of results.
+
+Anyway, here's a sample of what it would look like, just very barebones and obvious: (ignore the thing labelled ""1""):
+http://www.2shared.com/document/6z4Atexe/facts.html?
+
+I'm willing to TeX up stuff from Royden, Rudin and Dummit &amp; Foote, since I was doing that anyway. Ideally we would eventually have higher-level stuff like Hartshorne.
+",,False,,t5_2s5dh,False,,,True,t3_1cojml,http://www.reddit.com/r/puremathematics/comments/1cojml/textbook_theorem_archive/,
+1354688093.0,12,self.puremathematics,14b6fa,Is the Stone-Cech compactification of any interest aside from being studied for its own sake?,78666CDC,16,4,10,http://www.reddit.com/r/puremathematics/comments/14b6fa/is_the_stonecech_compactification_of_any_interest/,"Even the Stone-Cech compactifications of the naturals hasn't been completely characterized, as far as I know (we can extend addition on the naturals to addition on this compactification, but that doesn't characterize the space). Its cardinality is also ridiculous, considering the cardinality of the set that it compactifies, which is interesting of its own accord.
+
+Is this compactification of any interest aside from being interesting on its own?",,False,,t5_2s5dh,False,,,True,t3_14b6fa,http://www.reddit.com/r/puremathematics/comments/14b6fa/is_the_stonecech_compactification_of_any_interest/,
+1351812576.0,11,self.puremathematics,12hhfe,"""Minimal Power Series"" in Unital Banach Algebras",HilbertSeries,15,4,5,http://www.reddit.com/r/puremathematics/comments/12hhfe/minimal_power_series_in_unital_banach_algebras/,"In the classical setting, that is operators on a finite dimensional vector space V. We can define the minimum polynomial of an operator as the annihilator of V when viewed as a C[x]-module. This definition is of little use over an infinite dimensional vector space, because the annihilator is often trivial such as a shift operator on l^2 (N). 
+
+I'm curious if it's possible to extend this definition to the ring of formal power series. I'll say right now that I haven't thought about this too carefully, so there may be some very obvious thing that goes wrong. For an element v of a unital banach algebra A first consider the subring B of C[[x]] of elements whose radius of convergence include |v| or something along those lines. In particular we can evaluate any element of B at v, since this will be an absolutely convergent series it will converge. Under what circumstances is the annihilator of A under the action induced by B non-trivial? In these circumstances is the generator of the annihilator at all interesting? 
+
+",,False,,t5_2s5dh,False,,,True,t3_12hhfe,http://www.reddit.com/r/puremathematics/comments/12hhfe/minimal_power_series_in_unital_banach_algebras/,
+1345813736.0,9,blog.plover.com,yr2is,The non-duality of open and closed sets,ky3,17,8,10,http://www.reddit.com/r/puremathematics/comments/yr2is/the_nonduality_of_open_and_closed_sets/,,,False,,t5_2s5dh,False,,,False,t3_yr2is,http://blog.plover.com/math/topology-closed.html,
+1330284496.0,12,self.puremathematics,q6zfh,Is it proven that the digits of pi contain all finite sequences of numbers?,Jeremymia,22,10,35,http://www.reddit.com/r/puremathematics/comments/q6zfh/is_it_proven_that_the_digits_of_pi_contain_all/,"It is not known whether Pi is normal (although it surely is evenly distributed up to 10 trillion digits, so I'm going to go ahead and say it is) so we can't say that it contains all finite sequences equally often.
+
+Despite that, though, can we prove that Pi does contain all finite sequences of numbers, even if they're not evenly distributed? Does this answer hold for all irrational numbers?",,False,,t5_2s5dh,False,,,True,t3_q6zfh,http://www.reddit.com/r/puremathematics/comments/q6zfh/is_it_proven_that_the_digits_of_pi_contain_all/,
+1314766568.0,11,math.stackexchange.com,jzvj9,Lifting Local Compactness in Covering Spaces,,12,1,1,http://www.reddit.com/r/puremathematics/comments/jzvj9/lifting_local_compactness_in_covering_spaces/,,,False,,t5_2s5dh,False,,,False,t3_jzvj9,http://math.stackexchange.com/questions/40240/lifting-local-compactness-in-covering-spaces,
+1306441716.0,11,math.tkk.fi,hkxpp," Electromagnetic fields from contact- and symplectic geometry
+  ",bobovski,12,1,0,http://www.reddit.com/r/puremathematics/comments/hkxpp/electromagnetic_fields_from_contact_and/,,,False,,t5_2s5dh,False,,,False,t3_hkxpp,http://math.tkk.fi/~fdahl/papers/ContactSymplecticEM/,
+1293461613.0,11,self.puremathematics,es290,Recent major results in signal processing research?,yannt,14,3,12,http://www.reddit.com/r/puremathematics/comments/es290/recent_major_results_in_signal_processing_research/,"Hi, 
+does anyone know what are the main recent results in signal processing (let's say in the last 10 years, as considered by academic researchers)? 
+
+What I would call a major result would be something of the importance of for example : 
+
+- Multiresolution analysis theory  (wavelets etc...)
+
+- High resolution spectral analysis methods 
+
+-etc 
+
+I know there is a lot of research recently in the areas of compressed sensing and in the study of the sparsity of signals, but all that I have seen in this field seemed a little sketchy to me. What rigorous results were obtained in these areas? ",,False,,t5_2s5dh,False,,,True,t3_es290,http://www.reddit.com/r/puremathematics/comments/es290/recent_major_results_in_signal_processing_research/,
+1293346362.0,9,video.ias.edu,erk0m,Vladimir Voevodsky: What if Current Foundations of Mathematics are Inconsistent?,mian2zi3,13,4,1,http://www.reddit.com/r/puremathematics/comments/erk0m/vladimir_voevodsky_what_if_current_foundations_of/,,,False,,t5_2s5dh,False,,,False,t3_erk0m,http://video.ias.edu/voevodsky-80th,
+1293343095.0,10,math.utah.edu,erjhx,Introduction to Graph Theory,yesmanapple,10,0,6,http://www.reddit.com/r/puremathematics/comments/erjhx/introduction_to_graph_theory/,,,False,,t5_2s5dh,False,,,False,t3_erjhx,http://www.math.utah.edu/mathcircle/notes/MC_Graph_Theory.pdf,
+1329664463.0,8,drmaciver.com,pwgra,"A friend an I wrote this paper a while ago (mix of topology, set theory and analysis) and aren't sure what to do with it. Suggestions? [PDF]",DRMacIver,9,1,18,http://www.reddit.com/r/puremathematics/comments/pwgra/a_friend_an_i_wrote_this_paper_a_while_ago_mix_of/,,,False,,t5_2s5dh,False,,,False,t3_pwgra,http://drmaciver.com/continuousapproximation.pdf,
+1316352331.0,8,self.puremathematics,kjhoe,Useful topology on space of smooth structures on R^4?,Surlethe,11,3,8,http://www.reddit.com/r/puremathematics/comments/kjhoe/useful_topology_on_space_of_smooth_structures_on/,"Hi! Mathoverflow is intimidating, so I thought I'd ask here first.  If I don't get any useful answers in a few days, I'll ask there.
+
+Q: Is there a useful topology on the (continuum of) smooth structures on R^4?  
+
+The only reference I can find is a paper by K. Kuga, ""A note on Lipschitz distance for smooth structures on noncompact manifolds"", MR1117158 (92f:57025).  He apparently shows that several obvious topologies are discrete.  One might be able to metrize the maximal R^4 and use some variant of the Hausdorff-Gromov pseudometric, but that's such an obvious idea that I'd be surprised if it works, given that I haven't seen it.",,False,,t5_2s5dh,False,,,True,t3_kjhoe,http://www.reddit.com/r/puremathematics/comments/kjhoe/useful_topology_on_space_of_smooth_structures_on/,
+1314043226.0,10,vimeo.com,jqwtb,"Andreas Blass, ""Splitting, Unsplitting and Ultrafilters."" ",SetTheorist,10,0,0,http://www.reddit.com/r/puremathematics/comments/jqwtb/andreas_blass_splitting_unsplitting_and/,,,False,,t5_2s5dh,False,,,False,t3_jqwtb,http://vimeo.com/17377134,
+1308905610.0,7,self.puremathematics,i7xgi,An introduction to Measure Theory and Lebesgue Integration (from the UReddit course),yesmanapple,12,5,0,http://www.reddit.com/r/puremathematics/comments/i7xgi/an_introduction_to_measure_theory_and_lebesgue/,The PDF can be found [here](http://www.ureddit.com/files/class205/files/MAI.pdf).,,False,,t5_2s5dh,False,,,True,t3_i7xgi,http://www.reddit.com/r/puremathematics/comments/i7xgi/an_introduction_to_measure_theory_and_lebesgue/,
+1295671178.0,9,ams.org,f6w9l,A mathematical translation of the surprise examination paradox,sombrero66,11,2,0,http://www.reddit.com/r/puremathematics/comments/f6w9l/a_mathematical_translation_of_the_surprise/,,,False,,t5_2s5dh,False,,,False,t3_f6w9l,http://www.ams.org/notices/201011/rtx101101454p.pdf,
+1365561371.0,8,self.puremathematics,1c1bum,[x-post r/math] Proof of Proposition/Theorem V in Gödel's 1931 paper?,17_Gen_r,9,1,0,http://www.reddit.com/r/puremathematics/comments/1c1bum/xpost_rmath_proof_of_propositiontheorem_v_in/,"Proposition V in Gödel's famous 1931 paper is stated as follows:
+
+For every recursive relation `[; R(x_{1},...,x_{n}) ;]` there is an n-ary ""predicate"" `[; r ;]` (with ""free variables"" `[;u_1,...,u_n ;]`) such that, for all n-tuples of numbers `[;(x_1,...,x_n) ;]`, we have:
+
+`[;R(x_1,...,x_n)\Longrightarrow Bew[Sb(r~_{Z(x_1)}^{u_1}\cdot\cdot\cdot~_{Z(x_n)}^{u_n})] ;]`
+
+`[;\overline{R}(x_1,...x_n)\Longrightarrow Bew[Neg~Sb(r~_{Z(x_1)}^{u_1}\cdot\cdot\cdot~_{Z(x_n)}^{u_n})]   ;]`
+
+Gödel ""indicate(s) the outline of the proof"" and basically says, in his inductive step, that the construction of `[;r;]` can be formally imitated from the construction of the recursive function defining relation `[;R;]`.
+
+I have been trying to demonstrate the above proposition with more rigor, but to no avail. I have, however, consulted ""On Undecidable Propositions of Formal Mathematical Systems,"" the lecture notes taken by Kleene and Rosser from Gödel's 1934 lecture, which have been much more illuminating; but still omits the details in the inductive step from recursive definition, stating ""the proof ... is too long to give here.""
+
+So, r/math, can anyone give me helpful hint for the proof of the above proposition, or even better, a source where I can find such a demonstration? Thanks!
+",,False,,t5_2s5dh,False,,,True,t3_1c1bum,http://www.reddit.com/r/puremathematics/comments/1c1bum/xpost_rmath_proof_of_propositiontheorem_v_in/,
+1336437319.0,8,self.puremathematics,tc327,The observations we will make.,SniperSmiley,13,5,24,http://www.reddit.com/r/puremathematics/comments/tc327/the_observations_we_will_make/,"The Scenario
+--
+
+You're an observer on a plane with a finite number of infinity tall cylinders, or trees, all of equal width. As the observe, you're able to move anywhere on the plane, not occupied by a tree. From any position you can turn in a circle to see all around to count the number of visible trees. Your vision has a width, you're a cylinder, this allows you to see more. No two trees can occupy the same space or be closer, to the next nearest tree, than the width of the observer. And you can't see infinitely thin trees.
+
+Questions
+--
+
+What is the most compact way to arrange the trees that the observer can see the greatest percentage of trees at any position?
+
+What is the optimal width for the trees and the observer?
+
+Can you describe a function for the observer that counts the visible trees as a function of position?
+
+What are the variables at play in this scenario?
+
+How much of a tree has to be visible for you to be able to see it?
+
+What would be the best way to arrange an infinite number of trees?
+
+What if the widths of the trees were different?
+
+
+___
+
+**Note**:  This could be done with circles on a plane, but it's easier for me to visualize in 3D as infinity tall cylinders on a plane, like trees in a forest.
+
+**Edit**: Clarified that trees can't overlap.
+
+**Edit**: Clarified that you can't see infinitely thin cylinders, but I think that's the same as having the width of the observer equal to the width of the trees if the observer was also infinitely thin.
+
+**Edit**: Clarified that all trees are not touching.
+
+**Edit**: Changed the word optimal to most compact in the first question.
+
+**Edit**: Changed most number to greatest percentage, to convey the need for minimizing occlusions. And changed any chosen position to any position for clarity.",,False,,t5_2s5dh,1339974283.0,,,True,t3_tc327,http://www.reddit.com/r/puremathematics/comments/tc327/the_observations_we_will_make/,
+1331138704.0,8,reddit.com,qlwfn,"Today is the r/RedditDayOf ""Masters of Mathematics"". If you have anything to share about the people who have influenced the world in this area, please stop by!",andyjonesx,8,0,1,http://www.reddit.com/r/puremathematics/comments/qlwfn/today_is_the_rredditdayof_masters_of_mathematics/,,,False,,t5_2s5dh,False,,,False,t3_qlwfn,http://www.reddit.com/r/RedditDayOf,
+1321228092.0,8,self.puremathematics,mb6wx,"If any two countable models of a theory are isomorphic, must all such models be aleph-null saturated?",yesmanapple,9,1,2,http://www.reddit.com/r/puremathematics/comments/mb6wx/if_any_two_countable_models_of_a_theory_are/,"If any model embeds elementarily in every other model, wouldn't that imply that there does not exists a non-principal type, as the model that realized that type couldn't be embedded in the model that omitted it? I suspect that that would imply aleph-null saturation, but I'm not sure.  Any ideas? Thanks.",,False,,t5_2s5dh,False,,,True,t3_mb6wx,http://www.reddit.com/r/puremathematics/comments/mb6wx/if_any_two_countable_models_of_a_theory_are/,
+1298012738.0,8,self.puremathematics,fnr0z,Topological Structure of the Unitary Group,yesmanapple,11,3,3,http://www.reddit.com/r/puremathematics/comments/fnr0z/topological_structure_of_the_unitary_group/,"My T.A. mentioned that although the unitary group U(1) is isomorphic to the unit circle in the complex plane, the topological structure of higher-dimensional unitary groups is much more complex. How would you determine the structure of these groups, and do there exist any images of U(2) (projected onto R^3, presumably)?",,False,,t5_2s5dh,False,,,True,t3_fnr0z,http://www.reddit.com/r/puremathematics/comments/fnr0z/topological_structure_of_the_unitary_group/,
+1295053219.0,9,reddit.com,f2kek,[x-post from r/math] A problem on the continuation of a polynomial.  No luck on stackexchange.  Any ideas?,acetv,11,2,0,http://www.reddit.com/r/puremathematics/comments/f2kek/xpost_from_rmath_a_problem_on_the_continuation_of/,,,False,,t5_2s5dh,False,,,False,t3_f2kek,http://www.reddit.com/r/math/comments/f2gc0/i_posted_this_problem_to_math_stackexchange_where/,
+1294599433.0,7,math.uiuc.edu,ez2fd,From Morse homology to Floer homology [.PS],bobovski,9,2,1,http://www.reddit.com/r/puremathematics/comments/ez2fd/from_morse_homology_to_floer_homology_ps/,,,False,,t5_2s5dh,False,,,False,t3_ez2fd,http://www.math.uiuc.edu/~ekerman/mf-notes.ps,
+1293659323.0,8,stochastix.wordpress.com,etam1,Fixed-Odds Betting Arbitrage,yesmanapple,9,1,0,http://www.reddit.com/r/puremathematics/comments/etam1/fixedodds_betting_arbitrage/,,,False,,t5_2s5dh,False,,,False,t3_etam1,http://stochastix.wordpress.com/2010/12/20/fixed-odds-betting-arbitrage/,
+1376272777.0,5,self.puremathematics,1k6h91,Deformation of Hypersurfaces,answertofingering,7,2,7,http://www.reddit.com/r/puremathematics/comments/1k6h91/deformation_of_hypersurfaces/,"I'm reading Katz ""Enumerative Geometry and String Theory"".
+
+He shows that a degree d hypersurface has cohomology class dH (where H is the class of a hyperplane) by the following argument
+ (p.80, I'm paraphrasing a bit):
+
+...we can continuously deform a degree d hypersurface (given by F=0) to a union of d hyperplanes by the equations:
+
+`[; G_t := tF(x) + (1-t) \Pi_{i=1}^{d} l_i (x) = 0 ;]`
+
+where `[; l_i ;]` are homogeneous linear forms.
+
+I've studied the topic of intersection theory a bit already, so my question isn't about the result necessarily, but more about his argument. Specifically, what does he mean by continuous here (i.e. continous in what topology)?
+
+For example, if we are in the the plane, and we take d=2, he is saying we can continuously deform a circle into a pair of lines. I'm pretty sure that deformation isn't continuous, though (or maybe it is in the complex plane?)",,False,,t5_2s5dh,False,,,True,t3_1k6h91,http://www.reddit.com/r/puremathematics/comments/1k6h91/deformation_of_hypersurfaces/,
+1375753711.0,7,self.puremathematics,1js6kp,Matrices in Non-Linear Groups,davidmjoyce,10,3,9,http://www.reddit.com/r/puremathematics/comments/1js6kp/matrices_in_nonlinear_groups/,"So I'm not well versed in subgroup structures or abstract algebra, but I do read quite a bit on the subject of category theory and group theory. I was curious if you could represent a mechanism that operates like a matrix, but isn't in a linear space. My research does the same thing, uses an object much like a matrix in that it's an array which multiplies like a matrix does and is structured like one, but it lives in a monoid space, not a linear space, so it doesn't carry some operations that linear spaces do.
+
+Is it possible for such a structure to exist in a monoid?",,False,,t5_2s5dh,False,,,True,t3_1js6kp,http://www.reddit.com/r/puremathematics/comments/1js6kp/matrices_in_nonlinear_groups/,
+1374881450.0,7,self.puremathematics,1j4osk,"Created /r/PurePhysics, intended to compliment /r/physics the way this sub compliments /r/math",AltoidNerd,23,16,5,http://www.reddit.com/r/puremathematics/comments/1j4osk/created_rpurephysics_intended_to_compliment/,"/r/purephysics
+
+As far as I know, no such sub for serious physics exists.  AskScience is actually the best place to get serious physics talks going, but is obviously not quaint and so on.
+
+Come on over!  Looking for ideas too, PM if interested in helping.  ",,False,,t5_2s5dh,False,,,True,t3_1j4osk,http://www.reddit.com/r/puremathematics/comments/1j4osk/created_rpurephysics_intended_to_compliment/,
+1361512361.0,7,noncommutative.org,1909bq,The algebraic closures of finite fields and their subfields: a nice exposition,protocol_7,7,0,0,http://www.reddit.com/r/puremathematics/comments/1909bq/the_algebraic_closures_of_finite_fields_and_their/,,,False,,t5_2s5dh,False,,,False,t3_1909bq,http://www.noncommutative.org/index.php/the-algebraic-closures-of-finite-fields-and-their-subfields.html,
+1352047842.0,8,self.puremathematics,12m86q,Question regarding representations of p-groups.,poincarebaby,10,2,6,http://www.reddit.com/r/puremathematics/comments/12m86q/question_regarding_representations_of_pgroups/,"What is the minimum degree of a faithful representation over F_p of a finite p-group? Once you have one, how 'easy' is it to see if a matrix represents 1?
+For example, with the regular representation, the degree is the order of G. To see if the matrix g represents the identity, you just have to check if the (1,1) component is equal to 1 (since they're monomial).
+
+I'm hoping to find that the minimal degree is n where the order of G is equal to p^n (using the fact that every element for a finite p-group can be written uniquely as an ordered product of powers of elements b_j where the appropriate image of each b_j generates a cyclic factor of a central series). However I'm having trouble finding such a representation.
+
+Thanks in advance!",,False,,t5_2s5dh,1352050372.0,,,True,t3_12m86q,http://www.reddit.com/r/puremathematics/comments/12m86q/question_regarding_representations_of_pgroups/,
+1304386357.0,7,arxiv.org,h2r9a,An informal sprint through the mathematics of diffraction,Melchoir,8,1,1,http://www.reddit.com/r/puremathematics/comments/h2r9a/an_informal_sprint_through_the_mathematics_of/,,,False,,t5_2s5dh,False,,,False,t3_h2r9a,http://arxiv.org/abs/1105.0095,
+1294812424.0,7,ams.org,f0qcn,Immersion Theory in Topology (pdf),sombrero66,9,2,1,http://www.reddit.com/r/puremathematics/comments/f0qcn/immersion_theory_in_topology_pdf/,,,False,,t5_2s5dh,False,,,False,t3_f0qcn,http://www.ams.org/journals/bull/2005-42-02/S0273-0979-05-01048-7/S0273-0979-05-01048-7.pdf,
+1345500117.0,5,self.puremathematics,yjod9,Minimum Braids,broken_symlink,7,2,2,http://www.reddit.com/r/puremathematics/comments/yjod9/minimum_braids/,"I've been reading [this paper](http://arxiv.org/pdf/math/0401051.pdf) on minimum braids, and I've been having some trouble computing the braid universes for a trefoil knot. 
+
+According to the paper, the number of crossings (c) is equal to the number of strands (s) minus 1. So, for the trefoil since there are 3 crossings, we would need 4 strands. The total number of braid universes is then (s-1)^c, which in the trefoil's case would be 9. I've only been able to come up with 6, or all the possible permutations of 1, 2, and 3. ",,False,,t5_2s5dh,False,,,True,t3_yjod9,http://www.reddit.com/r/puremathematics/comments/yjod9/minimum_braids/,
+1338262832.0,5,self.puremathematics,u9ry8,help with algebraic topology question,malusisgod,7,2,3,http://www.reddit.com/r/puremathematics/comments/u9ry8/help_with_algebraic_topology_question/,"How can I define the generators of the relative homology groups H_{n+1}(B^n+1 ,S^n ) and H_n(S^n ,1) in terms of the exact sequence for the singular homology of the triple (B^n+1 ,S^n ,\{1\})?  B is the disk and S is the sphere.  1 is a point in the sphere, e.g. the north pole.  It looks like example 2.23 of Hatcher computes the explicit cycles representing the generators or these groups, but is it possible to find the generators more directly from the exact sequence for the singular homology?  Thanks!",,False,,t5_2s5dh,False,,,True,t3_u9ry8,http://www.reddit.com/r/puremathematics/comments/u9ry8/help_with_algebraic_topology_question/,
+1330716596.0,6,self.puremathematics,qeubm,Hilbert transforms,coniform,8,2,7,http://www.reddit.com/r/puremathematics/comments/qeubm/hilbert_transforms/,Does anyone know of a good review of Hilbert transforms out there?,,False,,t5_2s5dh,False,,,True,t3_qeubm,http://www.reddit.com/r/puremathematics/comments/qeubm/hilbert_transforms/,
+1319209042.0,4,self.puremathematics,ljys5,Is this the right method to solve this numerical analysis question?,puremathematicsquest,12,8,3,http://www.reddit.com/r/puremathematics/comments/ljys5/is_this_the_right_method_to_solve_this_numerical/,"[Here's](http://imgur.com/Ysy5y) an imgur link to the question. My solution to the first bit is in the red box.
+
+(Just to be clear x and y are position; x-dot and y-dot are velocity; and x-doubledot and y-doubledot are acceleration - I don't know if you guys use that notation in America)
+
+Now, for 1c I'm a bit confused. I want to simply integrate x-doubledot and y-doubledot with respect to time, thus giving me a function for velocity in terms of time and position. But is this what the question is asking for? - I'd then apply Runge-Kutta to find position.
+
+When I read the question, I think it may be asking me to apply the Runge-Kutta method to find equations for velocity, and then apply the Runge-Kutta method to these velocity equations to find position.
+
+Which do you think he's asking for?
+
+Thank you for any help you can offer - I really need it!",,False,,t5_2s5dh,False,,,True,t3_ljys5,http://www.reddit.com/r/puremathematics/comments/ljys5/is_this_the_right_method_to_solve_this_numerical/,
+1298518297.0,8,citeseerx.ist.psu.edu,frjc9,"Model Problems in PDE-Constrained Optimization 
+[PDF]",canyonmonkey,8,0,0,http://www.reddit.com/r/puremathematics/comments/frjc9/model_problems_in_pdeconstrained_optimization_pdf/,,,False,,t5_2s5dh,False,,,False,t3_frjc9,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.122.1838&amp;rep=rep1&amp;type=pdf,
+1293344914.0,8,www-math.mit.edu,erjru,How Real are the Real Numbers?: An Analysis of Five Theories of Mathematical Ontology,yesmanapple,17,9,10,http://www.reddit.com/r/puremathematics/comments/erjru/how_real_are_the_real_numbers_an_analysis_of_five/,,,False,,t5_2s5dh,False,,,False,t3_erjru,http://www-math.mit.edu/phase2/UJM/vol1/JDSHER-F.PDF,
+1293344675.0,7,arxiv.org,erjqk,Bordered Heegaard Floer homology,mian2zi3,8,1,10,http://www.reddit.com/r/puremathematics/comments/erjqk/bordered_heegaard_floer_homology/,,,False,,t5_2s5dh,False,,,False,t3_erjqk,http://arxiv.org/abs/0810.0687,
+1292428026.0,7,arxiv.org,em9ii,"H. Lindblad, T. Tao.  Asymptotic decay for a one-dimensional nonlinear wave equation.",canyonmonkey,7,0,0,http://www.reddit.com/r/puremathematics/comments/em9ii/h_lindblad_t_tao_asymptotic_decay_for_a/,,,False,,t5_2s5dh,False,,,False,t3_em9ii,http://arxiv.org/abs/1011.0949,
+1346448156.0,5,self.puremathematics,z5mib,What are some good websites to help me get through Real Analysis? ,Wizard_Win,11,6,14,http://www.reddit.com/r/puremathematics/comments/z5mib/what_are_some_good_websites_to_help_me_get/,I would be very grateful if anyone told me how they got through Analysis. Thank you,,False,,t5_2s5dh,False,,,True,t3_z5mib,http://www.reddit.com/r/puremathematics/comments/z5mib/what_are_some_good_websites_to_help_me_get/,
+1340342186.0,5,isaacsolomonmath.files.wordpress.com,vf8ew,Distinguishing Numbers of Graphs &amp; Groups: An Overview,yesmanapple,8,3,1,http://www.reddit.com/r/puremathematics/comments/vf8ew/distinguishing_numbers_of_graphs_groups_an/,,,False,,t5_2s5dh,False,,,False,t3_vf8ew,http://isaacsolomonmath.files.wordpress.com/2012/06/distinguishingnumbers.pdf,
+1339667437.0,6,self.puremathematics,v1fv8,Need help in understanding the maths behind Optimal Transport theory and conformal flattening.,kimjongok,9,3,2,http://www.reddit.com/r/puremathematics/comments/v1fv8/need_help_in_understanding_the_maths_behind/,"Hey, I've been trying to mathematically reproduce the following paper (or at least understand and be able to apply):
+
+http://www.pnas.org/content/108/45/18221.short
+
+I'm an undergrad theoretical physics student in my last year. I've been hunting through different papers (some from the reference list in the above paper, and some through my university website) on the content, but it seems that all of it is quite high level mathematics. 
+
+I need to understand and apply the above paper for the internship I have this summer and I plan on excelling at it. 
+
+My main problem so far is the lack of real example to go by and complete lack of support to fall back on (like you have at university). I was wondering if anyone out there has any lecture notes + tutorial questions + solutions for courses that lead up to understanding all of this!
+
+I Would be super grateful for any help!!!",,False,,t5_2s5dh,False,,,True,t3_v1fv8,http://www.reddit.com/r/puremathematics/comments/v1fv8/need_help_in_understanding_the_maths_behind/,
+1335091909.0,4,self.puremathematics,smi1f,Thoughts on Dummit &amp; Foote and other algebra books,vyzovprinyat,9,5,12,http://www.reddit.com/r/puremathematics/comments/smi1f/thoughts_on_dummit_foote_and_other_algebra_books/,"I am looking to improve in abstract algebra. Having only taken an undergraduate course, I am trying to study independently out of DF. I must say, compared to Artin, DF seems to belabor everything to death (blasphemy, I know). Even so, it is a well regarded book, and it covers more topics than Artin. Could someone recommend a good way to use DF? Which areas are safe to skip for a first reading and which ones are essential?
+
+",,False,,t5_2s5dh,False,,,True,t3_smi1f,http://www.reddit.com/r/puremathematics/comments/smi1f/thoughts_on_dummit_foote_and_other_algebra_books/,
+1334541383.0,6,self.puremathematics,sborw,"Trying to find a reference, I believe due to MacMahon",zelmerszoetrop,6,0,2,http://www.reddit.com/r/puremathematics/comments/sborw/trying_to_find_a_reference_i_believe_due_to/,"I'm trying to find an apparently classic result, I believe of MacMahons, which gives the [; \sum q^{\text{maj } \sigma} ;] where [; \sigma ;] is taken over all elements of the symmetric group on N elements and the power is the major index of [; \sigma ;].  A lot of papers seem to reference this result but I can't find the result or the citation directly; is anybody familiar with it?",,False,,t5_2s5dh,False,,,True,t3_sborw,http://www.reddit.com/r/puremathematics/comments/sborw/trying_to_find_a_reference_i_believe_due_to/,
+1331109155.0,5,self.puremathematics,qlihg,looking for preparation materials for PhD qualifying exams,everhostile,6,1,6,http://www.reddit.com/r/puremathematics/comments/qlihg/looking_for_preparation_materials_for_phd/,"Hello all, I am a second year graduate student, and I am preparing for the PhD qualifying exams in algebra and analysis. I would request anyone having access to preparation materials to share them, as it would be very helpful. I also plan to take the GRE subject test soon, so any help would be much appreciated.
+
+Thanks.",,False,,t5_2s5dh,False,,,True,t3_qlihg,http://www.reddit.com/r/puremathematics/comments/qlihg/looking_for_preparation_materials_for_phd/,
+1323389519.0,4,self.puremathematics,n5jsk,I made up an interesting geometry puzzle. Can you solve it for me?,gregw134,12,8,17,http://www.reddit.com/r/puremathematics/comments/n5jsk/i_made_up_an_interesting_geometry_puzzle_can_you/,"Setup: Suppose a ray of light enters a sphere whose inside is covered in mirrors. The light ray will bounce around indefinitely until it again reaches its exact entry point. 
+
+Question: Given that the ray entered the sphere at a rational angle, will it exit in a finite number of bounces? Suppose the ray entered at an irrational angle--can it ever return to its entry point?
+
+These conclusions make intuitive sense to me, but I can't prove them. How would you attempt to evaluate this proof?",,False,,t5_2s5dh,False,,,True,t3_n5jsk,http://www.reddit.com/r/puremathematics/comments/n5jsk/i_made_up_an_interesting_geometry_puzzle_can_you/,
+1319655893.0,5,self.puremathematics,lq0i1,"Ask PureMath: If a sequence converges weakly, what can be said about the convergence of its Cesáro sum?",cowgod42,6,1,4,http://www.reddit.com/r/puremathematics/comments/lq0i1/ask_puremath_if_a_sequence_converges_weakly_what/,"**Recall Cesáro sums:**
+
+The Cesáro sum of a sequence {a_n} is defined a the limit of the average of the partial sums, that is, if we let
+
+    s_N = (1/N)*\sum_n=1^N a_N
+
+the Cesáro sum, if it exists, is defined as 
+
+    \lim_{N--&gt; \infinity} s_N
+
+It is a standard result of basic analysis that if a sequence of real numbers converges, the Cesáro sum converges to the same limit.  Also, there are sequences that do not converge, but for which the Cesáro sum exists.  For example, the sequence {1,-1,1,-1,...} has Cesáro sum 1/2.  
+
+**My question** is about Cesáro sums in Banach spaces.  Suppose a sequence converges weakly in some nice Banach space (L^2 , for example).  Can we say that its Cesáro sum converges in some stronger topology?  This is probably a standard result about this somewhere, but I cannot seem to find any references for it, and so far I have not been able to prove anything myself.  However, it seems like one should be able to do something, as the Cesáro sum is somehow averaging the sequence, and weakly convergent sequences converge (very roughly speaking) ""on average.""  
+
+Can /r/PureMath say anything about this situation?",,False,,t5_2s5dh,False,,,True,t3_lq0i1,http://www.reddit.com/r/puremathematics/comments/lq0i1/ask_puremath_if_a_sequence_converges_weakly_what/,
+1318404745.0,4,self.puremathematics,l9bz3,Definable subsets of the integers as an abelian subgroup?,yesmanapple,5,1,10,http://www.reddit.com/r/puremathematics/comments/l9bz3/definable_subsets_of_the_integers_as_an_abelian/,"Consider the integers as a first-order structure in the language {0,+,-} of abelian groups. I suspect that the collection of definable subsets (without parameters) of this structure is an algebra containing nZ for all natural n (i.e. all periodic sets). That is to say, it's easy to see that the collection of definable subsets contains an algebra containing nZ, but I can't prove whether or not other sets exist. Any ideas? Thanks!",,False,,t5_2s5dh,False,,,True,t3_l9bz3,http://www.reddit.com/r/puremathematics/comments/l9bz3/definable_subsets_of_the_integers_as_an_abelian/,
+1317914494.0,5,people.sc.fsu.edu,l31qm,Anyone interested in exploring possible practical applications of this (trivial but novel) path from E2 to En?,EerilyLackadaisical,6,1,0,http://www.reddit.com/r/puremathematics/comments/l31qm/anyone_interested_in_exploring_possible_practical/,,,False,,t5_2s5dh,False,,,False,t3_l31qm,http://people.sc.fsu.edu/~jburkardt/fun/puzzles/permutation_puzzle.html,
+1315371608.0,4,self.puremathematics,k7978,A fun probability/game theory exercise.,deepwank,6,2,5,http://www.reddit.com/r/puremathematics/comments/k7978/a_fun_probabilitygame_theory_exercise/,"Let p be any real number in [0,1].  Given only a fair coin, construct a game whose probability of winning is exactly p.",,False,,t5_2s5dh,False,,,True,t3_k7978,http://www.reddit.com/r/puremathematics/comments/k7978/a_fun_probabilitygame_theory_exercise/,
+1293488386.0,3,self.puremathematics,es8qu,Fiber bundles,dmtryshmtv,7,4,7,http://www.reddit.com/r/puremathematics/comments/es8qu/fiber_bundles/,"Feeling as if I have just reached ""Aha!"" moment number one (finally grasping the basic definitions) for fiber bundles, I'd like to sharpen intuition by asking some natural questions.
+
+* Are there any sort of properties two bundles share if they have the same trivial bundle? Maybe existence of a homeomorphism?
+* [wikipedia](http://en.wikipedia.org/wiki/Fiber_bundle) has exact sequence-like notation for fiber bundles.  Is the similarity between these purely notation or can we think of bundles as sequences (maybe if they are topological groups)?
+* I'm still unsure about the hairbrush example (in the wiki).  E is the brush, B is a cylinder, F is a line segment, and the projection maps any point on the bristle to its base on the cylinder.  So let's choose a base point of a bristle and grab a neighborhood U around it in B (a curved disk region) and assume there are no other bristles in that region.  The part I'm stuck on is that pi^-1  of U doesn't seem to look much like UxF (a curved disk with a line sticking out of it and a curved-base cylinder, respectively).  I just can't see a homeomorphism between a line and a cylinder. Could someone clarify?
+* [This wiki](http://en.wikipedia.org/wiki/Vector_bundle) states in the introduction that the hairy ball theorem shows tangent bundles to be non-trivial on 2n-spheres.  Seeing as the theorem is quite old and may have been developed before the bundle language, does anyone know if there are ""easy"" modern proofs of this theorem using bundles?
+
+Thanks",,False,,t5_2s5dh,False,,,True,t3_es8qu,http://www.reddit.com/r/puremathematics/comments/es8qu/fiber_bundles/,
+1357415206.0,4,self.puremathematics,160r2x,"Course recommendation for special functions (bessel, struve, etc.) ",DrNathanFurious,7,3,2,http://www.reddit.com/r/puremathematics/comments/160r2x/course_recommendation_for_special_functions/,I'm a physicist and want to go back and take a formal course on special functions and integral transforms.  Can anyone recommend a solid course that will cover this material (say on MIT opencourseware)?  What would the course be called?,,False,,t5_2s5dh,False,,,True,t3_160r2x,http://www.reddit.com/r/puremathematics/comments/160r2x/course_recommendation_for_special_functions/,
+1354158475.0,4,self.puremathematics,13z19f,I need help with similarity,BobHogan,10,6,5,http://www.reddit.com/r/puremathematics/comments/13z19f/i_need_help_with_similarity/,"I recently came across a math challenge that challenged everyone to try to prove key aspects of geometry using as little as possible in the way of theorems and whatnot. I tried to prove ASA similarity in triangles, as in given triangles ABC and DEF, angles ABC and DEF are equal and angles ACB and DFE are equal and DE is half of AB prove that all sides on DEF are half as long as the corresponding sides on ABC. I wanted to do this without invoking the Parallel Postulate is possible, as a personal challenge, but I cannot figure it out. Can anyone help me with a proof of this, or come up with an impossibility proof. Either one would be much appreciated, thanks in advance",,False,,t5_2s5dh,False,,,True,t3_13z19f,http://www.reddit.com/r/puremathematics/comments/13z19f/i_need_help_with_similarity/,
+1340300917.0,4,self.puremathematics,ve3nw,Minimal binary words that agree in the count of all subwords of length &lt;= k,Ph0X,5,1,0,http://www.reddit.com/r/puremathematics/comments/ve3nw/minimal_binary_words_that_agree_in_the_count_of/,"I've been trying for the past few weeks to solve this with group theory, but can't quite get a proof going.
+
+I've asked this on StackExchange but didn't  get any answers, so I thought I'd ask here. I've explained it fairly well there though, with notation and all, so I'll just leave a link to it:
+http://math.stackexchange.com/questions/159987/
+
+Any clue in what direction I need to look towards to solve this?",,False,,t5_2s5dh,False,,,True,t3_ve3nw,http://www.reddit.com/r/puremathematics/comments/ve3nw/minimal_binary_words_that_agree_in_the_count_of/,
+1332954984.0,5,self.puremathematics,rhsk8,How do I determine hand rarity in this poker variant?,beefzilla,9,4,47,http://www.reddit.com/r/puremathematics/comments/rhsk8/how_do_i_determine_hand_rarity_in_this_poker/,"Hello. I'm a part-time game designer. I have invented a game system that builds on the rules of poker, offering exciting new player interaction. I have determined hand rarity by writing software that simulates the game, but I want to double-check using discrete math.
+
+The game in question is ""Tournament Pilatch,"" and is built with the following deck:
+
+3 suits (Rock, Paper, Scissors)
+14 ranks per suit (1-10, J, Q, K, A)
+(42 cards total)
+
+Tournament Pilatch plays as follows:
+
+Each player has 3 cards in hand.
+Each player can bet on either 4 face-up community cards, or 4 face-down community cards.
+The best 5-card hand wins. (A player must choose only 5 cards of the 7 she has bet on.)
+
+What are the frequencies of the poker-like hands? (Pairs, Two Pairs, Triples, Full House, Straight, Flush, Straight Flush, High Card)
+
+I have consulted [wikipedia](http://en.wikipedia.org/wiki/Poker_probability#Frequency_of_7-card_poker_hands) and re-purposed their method for Tournament Pilatch, but I encountered a philosophical problem. Notice in the derivation of 7-card poker hands, the frequency of triples subtracts the frequency of straights that also contain triples. This method, then, assumes that straights are more rare, and therefore more valuable, than triples, before the calculation is even complete! Isn't it more holistic to count the frequency of each hand, regardless of overlap, then determine which hands are more rare than others?
+
+Furthermore, a player's ability to bet on either of two sets of community cards, intuitively seems to affect the rarity of hands. The Pilatch series of games has been in development for a few years now. While playing the game, we get a sense that some hands aren't as rare as they should be, or vice-versa. How should this be handled mathematically?
+
+EDIT: The deck now has 14 ranks per suit",,False,,t5_2s5dh,1337052323.0,,,True,t3_rhsk8,http://www.reddit.com/r/puremathematics/comments/rhsk8/how_do_i_determine_hand_rarity_in_this_poker/,
+1306309045.0,5,self.puremathematics,hjm8f,A Galois Theory problem,TulasShorn,6,1,10,http://www.reddit.com/r/puremathematics/comments/hjm8f/a_galois_theory_problem/,"Let F = C(T), R = C[T] ie, F is the fraction field of the ring, R.  C is the complex numbers.  Let p be prime.
+
+Let y be a non-trivial p-th root of unity.  Choose a and b in the algebraic closure of F such that a^p = T and b^p = (1-T).  Let E = F(a,b) ie, adjoining those two roots to the field.  
+
+1)Show that E is a Galois extension of F
+2) Determine the isomorphism class of the Galois group of E/F.
+
+Any help would be appreciated",,False,,t5_2s5dh,False,,,True,t3_hjm8f,http://www.reddit.com/r/puremathematics/comments/hjm8f/a_galois_theory_problem/,
+1353993723.0,3,self.puremathematics,13uxlh,On the Topic of Integrodifferential Equations [x-post from Math],IronEngineer,6,3,8,http://www.reddit.com/r/puremathematics/comments/13uxlh/on_the_topic_of_integrodifferential_equations/,"I am currently working on publishing a research endeavor and have most of the work complete. Within the paper I depict solutions of a diffusion equation in 2 dimensions under certain boundary conditions. I then compare these results to experimental results I have already accumulated. However, this is not the equation I would actually like a solution for, it is an approximation. The full problem is an integrodifferential equation that, while linear, is a bit nasty. Here it is:
+
+du/dt-v(d2 u/dx2 +d2 u/dy2 )=C1+C2double integral (udxdy)
+
+v is a constant, as is C1 and C2.
+
+The domain is a rectangle. The origin is at the center of the rectangle. -a&lt;x&lt;a. -b&lt;y&lt;b.
+
+The double integral is bounded across the domain. So integral from -b to b and -a to a.
+
+Finally the boundary conditions are Dirichlet and the initial condition is 0.
+
+I have a solution in hand for C2=0 (taking out the nasty integrals). I also have a solution to the full problem by the method of perturbations. However, according to math, does the method of perturbations actually give a true solution? It seems like it would give an approximation of a solution, but I am only well versed in solution methods and not so much the theoretical side of math. Also, does anyone know a way to directly solve this problem?
+
+I have already dug through many math texts and solution techniques for integral equations, but none seem to cover solution methods for integrodifferential equations. The closest I can come to relevant methods are solution methods for integral equations that are Fredholm type of the second kind.
+
+Any help at all would be greatly appreciated as this has stumped many professors already.
+",,False,,t5_2s5dh,False,,,True,t3_13uxlh,http://www.reddit.com/r/puremathematics/comments/13uxlh/on_the_topic_of_integrodifferential_equations/,
+1330629277.0,4,self.puremathematics,qda94,"Question: When is a subset of {0,1} valued borel functions on a standard borel space (polish space) complete under the pointwise convergence topology?",rapist1,5,1,0,http://www.reddit.com/r/puremathematics/comments/qda94/question_when_is_a_subset_of_01_valued_borel/,"In more precise words, what restrictions on a family F of {0,1} valued borel functions will tell us that the pointwise limit of any net in F is borel. I feel like there must be lots known about this but I cannot seem to find anything.",,False,,t5_2s5dh,True,,,True,t3_qda94,http://www.reddit.com/r/puremathematics/comments/qda94/question_when_is_a_subset_of_01_valued_borel/,
+1330275698.0,3,self.puremathematics,q6thx,Vitali Sets - Without the Axiom of Choice,TheMonocleMen,5,2,4,http://www.reddit.com/r/puremathematics/comments/q6thx/vitali_sets_without_the_axiom_of_choice/,I was wondering if it was possible to prove the existance of a Vitali Set (or any non-measurable set) without requiring the Axiom of Choice. Any Ideas?,,False,,t5_2s5dh,False,,,True,t3_q6thx,http://www.reddit.com/r/puremathematics/comments/q6thx/vitali_sets_without_the_axiom_of_choice/,
+1329680028.0,3,perso.ens-lyon.fr,pwpxi,(weird) Models induced by classical realizability [pdf],gallais,4,1,0,http://www.reddit.com/r/puremathematics/comments/pwpxi/weird_models_induced_by_classical_realizability/,,,False,,t5_2s5dh,False,,,False,t3_pwpxi,http://perso.ens-lyon.fr/alexandre.miquel/LI2012-realiz2.pdf,
+1299362536.0,3,self.puremathematics,fy3f4,Matrix representation of commutative groups,tony_bruguier,4,1,4,http://www.reddit.com/r/puremathematics/comments/fy3f4/matrix_representation_of_commutative_groups/,"Hello,
+
+I have been reading this book on group theory:
+http://i.imgur.com/9anD2.jpg
+http://i.imgur.com/koFqU.jpg
+
+I am confused about the lemma at the bottom of page 21 (""Schur's lemma, after equation 3-3). When they say commute with ""any matrix"", do they mean any matrix of the representation, or any matrix (i.e. I put whatever number I want everywhere).
+
+If it means any matrix of the representation, does this mean that the only irreducible matrix representation of a commutative group is a 1x1 matrix?
+
+I am a bit confused, so let's take an example: the Klein 4 group (i.e. the direct sum of two cyclic groups, each of order 2).
+
+I think I can represent it with 4 matrices
+    1 0 0 0
+    0 1 0 0
+    0 0 1 0
+    0 0 0 1
+
+     0-1 0 0
+    -1 0 0 0
+     0 0 1 0
+     0 0 0 1
+
+     1 0 0  0
+     0 1 0  0
+     0 0 0 -1
+     0 0 -1 0
+
+     0-1  0  0
+    -1 0  0  0
+     0 0  0 -1
+     0 0 -1  0
+
+Now, all these matrices commute with each other. Is this an irreducible form or not? If not, what is the irreducible form for that group?
+
+Thanks,
+Tony",,False,,t5_2s5dh,False,,,True,t3_fy3f4,http://www.reddit.com/r/puremathematics/comments/fy3f4/matrix_representation_of_commutative_groups/,
+1293823848.0,2,verinaut.wordpress.com,eu9z7,Analysis and Inverse Functions,verinaut,6,4,0,http://www.reddit.com/r/puremathematics/comments/eu9z7/analysis_and_inverse_functions/,,,False,,t5_2s5dh,False,,,False,t3_eu9z7,http://verinaut.wordpress.com/2010/12/31/analysis-and-inverse-functions/,
+1354226137.0,2,self.puremathematics,140lo8,I have a cardinality text book that isn't very clear.,cantidosan,2,0,2,http://www.reddit.com/r/puremathematics/comments/140lo8/i_have_a_cardinality_text_book_that_isnt_very/,"My text book doesn't do a very good job explaining the concept to me.For instance a simple question such as: ""What is the cardinality of the set of all natural numbers?""
+
+My issue is, I have no idea how to write out this proof. From what i gathered from the textbook , I'm supposed to create a function that is one to one and onto that maps, natural numbers to another set?
+
+Any advice or instruction on a step by step methodology to solve these problems would be useful.
+",,False,,t5_2s5dh,False,,,True,t3_140lo8,http://www.reddit.com/r/puremathematics/comments/140lo8/i_have_a_cardinality_text_book_that_isnt_very/,
+1351395568.0,3,self.puremathematics,127doz,Top Down Classification trees of Math from UnderGrad to Grad Level?,math_fanboy,7,4,8,http://www.reddit.com/r/puremathematics/comments/127doz/top_down_classification_trees_of_math_from/,"Where can I find one, or can you make a rough one for me please?
+
+As a CompSci Engineering Grad, I was amazed at the amount of math I never encountered in undergrad level, some, completely new topics( for me), others, old topics but it more depth.
+
+Then I encounter proper math sub-reddits like this one and am amazed still at the amount of math I haven't even encountered.
+
+I've been going through undergrad math websites of big unis and peeking into their syllabus structure but it would be amazing if I could get a decent picture of math upto the grad level with the help of some graphs to get a broad perspective.",,False,,t5_2s5dh,False,,,True,t3_127doz,http://www.reddit.com/r/puremathematics/comments/127doz/top_down_classification_trees_of_math_from/,
+1340396194.0,2,self.puremathematics,vg9qn,Conjugate gradient as a general minimization algorithm,Corewood,3,1,5,http://www.reddit.com/r/puremathematics/comments/vg9qn/conjugate_gradient_as_a_general_minimization/,"I often hear people reference the conjugate gradient algorithm as though it can be used as a general algorithm for minimizing any continuous function, though I may have to assume that it is Lipschitz or convex.
+
+When I try to understand conjugate gradient (e.g., the ""without agonizing pain"" tutorial), it sounds like conjugate gradient is meant for problems only of the form
+
+Ax=b
+
+where A is a matrix and x and b are vectors (x unknown, solving for x).
+
+How can I use conjugate gradient to solve a problem of the form: find an x that is a local minimum for f(x)? Is there a conversion between these two problem types that I'm missing? Can conjugate gradient be used in this way?",,False,,t5_2s5dh,False,,,True,t3_vg9qn,http://www.reddit.com/r/puremathematics/comments/vg9qn/conjugate_gradient_as_a_general_minimization/,
+1328228175.0,2,self.puremathematics,p8hwh,general position assumption,dystopiates,2,0,4,http://www.reddit.com/r/puremathematics/comments/p8hwh/general_position_assumption/,I am doing work in topology and it was suggested to me that my problem may be simplified if I use the general position assumption.  Does anyone know of anywhere I can read more about this assumption?  ,,False,,t5_2s5dh,False,,,True,t3_p8hwh,http://www.reddit.com/r/puremathematics/comments/p8hwh/general_position_assumption/,
+1327444580.0,2,gowers.wordpress.com,ov3y9,Why Fields Medal winner Timothy Gowers refuses to publish with Elsevier journals.  Join the movement!,cowgod42,4,2,1,http://www.reddit.com/r/puremathematics/comments/ov3y9/why_fields_medal_winner_timothy_gowers_refuses_to/,,,False,,t5_2s5dh,False,,,False,t3_ov3y9,http://gowers.wordpress.com/2012/01/21/elsevier-my-part-in-its-downfall/,
+1313035656.0,2,terrytao.wordpress.com,jfckk,A geometric proof of the impossibility of angle trisection by straightedge and compass,,5,3,0,http://www.reddit.com/r/puremathematics/comments/jfckk/a_geometric_proof_of_the_impossibility_of_angle/,,,False,,t5_2s5dh,False,,,False,t3_jfckk,http://terrytao.wordpress.com/2011/08/10/a-geometric-proof-of-the-impossibility-of-angle-trisection-by-straightedge-and-compass/,
+1355735259.0,1,self.puremathematics,14zj50,"Has anyone investigated the possibility of a ""probabilistic"" proof theory?",VonNeumannAlgebra,1,0,8,http://www.reddit.com/r/puremathematics/comments/14zj50/has_anyone_investigated_the_possibility_of_a/,"Has there been any experimentation with proof theory that is based on some sort of ""probabilistic"" formalism like fuzzy logic / fuzzy set theory / quantum logic? 
+
+
+**Motivation: (imprecise and awkward)**
+
+I was thinking about true but unprovable propositions, and that their ""transcendent"" nature resembled how we view quantum states (before being measured). However, the difference would be that when we measure the quantum state, we just get some output that makes sense, but ""measuring"" (i.e. identifying) a true but unprovable proposition would be a contradiction and impossible (since identifying it as true would be identical to proving it). 
+
+Does the existence of these propositions indicate some sort of ""limitation"" hinting at how it would be interesting to take a different approach to proof theory? (but obviously not just abandoning what we use now)",,False,,t5_2s5dh,False,,,True,t3_14zj50,http://www.reddit.com/r/puremathematics/comments/14zj50/has_anyone_investigated_the_possibility_of_a/,
+1355479328.0,1,self.puremathematics,14u516,Modular forms/elliptic curves,gamma57309,1,0,0,http://www.reddit.com/r/puremathematics/comments/14u516/modular_formselliptic_curves/,"I just finished my master's degree and I'm currently applying to various PhD programs. I have some ideas about things I'd like to study, most of which are number theory related. I've been hearing more and more about elliptic curves and modular forms, and I have a very basic understanding of what questions they're answering. I have a semester off and I'm looking for something to study on my own. Are there any books that are particularly good for a beginner in these fields? Is one topic preferable to the other? Is there anything I should know in particular, or maybe some other topic I should pick up a book on instead? I'm sort of interested in trying to get through some of Shinichi Mochizuki's work by the end of the summer (not necessarily the abc conjecture stuff). If that's my goal, what should I do?",,False,,t5_2s5dh,False,,,True,t3_14u516,http://www.reddit.com/r/puremathematics/comments/14u516/modular_formselliptic_curves/,
+1354754652.0,1,self.puremathematics,14cslp,Chain Rule for Fractional Derivatives,ummwut,1,0,5,http://www.reddit.com/r/puremathematics/comments/14cslp/chain_rule_for_fractional_derivatives/,"So, I've been playing around with fractional derivatives for a while now, but I haven't been able to nail down a fractional generalization to the Chain Rule quite yet. So far, I've been able to reliably Chain Rule out a constant 'a' for e^ ax and sin(ax), where these are D^n e^ax = a^n * e^ax and D^n sin(ax) = a^n sin(ax + n pi/2), just for two examples. But for something like e^af(x) , I can't really of how this would transition between itself and ae^f(x) * f'(x).
+
+Has anyone encountered this, or have any ideas about it?",,False,,t5_2s5dh,False,,,True,t3_14cslp,http://www.reddit.com/r/puremathematics/comments/14cslp/chain_rule_for_fractional_derivatives/,
+1353985598.0,1,self.puremathematics,13uogs,Integrodifferential equation for a research project,IronEngineer,2,1,0,http://www.reddit.com/r/puremathematics/comments/13uogs/integrodifferential_equation_for_a_research/,"I am currently working on publishing a research endeavor and have most of the work complete.  Within the paper I depict solutions of a diffusion equation in 2 dimensions under certain boundary conditions.  I then compare these results to experimental results I have already accumulated.  However, this is not the equation I would actually like a solution for, it is an approximation.  The full problem is an integrodifferential equation that, while linear, is a bit nasty.  Here it is:
+
+du/dt-v*(d^2 u/dx^2 +d^2 u/dy^2 )=C1+C2*double integral (udxdy)
+
+v is a constant, as is C1 and C2.
+
+The domain is a rectangle.  The origin is at the center of the rectangle.  -a&lt;x&lt;a.  -b&lt;y&lt;b.
+
+The double integral is bounded across the domain.  So integral from -b to b and -a to a.
+
+Finally the boundary conditions are Dirichlet and the initial condition is 0.
+
+I have a solution in hand for C2=0 (taking out the nasty integrals).  I also have a solution to the full problem by the method of perturbations.  However, according to math, does the method of perturbations actually give a true solution?  It seems like it would give an approximation of a solution, but I am only well versed in solution methods and not so much the theoretical side of math.  Also, does anyone know a way to directly solve this problem?
+
+I have already dug through many math texts and solution techniques for integral equations, but none seem to cover solution methods for integrodifferential equations.  The closest I can come to relevant methods are solution methods for integral equations that are Fredholm type of the second kind.  
+
+Any help at all would be greatly appreciated as this has stumped many professors already.",,False,,t5_2s5dh,False,,,True,t3_13uogs,http://www.reddit.com/r/puremathematics/comments/13uogs/integrodifferential_equation_for_a_research/,
+1353899091.0,1,self.puremathematics,13sjah,Universal divisibility test?,1gnorance,1,0,0,http://www.reddit.com/r/puremathematics/comments/13sjah/universal_divisibility_test/,"I'm a high school student, and I am trying to think of a good project to do in a research class.
+
+
+Unfortunately, I'm a big fan of biting off more than I can chew, and I think I did that this time. I'm wondering if given any number ""n"" one could test if it is divisible by an integer ""k"".
+I know there are divisibility tests and there is a way to find it, but they're essentially made for human convenience (if a number is too big we want an easy way). For example, to test if a number is divisible by 3, we add the digits, and if that number is too big to do easy calculations, we repeat until we can divide comfortably.
+What I'm asking is, is there something which is completely fundamental about a number and any given possible factor? This possibly avoids using a specific number system for testing it.
+
+
+This is way too much for my simple mind, so please help out with anything that you can.
+
+
+I also posted this in r/math. ",,False,,t5_2s5dh,False,,,True,t3_13sjah,http://www.reddit.com/r/puremathematics/comments/13sjah/universal_divisibility_test/,
+1350735479.0,1,self.puremathematics,11smrb,Looking for Pender 4 unit text (cambridge),Gamma48,1,0,0,http://www.reddit.com/r/puremathematics/comments/11smrb/looking_for_pender_4_unit_text_cambridge/,"Hi people, 
+Not sure is this is the right place to be looking but im looking for the extremely sought after legendary *Bill Pender 4 Unit Cambridge* textbook for year 12. I know it was incomplete as he got sick when writing it but people tell me it had the most in depth comprehensive covering of the course. 
+Please tell me where i can find it.. 
+Thanks,,",,False,,t5_2s5dh,False,,,True,t3_11smrb,http://www.reddit.com/r/puremathematics/comments/11smrb/looking_for_pender_4_unit_text_cambridge/,
+1345538844.0,1,self.puremathematics,ykmac,Can anyone explain to me like I'm five (as well as you can) what the Poincare conjecture and the significance of Perelman's proving it?,inflexiblemadness,1,0,0,http://www.reddit.com/r/puremathematics/comments/ykmac/can_anyone_explain_to_me_like_im_five_as_well_as/,I remember reading about this as he announced his proof. I had forgotten about it and lately have rekindled an interesting in reading about Mr. Perelman.,,False,,t5_2s5dh,False,,,True,t3_ykmac,http://www.reddit.com/r/puremathematics/comments/ykmac/can_anyone_explain_to_me_like_im_five_as_well_as/,
+1345285237.0,1,self.puremathematics,yf9dl,"Question regarding technicalities in the paper 
+Iterated Prisoner’s Dilemma contains strategies 
+that dominate any evolutionary opponent",Option_Select,1,0,0,http://www.reddit.com/r/puremathematics/comments/yf9dl/question_regarding_technicalities_in_the_paper/,"For people on this board I have a probably pretty modest question, but since I'm not a mathematician (just an economist), I'm having trouble. The full pdf can be found here: http://www.pnas.org/content/early/2012/05/16/1206569109.full.pdf+html
+
+The question is regarding the following passage and has to do with linear algebra. They write: ""where Adj(M′) is the adjugate matrix (also known as the classical adjoint or, as in high-school algebra, the “matrix of minors”). Eq. 2 implies that every row of Adj(M′) is proportional to v. Choosing the fourth row, we see that the components of v are (up to a sign) the determinants of the 3 × 3 matrices formed from the first three columns of M′, leaving out each one of the four rows in turn. These determinants are unchanged if we add the first column of M′ into the second and third columns. The result of these manipulations is a formula for the dot product of an arbitrary four-vector f with the stationary vector v of the Markov matrix, v · f ≡ D(p; q; f), where D is the 4 × 4 determinant shown explicitly in Fig. 2B. This result follows from expanding the determinant by minors on its fourth column and noting that the 3 × 3 determinants multiplying each fi are just the ones described above.""
+
+To understand the full context you will probably have to read the beginning of the passage, which is also very short. Yet my question is specifically regarding the formulated relationship between the stationary vector v of the Markov transition-matrix M and the Adj(M'), which is Adj.(M-I). As they say: Every row of Adj.(M') is proportional to v, which is sort of intuitive looking at Eq. 2, but I simply do not understand how they got that. Also the immediately following conclusion that the elements of v are the 3x3 column determinants of M' if you were to eliminate from the bottom of the fourth column.
+
+Also to point out a petty mistake but v · f ≡ D(p; q; f) can't be correct as the dimensions do not link up correctly. v' · f ≡ D(p; q; f) is correct. But yet again I grasp that this formulation makes sense, but fail to understand how this can be arrived at.
+
+If you can point me in the direction of a book or can flat-out explain this to me, I would be very obliged.
+
+Thanks in advance o_s",,False,,t5_2s5dh,False,,,True,t3_yf9dl,http://www.reddit.com/r/puremathematics/comments/yf9dl/question_regarding_technicalities_in_the_paper/,
+1343233435.0,1,self.puremathematics,x4yb3,Why did it happen that humans first described quantity as elements of an abelian group (Z)?,,1,0,0,http://www.reddit.com/r/puremathematics/comments/x4yb3/why_did_it_happen_that_humans_first_described/,"I've been wondering about this recently.  I guess there are two subquestions: 1) is there an alternative and 2) if not, why?
+
+I realize that I may just be thinking about this the wrong way, but if that's the case, the explanation of how I should be thinking about this should be equally as helpful.  ",,False,,t5_2s5dh,False,,,True,t3_x4yb3,http://www.reddit.com/r/puremathematics/comments/x4yb3/why_did_it_happen_that_humans_first_described/,
+1340866001.0,1,self.puremathematics,vqac8,HELP: Finding the Dirichlet Boundary condition,kimjongok,1,0,0,http://www.reddit.com/r/puremathematics/comments/vqac8/help_finding_the_dirichlet_boundary_condition/,"Hey, the issue I'm having is attached to the image below. I have a circle topological object (say a tooth). I'm trying to find the equation ""u"" so that I can use it to make a conformal flattening map of the tooth. The equation for points on the inside is solved to satisfaction in the paper, but I cant find the boundary function g. Everywhere I've looked online it says its known, but somehow known not to me. I hope you can help me :)
+
+Thanks!! 
+
+
+http://imgur.com/FDZx4",,False,,t5_2s5dh,False,,,True,t3_vqac8,http://www.reddit.com/r/puremathematics/comments/vqac8/help_finding_the_dirichlet_boundary_condition/,
+1340679481.0,1,self.puremathematics,vly0w,A puzzle about the uncountability of the power set of the natural numbers.,schmendrick,1,0,0,http://www.reddit.com/r/puremathematics/comments/vly0w/a_puzzle_about_the_uncountability_of_the_power/,"Let me set up my puzzle in two parts.
+
+**Part 1.**
+
+Cantor's diagonal argument can be used to show that the power set of the natural numbers cannot be placed in 1-1 correspondence with the natural numbers. We can also understand the result to have to do with the cardinality of the set of functions from the natural numbers to {0,1} -- that is the cardinality of the set of functions from the natural numbers to {0,1} is greater than the cardinality of the natural numbers. We might further abstract away from talk of functions and simply understand the result to be about whether the set of infinite sequences of 0s and 1s can be placed in 1-1 correspondence with the natural numbers. By Cantor's diagonal argument, set of infinite sequences of 0s and 1s has greater cardinality than that of the set of natural numbers.
+
+So far, so good. I'm convinced.
+
+As a corollary, a presentation all sequences of 0s and 1s by pairing each member of the each sequence with a unique rational number in the following way is *impossible*:
+
+pair the first character of the first sequence with 0 + 1/2
+pair the second character of the first sequence with 0 + 2/3
+...
+pair the n^th character of the first sequence with 0 + n/n+1
+...
+...
+pair the i^th character of the j^th sequence with (i-1) + j/j+1
+...
+
+And so we could claim that presenting the range of each member of the set of all total functions from the natural numbers as a sequence which could be placed in 1-1 correspondence with the natural numbers is impossible. The cardinality of the smallest set containing every range is uncountable, so the number of elements in the union of all those ranges is uncountable by a theorem of set theory.
+
+And so presenting all the infinite sequences of 0s and 1s in a sequence of length omega is impossible.
+
+**Part 2.**
+
+If I'm thinking straight about functions from the natural numbers to {0,1} (and functions in general), I can represent any total function from the natural numbers as the union of all of its prefixes of finite length. In other words, if f:N --&gt; {0,1}, I can present the same information with the union of f {f | {0}} (f restricted to {0}) union {f | {0,1}} union ... . If this is indeed the case, for every natural number n, we can finitely represent *every* partial function defined on all the natural numbers up to and including n. If we form the sequence of 0s and 1s which is described the following way, then it seems that we can present ""in order"" every finite partial function from the natural numbers to {0,1}:
+
+first list all strings from {0,1}+ of length 1;
+next list all strings from {0,1}+ of length 2;
+... 
+
+For any n, we have provided all functions from the natural numbers up to n inclusive to {0,1}. And so, we've also provided every string of length 1 to n from {0,1}. But if this is the case, haven't we also provided that which was to be impossible from Part 1? In other words, haven't we presented all infinite sequences of 0s and 1s in a sequence of 0s and 1s that has length omega?",,False,,t5_2s5dh,False,,,True,t3_vly0w,http://www.reddit.com/r/puremathematics/comments/vly0w/a_puzzle_about_the_uncountability_of_the_power/,
+1332915436.0,1,self.puremathematics,rh6w6,Integrating a NURBS/Bezier patch in 3D,triggerfish1,1,0,0,http://www.reddit.com/r/puremathematics/comments/rh6w6/integrating_a_nurbsbezier_patch_in_3d/,"The area element in 2D for integration is: dA = dxdy
+
+But how can I compute the area element in 3D? (e.g. area of a nurbs) I have a parametrical representation xyz = f(xi, eta) and am already building the functional determinant for the 2D integration (just using xy = f(xi,eta)).
+
+Couldn't get any help in /r/learnmath...",,False,,t5_2s5dh,False,,,True,t3_rh6w6,http://www.reddit.com/r/puremathematics/comments/rh6w6/integrating_a_nurbsbezier_patch_in_3d/,
+1332102011.0,1,self.puremathematics,r2e9m,How to find the difference between two binomials that share a similar component,SuperNerdy,1,0,0,http://www.reddit.com/r/puremathematics/comments/r2e9m/how_to_find_the_difference_between_two_binomials/,"(a+b)^n minus (a+c)^n
+
+Additionally, what happens when you add 1 to the first coefficient (ie, 2a^n, instead of 1a^n) to the expansion of one of the binomials.
+
+If we can constrain this to just integers and n&gt;2, are there any interesting patterns or useful methods?",,False,,t5_2s5dh,False,,,True,t3_r2e9m,http://www.reddit.com/r/puremathematics/comments/r2e9m/how_to_find_the_difference_between_two_binomials/,
+1326242147.0,1,self.puremathematics,oblgf,"Is a smoothing operator always compact? If so, what's the idea behind the proof?",DarylHannahMontana,1,0,0,http://www.reddit.com/r/puremathematics/comments/oblgf/is_a_smoothing_operator_always_compact_if_so/,"Let's say a bounded, linear operator      `[; K: H (U) \to H (U) ;]` where U is some subset of R^n, H is some Hilbert space (       `[; L^2 or H^1 ;]` ) such that the image of K is in      `[; C^\infty (U) ;]` .
+
+Then K is a compact operator, right? What is the basic idea of the proof of this?",,False,,t5_2s5dh,False,,,True,t3_oblgf,http://www.reddit.com/r/puremathematics/comments/oblgf/is_a_smoothing_operator_always_compact_if_so/,
+1316360463.0,1,self.puremathematics,kjk85,Haar measure on the sphere?,cowgod42,1,0,2,http://www.reddit.com/r/puremathematics/comments/kjk85/haar_measure_on_the_sphere/,"While reading [this recently famous paper](http://arxiv.org/abs/math/0702079) [arXiv link], I came across the use of the Haar measure on S^n .  Being a PDE guy, I am only mildly familiar with the Haar measure.  As I understand it, you need a locally compact group structure on the set you are interested in.  However, I only know group structure on S^1 (complex multiplication) and S^3 (quaternion multiplication).  Is it possible to construct a group structure on general S^n ?  (I know, for example, only n=1 and n=3 have Lie group structures.)  If not, what do the authors mean by ""the Haar measure on S^n ""?  (In the paper,  they actually look at S^n-1 with n &amp;#8805; 2.)
+
+**Note:** If this is the wrong place to post this, I humbly apologize in advance.",,False,,t5_2s5dh,False,,,True,t3_kjk85,http://www.reddit.com/r/puremathematics/comments/kjk85/haar_measure_on_the_sphere/,
+1312859863.0,1,self.puremathematics,jd38e,tips for a nervous math grad student,,1,0,0,http://www.reddit.com/r/puremathematics/comments/jd38e/tips_for_a_nervous_math_grad_student/,I just finished my bachelors degree in mathematics. I applied to graduate school and I'm now a PhD student in pure mathematics hoping to one day be a research algebraist. My first year classes start at the end of August and I'm super nervous as a new grad student. Any tips for a girl starting out?,,False,,t5_2s5dh,False,,,True,t3_jd38e,http://www.reddit.com/r/puremathematics/comments/jd38e/tips_for_a_nervous_math_grad_student/,
+1305779315.0,1,self.puremathematics,hesel,What is this type of polynomial called?,slackeur,1,0,0,http://www.reddit.com/r/puremathematics/comments/hesel/what_is_this_type_of_polynomial_called/,"Is there a special name for an n-variate polynomial where each term has exactly k variables and there are n-choose-k terms? For example, if n=5 and k=3, the polynomial is
+
+[; x_1 x_2 x_3 + x_1 x_2 x_4 + x_1 x_2 x_5 + x_1 x_3 x_4 + x_1 x_3 x_5 + x_1 x_4 x_5 + x_2 x_3 x_4 + x_2 x_3 x_5 + x_2 x_4 x_5 + x_3 x_4 x_5.;]
+
+I've looked through the Wikipedia article on [polynomial topics](http://en.wikipedia.org/wiki/List_of_polynomial_topics) and didn't see anything that obviously matched. My goal is to evaluate these polynomials for very large n and k (say, 1000 and 500). Any advice would be much appreciated.",,False,,t5_2s5dh,True,,,True,t3_hesel,http://www.reddit.com/r/puremathematics/comments/hesel/what_is_this_type_of_polynomial_called/,
+1304043425.0,1,self.puremathematics,gztk4,I'm looking for important undergraduate-understandable mathematics publications,,1,0,0,http://www.reddit.com/r/puremathematics/comments/gztk4/im_looking_for_important/,"Can anyone recommend me mathematics papers that won't go over my head, but yield important results? I have experience with calculus and discrete mathematics, but I wouldn't mind at all having to learn a more to understand what a paper says. Thanks.",,False,,t5_2s5dh,False,,,True,t3_gztk4,http://www.reddit.com/r/puremathematics/comments/gztk4/im_looking_for_important/,
+1301806943.0,1,self.puremathematics,ghhge,Please help with some group theory!,zelmerszoetrop,2,1,0,http://www.reddit.com/r/puremathematics/comments/ghhge/please_help_with_some_group_theory/,"Let G be a group with presentation G=&lt;S|R&gt;, where |S|=n is n generators, and |R|=k&lt;n is less than n relations.  
+
+Can it be shown that G is not trivial?
+
+My intuition is to show that given any set of elements of Fn (the free group on n generators), if that set has less than n members then the normalizer is not the whole group.
+
+But I don't know how.",,False,,t5_2s5dh,False,,,True,t3_ghhge,http://www.reddit.com/r/puremathematics/comments/ghhge/please_help_with_some_group_theory/,
+1294811477.0,1,video.google.com,f0q2c,Space of immersions of S^2 in R^3 is path connected,sombrero66,2,1,1,http://www.reddit.com/r/puremathematics/comments/f0q2c/space_of_immersions_of_s2_in_r3_is_path_connected/,,,False,,t5_2s5dh,False,,,False,t3_f0q2c,http://video.google.com/videoplay?docid=-6626464599825291409#,
+1293649048.0,1,self.puremathematics,et7p0,Construction of the Natural Numbers and Addition,,4,3,3,http://www.reddit.com/r/puremathematics/comments/et7p0/construction_of_the_natural_numbers_and_addition/,"I got On Numbers and Games for Christmas and I've been reading through it a little bit and Conway (like all textbooks I've read) doesn't really define addition he just assumes it. Now assuming the standard construction of the natural numbers i.e.
+
+0:=|{}|
+
+1:=|{{}}|
+
+2:=|{ {},{{}} }|
+
+etc
+
+How does one define addition, it occurs to me that if you consider the sets that two integers n and m correspond to then n+m could be defined as the cardinality of their disjoint union. Then the negative numbers could of course be defined as their additive inverses, then define division and mutliplication, etc. Is there a more elegant method for defining addition?",,False,,t5_2s5dh,False,,,True,t3_et7p0,http://www.reddit.com/r/puremathematics/comments/et7p0/construction_of_the_natural_numbers_and_addition/,
+1376602241.0,0,self.puremathematics,1kg282,"Question on analytical tools/methods for solving nonlinear, high-dimensional, and/or chaotic dynamical systems",ba1018,1,1,0,http://www.reddit.com/r/puremathematics/comments/1kg282/question_on_analytical_toolsmethods_for_solving/,"Hey /r/puremathematics.
+
+I'm an undergrad studying math, and I've been attracted to differential equations, differential geometry, and (though I've never studied this last one, I'm extremely curious) differential topology.
+
+From doing undergrad coursework and some guided mathematical modelling with a professor on campus, I've gotten the sense that there are very few general, analytical methods for untangling highly nonlinear, chaotic, or high dimensional ODE/PDE systems. 
+
+Although I've had very limited exposure to advanced, rigorous ODE/PDE theory, I can't help but think there must be undiscovered powerful methods and mathematical tools for analyzing such complex systems without resorting to numerical methods. If anyone could briefly explain/point me to some results or contentious, open questions with respect to analytical solutions of general nonlinear ODEs or PDEs, I'd love to do some reading/research.
+",,False,,t5_2s5dh,False,,,True,t3_1kg282,http://www.reddit.com/r/puremathematics/comments/1kg282/question_on_analytical_toolsmethods_for_solving/,
+1369922755.0,0,self.puremathematics,1fc4la,What is the Taylor Series expansion of nCr?,MrMag1c,2,2,1,http://www.reddit.com/r/puremathematics/comments/1fc4la/what_is_the_taylor_series_expansion_of_ncr/,"If f(x)=n!/((n-x)!x!) where n is any real number, what is the Taylor series expansion of f(x) in terms of n?",,False,,t5_2s5dh,False,,,True,t3_1fc4la,http://www.reddit.com/r/puremathematics/comments/1fc4la/what_is_the_taylor_series_expansion_of_ncr/,
+1365449870.0,0,self.puremathematics,1bxr0q,References Spline theory,VladaDnepr,0,0,0,http://www.reddit.com/r/puremathematics/comments/1bxr0q/references_spline_theory/,"Hello to everybody. Could anybody, please, suggest a list of books or articles related to the theory of splines, where do I start learning this theory and what background is required ? Could you also sort the sources based on how advanced they are?  I would also like to know the usefulness of spline theory in the industry. Thank you.",,False,,t5_2s5dh,False,,,True,t3_1bxr0q,http://www.reddit.com/r/puremathematics/comments/1bxr0q/references_spline_theory/,
+1364724852.0,0,self.puremathematics,1bcp34,Graph (Network) Theory,Mathemagic21,1,1,1,http://www.reddit.com/r/puremathematics/comments/1bcp34/graph_network_theory/,"Hey guys, so here's the question:
+
+In any network G = {N,A}, let d(i) be the degree of node i which is the number of arcs that intersect at node i. Prove that each network has an  **even** number of nodes of **odd** degree.
+
+Just in case there may be some notation differences, G = {N,A} consists of finite collection of points, called **nodes** (denoted by set N) and a collection of unordered pairs of points taken from N called **arcs** (denoted by set A). Each arc is a line joining a pair of points.
+
+I asked my lecturer about this question and how to start it off and all he said was... ""Euler""... =.=""",,False,,t5_2s5dh,False,,,True,t3_1bcp34,http://www.reddit.com/r/puremathematics/comments/1bcp34/graph_network_theory/,
+1361286768.0,0,paroleface.wordpress.com,18tjo7,What is the minimum number of elements two normal subgroups G* and G’ of G may have such that |G*| = |G’| but G* != G'?,Arsenide,1,1,0,http://www.reddit.com/r/puremathematics/comments/18tjo7/what_is_the_minimum_number_of_elements_two_normal/,,,False,,t5_2s5dh,False,,,False,t3_18tjo7,http://paroleface.wordpress.com/2013/02/19/a-group-theory-question/,
+1354673582.0,0,self.puremathematics,14aqxw,Tate's Thesis,belf07,1,1,0,http://www.reddit.com/r/puremathematics/comments/14aqxw/tates_thesis/,"I'm interested in reading Tate's Thesis. I have the background in basic number theory, but I haven't read much about locally compact abelian groups, which I understand is much of the technical side of it. Does anyone have a favorite source the spells out the basics of harmonic analysis on groups, specifically the material needed to understand, say, Pontryagin duality? I've heard the Rudin's book as well as Folland's are solid, but I haven't found anyone who has much experience with them, and I know too little about this area to determine if they are good reading.
+
+In any case, has anyone read Tate's Thesis? I know that an exposition is contained in Lang's book on algebraic number theory, as well as in Cassels-Frohlich. I'd be curious to know if anyone has a preference for one exposition or the other, or a different one entirely. ",,False,,t5_2s5dh,False,,,True,t3_14aqxw,http://www.reddit.com/r/puremathematics/comments/14aqxw/tates_thesis/,
+1331908961.0,0,self.puremathematics,qzetp,A question about PDEs and Laplace Transforms,etherteeth,1,1,7,http://www.reddit.com/r/puremathematics/comments/qzetp/a_question_about_pdes_and_laplace_transforms/,"I'm having some trouble with solving a PDE (specifically the heat equation) via the Laplace transform, and my textbook isn't being much help. Bear with me, because this will be a little bit ugly from a formatting perspective.
+
+Here's the initial boundry value problem:
+
+PDE: du/dt = (a^2 ) * (d^2 u/dx^2 ) 
+
+BC: u(0,t) = 0 ; u(1,t) = 1
+
+IC: u(x,0) = 0
+
+Transforming the problem yields the following boundry value problem:
+
+ODE: w''(x,s) = (s/a^2 ) * w(x,s)
+
+(The derivatives are with respect to x)
+
+BC: w(0,s) = 0 ; w(1,s) = 1/s
+
+Solving this (and doing a fair bit of algebra), I've been able to come up with the same solution as my textbook for the ODE in the s-domain. For simplicity's sake, I'm going to set b = sqrt(s)/a for this solution:
+
+w(x,s) = (1/s)*(sinh(bx)/sinh(b))
+
+The problem arises when taking the inverse transform. The inverse laplace transform itself requires integration in the complex plane, and I haven't taken complex analysis yet, so I'm limited to use of tables and computers. Unfortunately, WolframAlpha hasn't been much help in taking this particular inverse transform, and I won't have time to make it into my school's computer lab to get on Mathematica/Maple to find the solution. 
+
+The solution my book gives for the inverse transform (and thus the PDE in the t-domain) is as follows:
+
+u(x,t) = x + (2/pi)*(the sum from n=1 to infinity of: (((-1)^n /n) * e^(-t*(n*pi)^2 ) * sin(n * pi * x))
+
+I understand how this solution satisfies the original IBVP, and I understand how the solution I got in the s-domain satisfies the BVP, but I'm getting stuck on how the above u(x,t) is the inverse transform of the above w(s,t).",,False,,t5_2s5dh,False,,,True,t3_qzetp,http://www.reddit.com/r/puremathematics/comments/qzetp/a_question_about_pdes_and_laplace_transforms/,
+1324258582.0,0,reddit.com,nhwk1,Topology and Perspective - I feel this subreddit is more appropriate for the topic,JungleJesus,2,2,2,http://www.reddit.com/r/puremathematics/comments/nhwk1/topology_and_perspective_i_feel_this_subreddit_is/,,,False,,t5_2s5dh,False,,,False,t3_nhwk1,http://www.reddit.com/r/math/comments/nh76k/topology_and_perspective/,
+1319930746.0,0,self.puremathematics,ltmm1,Does anyone know where to get Set Theory Lectures?,chunsa,1,1,0,http://www.reddit.com/r/puremathematics/comments/ltmm1/does_anyone_know_where_to_get_set_theory_lectures/,I am taking Set Theory and not getting it at all we are using Intro to Set Theory by Hrbacek and Jech and I don't understand anything they write.,,False,,t5_2s5dh,False,,,True,t3_ltmm1,http://www.reddit.com/r/puremathematics/comments/ltmm1/does_anyone_know_where_to_get_set_theory_lectures/,
+1302227986.0,0,self.puremathematics,gl7n9,Question about quotient groups.,,5,5,6,http://www.reddit.com/r/puremathematics/comments/gl7n9/question_about_quotient_groups/,"Is the following true?
+
+Let G be a group and N a normal subgroup of G. If N/G is trivial, then N = G.",,False,,t5_2s5dh,False,,,True,t3_gl7n9,http://www.reddit.com/r/puremathematics/comments/gl7n9/question_about_quotient_groups/,
+1298452824.0,0,self.puremathematics,fqxme,"Dear Reddit, how do you read this: L: Y(u) c= α(u) + β(u)X(u) + W(u)",itsallinurhead,2,2,6,http://www.reddit.com/r/puremathematics/comments/fqxme/dear_reddit_how_do_you_read_this_l_yu_c_αu_βuxu_wu/,"I think this is the best place to ask...
+
+Also, context if requested.",,False,,t5_2s5dh,False,,,True,t3_fqxme,http://www.reddit.com/r/puremathematics/comments/fqxme/dear_reddit_how_do_you_read_this_l_yu_c_αu_βuxu_wu/,
+1372950008.0,0,self.puremathematics,1hmwsm,Have you ever read Euclid?,,3,4,7,http://www.reddit.com/r/puremathematics/comments/1hmwsm/have_you_ever_read_euclid/,"100 years ago Euclid's Elements was standard reading for every student of mathematics. Now, constructive geometry seems to be a lost subject in schools. I'm going into my final year of my undergrad in the fall (math major) and this summer I decided to start reading it, as I regretted how very little I knew of non-analytic geometry. I'm finding it genuinely enjoyable, and the ingenuity of some of the proofs is truly remarkable. Further, actually doing some ruler-compass constructions makes for great problems. So my question is have you ever consulted this book, the most highly read math book of all time? If not, have you studied an alternative (preferably from a more advanced view since you've started studying math in higher education), or is your knowledge of classical geometry as limited as mine was before I started reading it?",,False,,t5_2s5dh,False,,,True,t3_1hmwsm,http://www.reddit.com/r/puremathematics/comments/1hmwsm/have_you_ever_read_euclid/,
+1361249028.0,0,self.puremathematics,18st7x,Equation of Curve Between Two Lines,climbertom,1,2,2,http://www.reddit.com/r/puremathematics/comments/18st7x/equation_of_curve_between_two_lines/,"I'm looking for an function that describes a curve between two lines or asymptotes.
+
+I have test data that shows a linear initial section yielding to a section linear section. Two years ago I ran into a formula that described a line that started at one slope, then curved in a transition to a second slope. The function took in as parameters the slope of the initial line and a point on the line, the same for the second line, and a constant to describe the sharpness of the curve.
+
+If anyone knows a formula of this sort, or is willing to take on the task of deriving one, I'd greatly appreciate it. Much karma to whoever solves it!
+
+I'm not sure if this is the right forum for this - truth be told this is my first time venturing into this subreddit. If there's somewhere else I'd do better to post this, please let me know. Thanks!",,False,,t5_2s5dh,False,,,True,t3_18st7x,http://www.reddit.com/r/puremathematics/comments/18st7x/equation_of_curve_between_two_lines/,
+1360580517.0,0,self.puremathematics,18axf5,Prime Ideals,dem503,3,4,1,http://www.reddit.com/r/puremathematics/comments/18axf5/prime_ideals/,"I'm doing some research into Prime Ideals, but I'm having some trouble finding examples of it apart from the 'obvious' ones, can anyone point me in the direction of some decent resources on the subject?",,False,,t5_2s5dh,False,,,True,t3_18axf5,http://www.reddit.com/r/puremathematics/comments/18axf5/prime_ideals/,
+1354635864.0,0,self.puremathematics,149kex,Question: let note f(x) = O(g(x)) this f(x)&lt;MG(x) being M a constant - would it be true?,foolship,2,3,0,http://www.reddit.com/r/puremathematics/comments/149kex/question_let_note_fx_ogx_this_fxmgx_being_m_a/,"If f(n)=o(n^u) then Sum(1&lt;n&lt;x)f(n)=O(n^u+1) and Int(1,x)dnf(n)=O(n^u+1) ",,False,,t5_2s5dh,False,,,True,t3_149kex,http://www.reddit.com/r/puremathematics/comments/149kex/question_let_note_fx_ogx_this_fxmgx_being_m_a/,
+1337739929.0,0,self.puremathematics,u0cm8,A few questions about rotational solids(from an AP Calc student),King_Steve,3,4,0,http://www.reddit.com/r/puremathematics/comments/u0cm8/a_few_questions_about_rotational_solidsfrom_an_ap/,"I was just wondering a few things about rotational solids and my calc teacher couldn't answer them for me.
+
+1.Take a function f(x)=x^2, then rotate f(x) around an axis. The volume of the resulting solid equals pi times the finite integral of f(x)^2 dx from a to b, can it be integrated in the same method (i.e. rotation around an axis) to determine hypervolume from any value a to b, and if so, how?
+
+2.Same function, but an observation on rotations I'd like some critiques of; f(x) is 2D, but when viewed from a perspective where the center of your cone of vision is perpendicular to the x or y axes, it appears as a 1D line, and those are the only axes it can be rotated around to get a solid(can't do z, that's just a circle). My observation is that to get a figure of n+1 dimensions from a figure of n dimensions, you can rotate it around an axis where the figure appears to have n-1 dimensions. Is there a more accurate way to say that? It doesn't always work with 1D figures.
+
+I really hope some of you guys could help me with this, it's not homework or anything, this is all self-inflicted for the sake of knowing. ;)",,False,,t5_2s5dh,False,,,True,t3_u0cm8,http://www.reddit.com/r/puremathematics/comments/u0cm8/a_few_questions_about_rotational_solidsfrom_an_ap/,
+1336798492.0,0,self.puremathematics,tjaob,So recently learned about Graham's Number and I was wondering...,Indon_Dasani,2,3,7,http://www.reddit.com/r/puremathematics/comments/tjaob/so_recently_learned_about_grahams_number_and_i/,"I looked this up Wikipedia, mind, so if I demonstrate some fundamental lack of understanding of something I describe here, please correct me.
+
+When I was reading about [the method Graham used to describe his number](http://en.wikipedia.org/wiki/Graham's_number) I get the definite impression that he had developed an iterated hyperoperator method, which is to the Knuth [up-arrow](http://en.wikipedia.org/wiki/Knuth%27s_up-arrow_notation) what the up-arrow is to the exponent. But the articles I was reading didn't seem to treat that as significant, despite the fact that he had described a method to, as near as I can tell, 'hyperoperate' [hyperoperations](http://en.wikipedia.org/wiki/Hyperoperations) (and that in turn implies that you could develop functions that iterate that, and so on).
+
+So, is that significant? Or does it produce numbers of such ludicrous size that even the most novel math theory is unlikely to ever need such a concept? And if it is significant, has someone noted the significance and it's just not on Wikipedia?
+
+I'm hoping someone here has some math knowhow I don't to tell me what's up with that, or just to understand enough to tell me how I'm being silly.",,False,,t5_2s5dh,False,,,True,t3_tjaob,http://www.reddit.com/r/puremathematics/comments/tjaob/so_recently_learned_about_grahams_number_and_i/,
+1329936176.0,0,self.puremathematics,q18lt,proving homeomorphisms,zfolwick,2,3,9,http://www.reddit.com/r/puremathematics/comments/q18lt/proving_homeomorphisms/,"My proof techniques are not up to snuff, sadly, and I could use some assistance (office hours have been unproductive thus far).
+
+The question is: given C a simple curve in the plane, prove that every generalized cylinder determined by C is a regular surface.
+
+we have 3 conditions to check, right now, I've got that (for X a differentiable map), X(U)=V, and the differential of X at a point is injective, but need to show that X is a homeomorphism.
+
+My thinking is, since any point in the surface is simply an inclusion map from C in R^2 into R^3, then then X: U --&gt; V is certainly injective (U and V are subsets of C and the surface, S, respectively).  X is supposed to be differentiable, and therefore continuous.  Now I apparently only need to show that X^-1 is continuous.
+
+My understanding of how to do this:
+for any point p on the surface S, there is a neighborhood, V about p, such that 
+X^-1:V--&gt;U.  I'm sure there's more to it than that, but I'm not sure...help?
+",,False,,t5_2s5dh,False,,,True,t3_q18lt,http://www.reddit.com/r/puremathematics/comments/q18lt/proving_homeomorphisms/,
+1327662065.0,0,self.puremathematics,oz03i,Ask PureMath: are there other continuous probability distributions that have μ = 0 and σ ^2 = 1 other than the standard normal?,neug,2,3,9,http://www.reddit.com/r/puremathematics/comments/oz03i/ask_puremath_are_there_other_continuous/,"continuous probability distribution, μ = 0, σ ^2 = 1. Is the only solution the standard normal, can these pre-conditions be used to ""construct"" it unambiguously? Are there e.g. complex functions that satisfy these?",,False,,t5_2s5dh,False,,,True,t3_oz03i,http://www.reddit.com/r/puremathematics/comments/oz03i/ask_puremath_are_there_other_continuous/,
+1319695149.0,0,self.puremathematics,lqomv,Numbering System Converting,Hygumes,2,3,2,http://www.reddit.com/r/puremathematics/comments/lqomv/numbering_system_converting/,I have a question you could all help me with. How do you convert (39)base16 to base 7. And (B2.4C)base16 to octal.,,False,,t5_2s5dh,False,,,True,t3_lqomv,http://www.reddit.com/r/puremathematics/comments/lqomv/numbering_system_converting/,
+1314498738.0,0,self.puremathematics,jwo3w,Gradient Blues...,Ayakalam,3,4,2,http://www.reddit.com/r/puremathematics/comments/jwo3w/gradient_blues/,"Hey all,
+
+Argh! So I am about to shoot myself trying to figure out the solution to this 'simple' gradient. Just what is the solution to this exactly?? I drew the damn thing for everyone. Thanks. P.S: u[n] and x[n] are both column vectors, and the 'T' means transpose. e[n] is a scalar.
+
+[Heres the equation](http://imgur.com/BIGL5)",,False,,t5_2s5dh,False,,,True,t3_jwo3w,http://www.reddit.com/r/puremathematics/comments/jwo3w/gradient_blues/,
+1371946600.0,0,plus.google.com,1gvswl,Binary If-Functions,benthejunebug,2,4,0,http://www.reddit.com/r/puremathematics/comments/1gvswl/binary_iffunctions/,,,False,,t5_2s5dh,False,,,False,t3_1gvswl,https://plus.google.com/116046786444301972726/posts/fwzZywCcpRq,
+1369319088.0,0,self.puremathematics,1ewkcv,Yitang “Tom” Zhang's proof about the distribution of prime numbers,SindbadTheSailorMan,5,7,8,http://www.reddit.com/r/puremathematics/comments/1ewkcv/yitang_tom_zhangs_proof_about_the_distribution_of/,"can somebody please explain this [article](http://www.slate.com/articles/health_and_science/do_the_math/2013/05/yitang_zhang_twin_primes_conjecture_a_huge_discovery_about_prime_numbers.html) in simple words or simple equations.
+
+thank you",,False,,t5_2s5dh,False,,,True,t3_1ewkcv,http://www.reddit.com/r/puremathematics/comments/1ewkcv/yitang_tom_zhangs_proof_about_the_distribution_of/,
+1360450263.0,0,self.puremathematics,187sd1,ITT name the most structured mathematical object you know,budsauce,3,5,6,http://www.reddit.com/r/puremathematics/comments/187sd1/itt_name_the_most_structured_mathematical_object/,My pick: the [Variational Bicomplex](http://en.wikipedia.org/wiki/Variational_bicomplex).  So much structure!,,False,,t5_2s5dh,False,,,True,t3_187sd1,http://www.reddit.com/r/puremathematics/comments/187sd1/itt_name_the_most_structured_mathematical_object/,
+1354048857.0,0,self.puremathematics,13w4dq,Is their a solution to the problem my professor gave me? I think he made a mistake.,Malteb,2,4,7,http://www.reddit.com/r/puremathematics/comments/13w4dq/is_their_a_solution_to_the_problem_my_professor/,"I need a function f(x), where it goes that f'(x)&gt;0, f''(x)&lt;0, f(x) E (0;1) for all x E (-infiniti; + infiniti)
+
+I need a probability effect thats why E (0;1) for all x's. Besides that f'(x)&gt;0 og f''(x)&lt;0, so I can solve a maxsimizing problem.
+
+I just can solve it because at some point, you need a turning point which means, f'' = 0 right???
+
+I hope you can help.
+
+Sorry for my english. Non native speaker.",,False,,t5_2s5dh,False,,,True,t3_13w4dq,http://www.reddit.com/r/puremathematics/comments/13w4dq/is_their_a_solution_to_the_problem_my_professor/,
+1337801017.0,0,self.puremathematics,u1gcp,i = 0,tinyslayer,2,4,5,http://www.reddit.com/r/puremathematics/comments/u1gcp/i_0/,"e^(2i*pi*i) = 1
+
+2*i*pi = ln1
+
+2*i*pi = 0
+
+i*pi = 0
+
+i = 0
+
+Prove me wrong. I confused my self by doing this.",,False,,t5_2s5dh,False,,,True,t3_u1gcp,http://www.reddit.com/r/puremathematics/comments/u1gcp/i_0/,
+1303349328.0,0,self.puremathematics,guyfn,Probability Question,me1313,1,3,0,http://www.reddit.com/r/puremathematics/comments/guyfn/probability_question/,X is a random variable with mean 100 and standard deviation 30. Y is a random variable with mean of 50 and standard deviation of 25. The correlation between X and Y is 0.5. What is Var(Y|X)?,,False,,t5_2s5dh,False,,,True,t3_guyfn,http://www.reddit.com/r/puremathematics/comments/guyfn/probability_question/,
+1301840620.0,0,self.puremathematics,ghn6e,Graph theorists re-unite!,spacetits,2,4,0,http://www.reddit.com/r/puremathematics/comments/ghn6e/graph_theorists_reunite/,"Originally posted in r/math...
+
+Hey everyone! I am first year master's student at ETSU in Tennessee. I've taken a liking to graph theory and decided to do my research/thesis on domination related topics specifically:
+
+* Liar's Domination of Complementary Prisms and Grid Graphs
+
+Both Liar's Domination and Complementary Prisms were introduced by my advisors, so I think I'll have a pretty good time with it.
+
+Any other graph theorists here? (I wouldn't call myself a graph theorist...prospective graph theorist maybe)",,False,,t5_2s5dh,False,,,True,t3_ghn6e,http://www.reddit.com/r/puremathematics/comments/ghn6e/graph_theorists_reunite/,
+1346351684.0,0,self.puremathematics,z39ck,"Need help determining a certain situation's probability, please help Reddit!",NoHuddle,2,4,0,http://www.reddit.com/r/puremathematics/comments/z39ck/need_help_determining_a_certain_situations/,So I'm not super awesome at math. Setting up a fantasy football draft and wanted to know the odds of someone getting the #1 pick if we pulled names from a hat and assigned the draft order from 12-1. So 1 would obviously be the last name out. Help?,,False,,t5_2s5dh,False,,,True,t3_z39ck,http://www.reddit.com/r/puremathematics/comments/z39ck/need_help_determining_a_certain_situations/,
+1343459859.0,0,self.puremathematics,xagvu,Group Theory,Mathemagic21,3,6,4,http://www.reddit.com/r/puremathematics/comments/xagvu/group_theory/,"Hey guys, could I please get your help for this one?
+
+What is the order of each element of U(15), where G is the group (U(15) , ·`15`)?
+
+U(15) = {1,2,4,7,8,11,13,14}",,False,,t5_2s5dh,False,,,True,t3_xagvu,http://www.reddit.com/r/puremathematics/comments/xagvu/group_theory/,
+1336718518.0,0,en.wikipedia.org,thu6q,Discrete random variable entropy just blew my mind,ubershmekel,2,5,0,http://www.reddit.com/r/puremathematics/comments/thu6q/discrete_random_variable_entropy_just_blew_my_mind/,,,False,,t5_2s5dh,False,,,False,t3_thu6q,http://en.wikipedia.org/wiki/Entropy_(information_theory)#Definition,
+1330044668.0,0,jordan-jelinek.tumblr.com,q3c9t,"Thought of ""Prime Pairs"", Don't Know What Can Be Done With Them",jordan_jelinek,4,5,2,http://www.reddit.com/r/puremathematics/comments/q3c9t/thought_of_prime_pairs_dont_know_what_can_be_done/,,,False,,t5_2s5dh,False,,,False,t3_q3c9t,http://jordan-jelinek.tumblr.com/post/18154668927/introducing-prime-pairs,
+1324852270.0,0,self.puremathematics,nqjal,"So my Real Analysis Final had a T/F question on whether it was okay to use the term ""Clopen""... (X-post r/math)",zanotam,3,6,11,http://www.reddit.com/r/puremathematics/comments/nqjal/so_my_real_analysis_final_had_a_tf_question_on/,"and the correct answer was definitely false. Why? Because the teacher had basically gone on a mini-rant about using the term around the third week of class when someone referred to a set of the form (a,b] or [a,b) as ""clopen."" I just thought this was kinda funny, since it led to a question on the final. 
+
+Note: I thought you guys would get a laugh out of this and it was in a second semester of real analysis in which we began to cover general metric spaces, in prep for a grad level course on real analysis, so I thought it was high enough level to deserve a spot in puremathematics, maybe even liven the place up a bit.",,False,,t5_2s5dh,False,,,True,t3_nqjal,http://www.reddit.com/r/puremathematics/comments/nqjal/so_my_real_analysis_final_had_a_tf_question_on/,
+1322661313.0,0,self.puremathematics,mupkv,Deriving parametric equations of physical objects,Lymefrog,1,5,1,http://www.reddit.com/r/puremathematics/comments/mupkv/deriving_parametric_equations_of_physical_objects/,"I'm curious about deriving parametric equations from physical objects without the use of computation programs, i.e. the parabola formed on the corner of an iphone (probably a horrible example but it gets the point across)
+
+So yeah, TL;DR looking for some direction, a theorem, an explanation about deriving parametric equations of physical objects.",,False,,t5_2s5dh,False,,,True,t3_mupkv,http://www.reddit.com/r/puremathematics/comments/mupkv/deriving_parametric_equations_of_physical_objects/,
+1318371342.0,0,self.puremathematics,l8t5t,Why?! Derivative of Log Functions..,SacknJohn,2,6,2,http://www.reddit.com/r/puremathematics/comments/l8t5t/why_derivative_of_log_functions/,"The answer is option 6. I can derive this answer to the point before 8y/8y is subtracted. Why is this necessary or even allowed if you don't add one to the other side?
+
+[problem](http://i.imgur.com/NWoSC.png)",,False,,t5_2s5dh,True,,,True,t3_l8t5t,http://www.reddit.com/r/puremathematics/comments/l8t5t/why_derivative_of_log_functions/,
+1318120006.0,0,self.puremathematics,l5k30,So I did a bunch of drugs and wrote this speculative mathematical theorem yesterday. Can somebody tell me if it makes any sense? [X-Post from r/math],vicnovember,3,5,2,http://www.reddit.com/r/puremathematics/comments/l5k30/so_i_did_a_bunch_of_drugs_and_wrote_this/,"*Okayy*, so a bit of background first.  I don't work in the field of mathematics at all.  Or physics or chemistry or anything like that.  I was really good at math in high school, won a math award and everything, but that was almost 10 years ago (so long ago that I still call it ""math"" instead of ""maths"").  I'd be lost if you handed me a Grade 10 algebra book these days, to be honest.  But this made a lot of sense to me yesterday.  I don't know if this is bullshit or if it's already been thought of or if I just inadvertently broke new ground in a field I know nothing about.  I might cross-post this to r/puremathematics to see what the heavy-hitters think.  Anyway, hurr ya go!
+---
+
+**Missing Frames**
+By vicnovember
+
+
+As a sequence of uniform, countable elements approaches an uncountable infinity, we encounter an interesting phenomenon: the actual numerical (or absolute) value of these elements experiences a state of flux.  Allow me to illustrate.
+
+
+Imagine, for example, that we have two identical reels of 35mm film, each of which stretches for 2.5 billion feet.  The reels are identical in every way and when stretched taut, they line up precisely.  At 16 frames per foot, each reel should contain 40 billion frames.  However, when each frame is counted individually, the reels contain a potentiality for margin of error.  Each reel’s frame-count becomes, then, 40 billion +/- *x* frames.  And despite their identical lengths of 2.5 billion feet, the count has the potential for flux in either direction.  One reel may contain 40 billion frames plus 1; they other may contain 40 billion minus 3.
+
+
+Note that when using a phrase like “margin of error,” we must qualify that we are not referring to *human error*.  In a realist example, we would have to take into account the possibility that the 2.5 billion feet was not measured as precisely as possible.  Or that 75,000,000 frames were 1/100,000,000^th of a frame short, resulting in one less frame in the total count.  Or the fact that in reality, 35mm film stock is closer to 16.04 frames per foot.  We are not interested in precise calculations, only the theory of potential countability.
+
+
+Why, then, when all measurements are assumed to be uniform, do we still experience this state of flux?  
+
+
+The answer lies in the number itself.  The number “40 billion” was not chosen arbitrarily, but for the place it holds near the limit of individual human countability.  Continuously projecting a 40 billion-frame film at 24 frames per second would take over 50 years.  Assuming a count could be accurately maintained, it would take more than half a lifetime to achieve a result.  Now we must endeavor to count off each of the two reels in a closed environment, comparing the results only at the end of the process.  An identical result, as expected.  Predicted by the simple mathematics governing countable sets and thereby effectively removing this state of flux.  
+
+
+But what happens when we double the length of the film?  Quadruple it?  Exponentially increase it?  We are left with a *theoretically*-countable number of frames, but of such a vast number that it would take even a powerful computer centuries upon centuries to individually analyze.  We can have no *countable* confirmation that the mathematics will hold true.
+
+
+Thus, the very act of counting undermines the mathematical principles behind countable sets.  In direct contrast to a countably infinite set like {..., -1, 0, 1, 2, ...}, what we are describing is an *uncountably finite* set, such as {0, 1, 2, 3, …, 1x10^1000 }.   
+
+
+To say that we have 9 trillion feet of film which consequently contains 144 trillion frames is all well and good and mathematically sound *until we begin counting*.  Since we “know” the measurement of 9 trillion feet to be accurate, just as we “know” the measurement of 16 frames per foot to be accurate, the only thing that counting frame-by-frame is striving to prove is that 9 x 16 = 144.  Mathematics is not here in doubt.  *Infinity* is in doubt.  
+
+
+Can a finite number be *functionally* infinite?  The concept of *transfinite* numbers is well-known, i.e. numbers that are “infinite” in that they exceed all finite numbers but are not necessarily *absolutely* infinite.  What we are here postulating is a finite number whose usage is such that it functions as if it were infinite.  A functionally infinite number is one which is theoretically finite until we begin to count it.  
+
+
+It is therefore the very *process* of counting that renders the number’s actual value uncertain.  The absolute value of any cardinal number is easily determined by its integer – the absolute value of 3 is 3, the absolute value of 14 is 14, and so on.  [For simplicity’s sake, we are here discussing cardinal numbers rather than all rational, irrational or transcendental numbers.]   But as soon as a count begins, the number’s potential for infinity throws its absolute value into flux *until the count is either completed or abandoned*.  Like an inverse of Schrödinger’s cat (which exists in a quantum state of both life and death until observed), the uncountably finite number achieves a quantum state of both ""finity"" and infinity *while being counted*.  When the count is completed, the absolute value is affirmed.  If the count is abandoned, the number reverts to its accepted absolute value.
+
+
+This is not to suggest that in the counting process we might encounter an entirely new integer.  Or that an integer as it would appear in a complete sequence might slip from existence.  It is merely intended to illustrate the push-and-pull power that infinity holds over the absolute value of elements in a countable set.
+
+
+Just as *Tristram Shandy*’s eponymous narrator spends the entirety of his life writing his autobiography, only to find that the recounting of his life would require every available moment of his life many times over (in nine volumes, he succeeds only in recounting the story of his birth and accidental circumcision), we find that a countable set becomes functionally infinite very quickly.
+
+---
+Well, that's it.  I hope you had as much fun reading that as I did writing it.  Lemme know what you think, boys &amp; girls!
+
+vicnovember",,False,,t5_2s5dh,False,,,True,t3_l5k30,http://www.reddit.com/r/puremathematics/comments/l5k30/so_i_did_a_bunch_of_drugs_and_wrote_this/,
+1354821907.0,0,self.puremathematics,14eco0,"Help, I don't understand this problem",tonybanks,2,7,4,http://www.reddit.com/r/puremathematics/comments/14eco0/help_i_dont_understand_this_problem/,"Ok so I'm trying to figure it out. The problem says, 
+
+""The graph of y = |x| is translated 8 units to the right. Determine the equation that describes the transformed graph."" 
+
+Now, how am I supposed to solve this problem? What rule should I be following or thinking of? I couldn't think of anything except maybe like y = |x| - 8 or y = |x| + 8 
+
+The lines between x means the absolute value, right? So....I'm not sure, thanks guys. 
+
+Oh by the way the answer in textbook says: 
+
+""Since the graph of y = |x| is translated 8 units right, replace x with x-8. 
+
+y= |x| 
+y= |x-8|""
+
+I don't get it? ",,False,,t5_2s5dh,False,,,True,t3_14eco0,http://www.reddit.com/r/puremathematics/comments/14eco0/help_i_dont_understand_this_problem/,
+1343455297.0,0,self.puremathematics,xae8o,Groups and Subgroups,Mathemagic21,2,6,2,http://www.reddit.com/r/puremathematics/comments/xae8o/groups_and_subgroups/,"Hey Reddit! I need some hep trying to show the following is a group:
+Let A be a group and let B be a subgroup of A such that a-1ca є B for all a є A, c є B. We state G to be the set A × B = {(a,c)|a є A, c є B}. We state the binary operation * on G as the following:
+(a,c) * (h,d) = (ah, h-1chd), for all (a,c), (h,d) є G.
+Show in detail that (G , * ) is a group and that A is abelian iff G is abelian.",,False,,t5_2s5dh,False,,,True,t3_xae8o,http://www.reddit.com/r/puremathematics/comments/xae8o/groups_and_subgroups/,
+1341861634.0,0,self.puremathematics,wa9uo,is it possible to divide one object into three equal parts?,,3,6,9,http://www.reddit.com/r/puremathematics/comments/wa9uo/is_it_possible_to_divide_one_object_into_three/,"If 1/3 is .33333, then can you ever divide something into three equal parts? 
+
+If so, how?",,False,,t5_2s5dh,False,,,True,t3_wa9uo,http://www.reddit.com/r/puremathematics/comments/wa9uo/is_it_possible_to_divide_one_object_into_three/,
+1333158934.0,0,self.puremathematics,rlucj,Need help with a hyperbolic equation,darapixie,2,6,0,http://www.reddit.com/r/puremathematics/comments/rlucj/need_help_with_a_hyperbolic_equation/,"Hi everyone!
+
+I have a little problem here that I am trying to work out but I can't solve... Really the problem here is that I'm a terrible Mathematicain! But I'm here to learn!!!!
+
+The problem is simple (or at lease simply explained) and I have included a piece of a larger table (attached xls) that has all the information.
+
+I run a comic book shop and I am developing a website for selling the comics. Unfortunately I have to input the prices of the comics manually. My web developer has made things easier for me by creating a program that allows me to input the prices. Now, there is a price guide that I am using but there are some problems. First of all, there are 17 different grades for the comics (ie, NM+, mn, mn- vf+, vf,vf-) and so on. Now, the guide lists the prices in NM-, VF, f, VG and G. When I looked closely at the prices I realised that there was not a constant relationship between the values. For example, when a comic is valued at $3 NM-, the price of the same comic in the condition VF is 66% of the NM- price. But when the comic is priced at $100 NM- the VF price is only 45% of this value.
+
+The table below states the different values of NM-, beneath that is the percentage (expressed in decimal form) of that value. So what I was looking for was a formula to determine the percentages of the lower grades when the NM- value is input. The goal is to be able to integrate this formula into my website so I can accurately price all the comics.
+
+If anyone could show me how to solve this problem or even point me in the right direction I would be truly grateful as it would be a tremendous help!!!
+
+The link below is to an spreadsheet with the full table.
+
+https://docs.google.com/open?id=0BzyUKIgtK8CmZ1NVVUVxY2FURGlxM0FJbXNXSi1qZw
+ 
+
+Thanks in advance!",,False,,t5_2s5dh,False,,,True,t3_rlucj,http://www.reddit.com/r/puremathematics/comments/rlucj/need_help_with_a_hyperbolic_equation/,
